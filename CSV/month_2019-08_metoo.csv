@@ -1,0 +1,1357 @@
+tweet_id,user_id,hash_vector,mention_vector,like_count,retweet_count,time,pos_emotion,neg_emotion
+1157682253813755907,03c017f682085142f3b60f56673e22dc,MeToo,max smith|metoo,0,0,2019-08-03T17:58:52,0.0,0.0
+1159068183074131968,d47b4b7da4d258a8d65d05ed981a6113,BREAKING|Disabled|MeToo|News|TimesUp|Uber|UberEats|WednesdayWisdom|assaulted,metoo|uber|ubereats,0,1,2019-08-07T13:46:03,0.25,0.75
+1159716032337993729,e040e196fa6e8b529059ddc5ec819737,FridayMorning|FridayMotivation|FridayThoughts|MeToo|TommyLee|fridaymood,metoo,205,181,2019-08-09T08:40:23,0.5,0.5
+1159987212621975552,bb03e5546682bf9811d03da466b112bf,metoo,metoo|testosterone,0,0,2019-08-10T02:37:57,0.25,0.25
+1160787678222331904,66d2fe76b665b4bbed172f37389a12d8,AichiTriennale|artfreedom|comfortwomen|freesculpture|girlofpeacestatue|japan|korea|lovenohate|metoo|nonfreedomofexpression|southkorea|statueofpeace|wetoo|womensupport,japan|metoo,43,45,2019-08-12T07:38:43,0.25,0.0
+1163437933619269633,fcc109e493d845b1b35d7e381a9ecad1,MeToo,mark halperin|metoo|the guardian,0,0,2019-08-19T15:09:53,0.0,0.0
+1164860079486562305,6add421e5541359b8f835f292a8ca9af,HongKong|LiberateHK|metoo,hongkong|metoo|sexual abuse,0,0,2019-08-23T13:20:59,0.0,0.75
+1165773425798987776,19239ff5ec7c831d8039d1fc8a4aa2cc,MeToo,metoo,254,138,2019-08-26T01:50:18,0.0,0.0
+1167587631200272384,f477685ed4d89cbf37c19d705c45f1de,KAGA|MAGA|METOO|Mtnews|Veteran,lied|metoo,0,0,2019-08-31T01:59:18,0.0,0.5
+1160599631392321537,110d53a06d40ff112bb4600fa1022afa,ItsNotMeItsYou|TaxationIsTheft|metoo,metoo,20,10,2019-08-11T19:11:29,0.0,0.0
+1161316156860502024,d53f32e412564cb60903a027665c7c77,MeToo,metoo|placido domingo,0,0,2019-08-13T18:38:42,0.0,0.75
+1162215827334037504,fa720a498a19fa7426f317e95271fd22,metoo,metoo,2,6,2019-08-16T06:13:40,0.0,0.0
+1162802109278019584,8df2bc88de374e4c13d4a16f6c18cf18,MeToo|WordsMatter,foreign girls|metoo,72,53,2019-08-17T21:03:21,0.5,0.75
+1163286959889928192,f3fd52e3f52e1cf0086f6d41cbfb9054,MeToo,metoo,8,9,2019-08-19T05:09:58,0.0,0.0
+1164715018421776384,c893c9dc3bf93bee1feb5f21bb0a5ce7,Abalone|ChickLit|FridayMotivation|MeToo|WomensFiction|inspirational|literary,abalone|chicklit|metoo,83,150,2019-08-23T03:44:34,0.5,0.75
+1165405994693943297,efe4f9587362d8776f9c2aa81752cdc8,beyondsurviving|coachrachelsays|metoo|sexualabuse|shame|traumainformed,metoo|rachel grant,4,2,2019-08-25T01:30:15,0.0,0.75
+1165640454936776705,2fabb0a57873571c4958850628d2ae93,MeToo|Scotland|courts|crimes|justice|police|rape|sexualassault|women,justice secretary|metoo|rape|scotland,0,0,2019-08-25T17:01:55,0.0,0.75
+1166113415007391744,a6f9c9a5d01947be0b4f0bbf75f1e71b,MeToo,mcsweeneys|metoo movement,1,2,2019-08-27T00:21:18,0.25,0.0
+1166628746192965632,4f7288bfac67de294805dea3df96845f,BoycottIndianProducts|ChildrenRights|HumanRight|HumanTrafficking|Kashmiris|Metoo|antiracism|womenRights,kashmiris|metoo,0,0,2019-08-28T10:29:02,0.0,0.0
+1167196526596296704,df9e77676844c1fda46ad4534b4767e5,GuiltyPleasure|MeToo|RomanPolanski|TimesUp,metoo|more 4|the ninth gate|yr,1,1,2019-08-30T00:05:12,0.25,0.75
+1167369891944386560,b56bd14e1c92ea6b6adfbda6c7a4bd2d,MeToo|MenToo|WomensRights|fake,metoo|rape,61,40,2019-08-30T11:34:05,0.25,0.25
+1160998736115445760,ab04d282a2ddef331d142ec76099a452,MeToo,metoo,0,0,2019-08-12T21:37:23,0.5,0.0
+1164280590029467649,a455025d56577054fd8f98e2f884464f,MeToo,cyberstalking|essayist|metoo,37,39,2019-08-21T22:58:18,0.0,0.75
+1165142922372816896,a6c3e2666e8468e9fd08a09181874759,MeToo,metoo|smh,0,0,2019-08-24T08:04:54,0.0,0.0
+1165621408363438080,6410c54fe40065ec36af3774598d3596,feminism|metoo,metoo|sociopath,202,33,2019-08-25T15:46:14,0.0,0.5
+1165938204219969538,9fe416c51b46daec895ae9602a71f6b9,MeToo,annabella sciorra|harvey weinstein|metoo|rape,272,131,2019-08-26T12:45:04,0.0,0.75
+1166738737604300805,416719563690f9f5e73e66d63985d476,metoo|mgtow,metoo,0,0,2019-08-28T17:46:06,0.5,0.5
+1167041010179989504,93895348e6e49c8c0918c7bb42d78a9f,CPC|MeToo|cdnpoli,conservatives|cpc|lol|metoo,15,6,2019-08-29T13:47:14,0.25,0.0
+1157316053338337281,e20e2345aec3b16985ae559fdc2c8d9b,BlackLivesMatter|MeToo|SayHerName,anti racism|blacklivesmatter|gentrified|intersectionality|metoo|patriarchal|racism,0,0,2019-08-02T17:43:43,0.25,0.0
+1157320180508319745,4a7334b4fff3b5344b9e9538ac8db8e2,metoo,feminist|metoo,0,0,2019-08-02T18:00:07,0.25,0.5
+1157699460186681345,66d2fe76b665b4bbed172f37389a12d8,AichiTriennale|japan|metoo|wetoo|womencomfort|womenpower|yoshikoshimada,feminist|japan|japanese history|metoo|yoshiko shimada,3,6,2019-08-03T19:07:14,0.25,0.0
+1159974164373131265,0ef7df9ca8bb05ed393330f5f8c61488,EpsteinUnsealed|MeToo|OneVoice1|WORD,metoo|political party,536,329,2019-08-10T01:46:06,0.0,1.0
+1160112202877145088,66703dd29d3cfbf6b07fdd5ea394acd8,GE|MeToo,fbi|metoo|pacific mall|seema|whistleblower,0,0,2019-08-10T10:54:37,0.0,0.5
+1160575883167641601,44563a5d56ada7c4261caf67449d6a61,BLM|BernieOrBust|BirtherInChief|CorpMedia|DACA|Humanity|Idiocracy|MeToo|MegaBanks|NoDAPL|Occupy|Oligarchs|SDF|Union,daca|idiocracy|metoo|nodapl,0,0,2019-08-11T17:37:07,0.25,0.0
+1160601584088363008,c1c7c74d63a9f381e796c67428773e6b,MeToo,metoo|snap out of it,399,129,2019-08-11T19:19:15,0.25,0.5
+1162434183496634368,b07064ae7aca1d90d39d5cb37b2cab56,AndrewYang|KeanuReaves|MeToo|YangGang|YangGang2020,dodging bullets|keanu reeves|metoo movement|the matrix,57,18,2019-08-16T20:41:20,0.25,0.0
+1164799299814694913,eaffb0b7fe3a8768e302ee8b6aa07211,BoycottMulan|Disney|MeToo,metoo|sexually assault,0,0,2019-08-23T09:19:28,0.25,0.5
+1166379510528262145,deee3e79e8bd0a77084abde2d5ea30ae,metoo,metoo|the bravery,1902,440,2019-08-27T17:58:40,0.5,0.75
+1166740723271524352,e644ae0fc97e7f088f32c42ae3c0707b,MeToo,feminism|metoo,40,24,2019-08-28T17:54:00,0.0,0.0
+1157058871191453696,b56c7358062a4f4153c14f163f1e0f9a,MeToo,metoo|sexist,0,0,2019-08-02T00:41:46,0.0,0.25
+1157384967657152512,51b9ace1538c811dfc7cbe4d6e26ec59,MeToo,metoo,2,1,2019-08-02T22:17:34,0.5,0.0
+1157463994795380736,01311eaaf840c0b9a4edfb246eb4ba09,MeToo,metoo|predatory|soulcycle,0,0,2019-08-03T03:31:35,0.75,0.25
+1160356323935961088,b2a5825d2e802e532b2c12f0a6787f9e,BillCosby|Giuffre|MeToo|Weinstein|drugging|science|teacher|victims|weird|women,metoo,0,0,2019-08-11T03:04:40,0.5,0.5
+1160365475903266816,305948c248a488d6e594043513afb9c9,changetheculture|cheflife|kitchenlife|metoo,metoo|my boss|sexual harassment|sexually assaulted,0,0,2019-08-11T03:41:02,0.0,0.5
+1160998003173294080,d546ad01fee735e3ed159d12b293e39e,MeToo,california|metoo movement|sexual misconduct,0,1,2019-08-12T21:34:28,0.0,0.25
+1161714477319909377,7e552ae7128711b72f58fc27adc46200,MeToo,jeffrey epstein|metoo,0,0,2019-08-14T21:01:29,0.0,0.25
+1164249925166784512,23865cd52fe768fafa1f71b5209dde60,filmtwitter|metoo|trypod,metoo movement,9,14,2019-08-21T20:56:27,0.25,0.25
+1166036660653395968,7c360260482106e8c2dd53e4190f60b9,EyeforHK|FightForFreedom|MeToo|NoPoliceBrutality|ProtestToo|StandWithHongKong,metoo,0,1,2019-08-26T19:16:18,0.25,0.5
+1166802255527501825,788a3c686492c1cdc75fca637d403929,HomewreckerIlhan|MeToo,hashtag|hypocrisy|metoo movement|one way street,1,1,2019-08-28T21:58:30,0.25,0.5
+1167505590593183744,7c0f6bd7517504ff27890ebdbc346754,MeToo,feminism|metoo|sexist,0,0,2019-08-30T20:33:18,0.5,0.0
+1156908694120083456,017e8f7a2578457b32c6ae01ced9f660,SilentNoMore|metoo,metoo|sweetheart deal,0,0,2019-08-01T14:45:01,0.5,0.0
+1158320441926139904,92830d1a2de871e41e8d10b3657f0d46,metoo,feminist,45,16,2019-08-05T12:14:48,0.25,0.0
+1159241532467113984,9f9954c668dc9a66467b78c4ed6045b4,ACTOR|EnoughIsEnough|SagAftra|alpha|fbi|gay|gayrt|master|metoo|nypd,fbi|fdny|metoo|nypd|pantera|sadomasochistic|subliminal message,0,0,2019-08-08T01:14:53,0.0,0.75
+1160720121083715584,435f914bb3e2444b5b035d6e4bc9efcc,feminism|metoo,feminism|independent|metoo,0,0,2019-08-12T03:10:16,0.25,0.0
+1161343172359753728,a3fec3798328ab60301c3bac268b9add,MeToo,metoo,0,0,2019-08-13T20:26:03,0.0,0.0
+1162675377933713409,4d164b10cea4edaa9ab2ba25cb0dd1fa,LeavingNeverland|LiesOfLeavingNeverland|MeToo,leaving neverland|metoo,120,45,2019-08-17T12:39:46,0.5,0.5
+1163967615489855488,6fd9f5cd83b8058da9db5baf150b92d6,MeToo|RKelly|outsoon,metoo,0,0,2019-08-21T02:14:39,0.25,0.0
+1164196705534992385,ce81e8826d63999d8fd55c3bb712dc21,Metoo,heterophobia|metoo,0,1,2019-08-21T17:24:58,0.0,0.75
+1164800507208011778,f9dab0ce606a736c5d16d2cc72cf690a,MeToo|PoliceBrutality,metoo|rthk,3,4,2019-08-23T09:24:16,0.0,0.75
+1165373189666439169,19ddadb561beb8afc990e886dcf970c2,MeToo,cyber bullying|metoo|psych|sexual harassment|tweet,0,0,2019-08-24T23:19:54,0.5,0.5
+1157654911162736642,1d05f5030ccc495a07e0ad4a91ac0f43,MeToo|ViolenceAgainstWomen|femicide,femicide|metoo|violence against women,0,0,2019-08-03T16:10:13,0.0,0.0
+1158337190189043712,45ad1011a5b385c21b46dee3657d0f0e,metoo,fast company|metoo,0,0,2019-08-05T13:21:21,0.25,0.0
+1158463283541811202,a56ff0cea0ea2c707cb891529ef181be,Metoo,lol|metoo,0,0,2019-08-05T21:42:24,0.25,0.25
+1158790828992671745,d6d6c46ff49f2fff49366de9c917f62e,MeToo,metoo movement,22,7,2019-08-06T19:23:57,0.0,0.0
+1159449130948804610,93d3d5e0c7df2ac232371b84c8499311,MeToo,extraordinary ways|metoo|twitter|weibo,26,18,2019-08-08T14:59:48,0.0,0.75
+1159870918245724161,bc6f60baa2176a0df4bd4e42b320d25b,Epstein|MeToo|Rape|SexTrafficking|pedophile,harem|jeffrey epstein|metoo|pedophile|rape,34,45,2019-08-09T18:55:50,0.0,0.75
+1161063061588983809,85bb9f5c3ab08765317fcf5254e746ae,MeToo,financial crime|metoo|pedophiles|sexual abuse,2,4,2019-08-13T01:53:00,0.0,0.75
+1165277718809731073,d41d7b1000d254e4f6eb0096994cea9a,HKpopo|HongKongProtestors|HongKongProtests|PoliceBrutality|metoo,metoo,6,6,2019-08-24T17:00:32,0.0,0.0
+1166436600915456000,8b3a00595e39e1be6af34bd0cc8279b7,AllLivesMatter|Corrupt|FBR|FLOTITS|G7Summit|Immoral|Individual1|JustinTrudeau|MeToo|Racist|Resist|Resistance|SteamingPileOfTrump|Unbalanced|VeteransResist,metoo|racist,0,0,2019-08-27T21:45:31,0.0,0.5
+1166748141263056897,71ad0069fc92939cfea97f13a2532061,HongKongers|MeToo,hongkongers|metoo|sexual violence,0,0,2019-08-28T18:23:28,0.0,0.0
+1156731744814608385,c0b1bc6d39447ddd043ba7017c835b7c,metoo,feminism|metoo movement|rape,0,1,2019-08-01T03:01:53,0.0,0.75
+1157079184205762560,d3d0d75cd684b030269a70b080db5b9f,MeToo,ford|metoo,0,0,2019-08-02T02:02:29,0.25,0.0
+1157279411865104385,f81bf6e476f424eb24dd1f90815f49b4,MeToo,metoo,0,0,2019-08-02T15:18:07,0.25,0.0
+1159243067574013952,069a561399d3a9b6a039eb9403ac81bb,Blexit|BuildTheWall|FakeNews|GOP|KamalaHarrisDestroyed|KeepAmericaGrea|MAGA|MAGA2020|MeToo|NPC|OrangeManBad|QAnon|QAnons|QArmy|Trump2020|WWG1WGA|WalkAway,blexit|gop|metoo|npc|qanon|walkaway,0,0,2019-08-08T01:20:59,0.0,0.0
+1159578549147226114,9e3bf012a11acb10b3d33005d9cdb9e4,BrianBanksMovie|FakeMeToo|MeToo,metoo|you ll see,112,48,2019-08-08T23:34:04,0.0,0.0
+1160122340056977408,7307a2e442195b8f3cbf5a76987137fe,MeToo,metoo,1599,619,2019-08-10T11:34:54,0.0,0.75
+1162350132475695105,a27059c3850f1d639353b41d7cb58b3c,MeToo,dems|homophobe|metoo|misogynist|racist|recession|russia|tweets|xenophobe,0,0,2019-08-16T15:07:21,0.25,0.75
+1165430102185791488,5816531f87b0312abb70c1d5feb04924,3principles|adversityspeaker|africa|asia|europe|femalespeaker|internationalspeaker|leadership|me2|metoo|overcomingchallanges|reallife|southeastasia|speaker|speakerlife|speakingfromexperience|uk|usa|womeninbusiness,europe|metoo|usa,0,0,2019-08-25T03:06:03,0.0,0.25
+1165690420128604160,ab19a6361681e62090ddffd9a5063241,believesurvivors|believewomen|metoo|rape|sexualassault|timesup|whyididntreport,metoo|rape,0,1,2019-08-25T20:20:28,0.25,0.75
+1165710739299913728,9ac60581cb52b1cb1409d0f1c74dba2b,MeToo,herpes|metoo,2,1,2019-08-25T21:41:12,0.0,0.0
+1166023193133551619,8a9787dabd5c901eaf99259384f68adb,MeToo,bourgeois|cancel culture|histrionic|metoo|puritan,224,33,2019-08-26T18:22:47,0.0,0.0
+1166674908690051074,b8f60fa2aea19d854325718537754feb,MeToo|StandwithHK,chater garden|metoo,0,0,2019-08-28T13:32:28,0.0,0.0
+1166894414893109255,4fac70f581ca401d34edec1bd5a3f277,MeToo,blakely|google|metoo,0,1,2019-08-29T04:04:43,0.0,0.25
+1167378339625078789,0ef7df9ca8bb05ed393330f5f8c61488,MeToo|OneVoice1,epitome|metoo,152,128,2019-08-30T12:07:39,0.25,0.75
+1156747817412509696,bff1812043970b8d4b5e397950123c2a,MeToo,lingerie|metoo movement|middle east,0,0,2019-08-01T04:05:45,0.0,0.5
+1156893699512709123,f07fbc262d2c44af5d0c6cf1bcae10df,MeToo,metoo|sexist,0,0,2019-08-01T13:45:26,0.0,0.25
+1157854648495005696,24d21b07d3e44e8ae22b307e084f2867,believewomen|metoo,feminist|metoo,99,19,2019-08-04T05:23:54,0.5,0.25
+1158753688753565697,c760aa62b939f9c6ccf25b7cd0d73fce,MeToo,metoo movement,0,0,2019-08-06T16:56:22,0.0,0.75
+1158890312829325314,069a561399d3a9b6a039eb9403ac81bb,Blexit|BuildTheWall|FakeNews|GOP|KamalaHarrisDestroyed|MAGA|MAGA2020|MeToo|OrangeManBad|QAnon|QArmy|Trump2020|WWG1WGA|WalkAway,blexit|gop|metoo|qanon|walkaway,0,1,2019-08-07T01:59:16,0.0,0.75
+1160173703948382208,72ca56ced2cad555b6cb751284ca6786,MeToo,metoo,0,0,2019-08-10T14:59:00,0.0,0.0
+1160342474356903937,9c3a65019eafecad7f1dee7eb4121eb2,MeToo|Standwithvictims|facesofmetooethiopia|metooethiopia|metoomovement,metoo,0,0,2019-08-11T02:09:38,0.0,0.0
+1164308596638793729,8d15506392862216099dcbf828ad8f7b,CoreyFeldman|Hetoo|JeffreyEpstein|Metoo|Timesup,metoo,6,10,2019-08-22T00:49:35,0.0,0.0
+1156702804687249408,2e6615fc4b6b29a092ed36260e356aed,Gillette|MeToo|woke,metoo|sexist,9,14,2019-08-01T01:06:53,0.25,0.5
+1158754855604895746,d0830a7d94ee54173dbd6fc904c819f6,MeToo,hashtag|homophobia|metoo movement|social media,2,2,2019-08-06T17:01:00,0.0,0.5
+1158906420147806208,9f9954c668dc9a66467b78c4ed6045b4,ACTOR|EnoughIsEnough|LifeInDanger|MondayMotivation|SagAftra|WhiteSupremacistInChief|alpha|fbi|gay|gayrt|master|metoo|nypd,fbi|metoo|nypd|pantera,0,0,2019-08-07T03:03:16,0.0,0.5
+1161328647506137089,458482fe4dbd77c4ab69c7f04283a9c4,MeToo|sexualabuse|sexualharassment,metoo,0,0,2019-08-13T19:28:20,0.25,0.5
+1164401271429914624,68077298509ba860cd23714c44add0e6,ImpeachTrump|ImpeachmentHearingsNow|MeToo|ThursdayThoughts,metoo,2,2,2019-08-22T06:57:51,0.0,0.0
+1164489045428195331,5f218afb355cb16cb8cb9aeaaaa647b8,metoo,against me|domestic violence|dowry|metoo|my family,5,10,2019-08-22T12:46:38,0.0,0.25
+1165439103460151297,37cf69d69c98b0f8277377bcac759ac3,MeToo,ceo|metoo campaign,13,17,2019-08-25T03:41:49,0.0,0.5
+1166330673768140800,8d26ab9400d4027cdf6fc0dc39620eca,metoo,fad|metoo,0,0,2019-08-27T14:44:36,0.0,0.0
+1166728622788399106,cb9ba6018fa54aff2ab786002a6c6168,FreeHK|FreedomHK|StandwithHK|antiELAB|hongkongprotests|metoo,metoo,469,249,2019-08-28T17:05:55,0.0,0.25
+1166728778694840321,2eb4abb2a2c51a2fbb533e2572c0a1eb,HongKongProtests|MeToo|ProtestToo|hongkong,hongkong|metoo|sexual violence,40,33,2019-08-28T17:06:32,0.0,0.0
+1166750387258515457,ba9bf635b25036adcdae5efd500c2658,Bollywood|MeToo,aamir khan|bollywood|metoo movement,44,28,2019-08-28T18:32:24,0.0,0.0
+1166948255680233472,2f603a17fc5dc86c06742021d9a4b9c5,Haters|KHive|KamalaHarrisDestroyed|Kamalalies|KamalasFinished|MeToo|NeverKamala|propaganda,metoo|propaganda,0,0,2019-08-29T07:38:39,0.0,0.75
+1167595415820218368,7cee5866b7d01df335eb70875fea241a,HumanTrafficking|JeffreyEpstein|JeffreyEpsteinArrest|Metoo|Politics|SexualAssault|Trumpepstein|acosta|clinton|trump,jeffrey epstein|metoo,0,0,2019-08-31T02:30:14,0.0,0.0
+1157381081571758081,4b4d8cc2d845d059a1d97e8d1a8c7fb2,Metoo,metoo|nudity|playboy,3,3,2019-08-02T22:02:07,0.25,0.0
+1159324986533748737,7ee5421703037db1d5ea7f2c1900c3b0,metoo,metoo campaign,0,0,2019-08-08T06:46:30,0.0,0.75
+1159973287532756997,ba5815004d811b640f91212bea0681b9,METOO,metoo,0,0,2019-08-10T01:42:37,0.0,0.0
+1160419699110211584,5286a0c49dc1ba23aee64e09ed376ef2,Abuser|BoycottAmberHeard|JohnnyDepp|Justice|JusticeForJohnnyDepp|Metoo|Victim,metoo|tweet,0,1,2019-08-11T07:16:30,0.25,0.75
+1160905256978583552,2edca114e7d3bba4d5646ba00be97d15,MeToo|feminism,feminism|metoo,8,4,2019-08-12T15:25:56,0.0,0.25
+1161047570682122240,3f429e5d9b74fad4deb0976ce1562399,AmberHeard|Metoo,johnny depp|metoo movement,10,6,2019-08-13T00:51:26,0.25,0.75
+1161780396071301126,e7034a42eef6e4ce91b2130fb0c6ca4a,MeToo|Resist|TrumpIsARacist,bill o reilly|metoo|racist|sex offender|twitter,30,10,2019-08-15T01:23:25,0.0,0.75
+1162496404649938944,792a2c3fb3568131a78fcac9da7318d5,BLM|MeToo,anti war movement|metoo|tea party,0,0,2019-08-17T00:48:35,0.0,0.5
+1162763771330334721,25ad73640e7bae44651e5fbe7e6170d8,DueProcess|IWlaw|MeToo|lawtwitter,feminist|metoo,14,10,2019-08-17T18:31:00,0.0,0.0
+1167187721099599881,9824e98c412e848737686f38b1ef6223,metoo,metoo|sanity,0,0,2019-08-29T23:30:12,0.0,0.0
+1167192909793435650,1ac268d494df0cc11e28f00abe30eaba,MeToo,what if,22,8,2019-08-29T23:50:49,0.0,0.0
+1167344879216803841,3c755a3d1096be11ab592a83b245fbe2,MeToo,metoo movement,25,8,2019-08-30T09:54:42,0.25,0.75
+1167918180108386306,c794a54a29c2e261289acf4bc404912e,MeToo,civil suit|espn|metoo|sexually assaulted|yr,0,0,2019-08-31T23:52:47,0.5,1.0
+1157067427567624192,470243bb9a066b02950a38ad066431a4,MeToo|TimesUp,metoo,0,0,2019-08-02T01:15:46,0.25,0.5
+1157299086002925569,eae174f08532b30379f93b19b28c3f1a,MeToo,metoo,453,94,2019-08-02T16:36:18,0.0,0.25
+1158669554794582016,f409b602b616cfa7cd8ab12556157ac8,MeToo,metoo,23,24,2019-08-06T11:22:03,0.0,0.0
+1159324478553382912,dde3112ddf8861b9acb557e9d4abbb29,MeToo,metoo,8,8,2019-08-08T06:44:29,0.0,0.0
+1159461632776593410,371ae952587c6c3f51c252fbae6301b7,Chennai|metoo,metoo,0,0,2019-08-08T15:49:29,0.0,0.0
+1159991373354823681,f9f58824e1fffcae407088bf78303a68,MeToo,metoo,0,0,2019-08-10T02:54:29,0.0,0.0
+1161387019500773377,60949310ad2b1d155c48c5f4a9c48465,MeToo,metoo,519,53,2019-08-13T23:20:17,0.0,0.5
+1164672005393846272,d871463b3b023a9aec8d149a3aadcf5d,metoo,metoo,182,54,2019-08-23T00:53:39,0.0,0.0
+1164901552785694720,64be6328a30af516d42d9cbaef9b47a8,metoo,sexual assault|sportscenter,0,0,2019-08-23T16:05:47,0.25,0.5
+1165008016791547904,e25dfa423f47c5d435b8e9b54fd17cda,metoo,metoo|obgyn|pelvic exam,0,0,2019-08-23T23:08:50,0.25,0.25
+1166919762728742912,368b5347c02e5c879c180540567d8e3a,MeToo|antiLEAB,metoo movement|police misconduct|sexual harassment|strip search,46,23,2019-08-29T05:45:26,0.0,0.75
+1166943268669677568,d623276ea011cceb8430bd93b3836faa,MeToo,metoo|much afraid,0,0,2019-08-29T07:18:50,0.0,0.75
+1167278213170696197,50f591b064fb923ace134682f0aa3724,MeToo,metoo,0,0,2019-08-30T05:29:47,0.0,0.25
+1158419562326646790,aa3bfcad765d13ed79e8f421979c3f80,MeToo|ThisIsNotWorking,metoo|sexual harassment,58,34,2019-08-05T18:48:40,0.25,0.5
+1158509257333063680,d167eb610f15402da7b277e30b48404e,RacistInChief|WhitePeopleAgainstRacism|metoo|sexualharrassment,metoo|social media|stomach,0,0,2019-08-06T00:45:05,0.0,0.0
+1159121454970986496,80c2c8f2e13d5eb0f369f2aca40df3c3,MeToo,metoo,2695,133,2019-08-07T17:17:44,0.0,0.0
+1160814014798151680,42b480d7259aee57be237d233088c14e,metoo,bitcoin|dark enlightenment|libertarian|metoo|nick szabo,0,0,2019-08-12T09:23:22,0.25,0.75
+1162443543824257024,cf26fb099d313baceac27838da2e207b,MeToo|NoBanNoWall,metoo|you re missing the point,0,0,2019-08-16T21:18:32,0.25,0.5
+1163099942237409280,2a0671ff80bd52654f1a47c4646d7977,AbuseSurvivors|CSA|Empowered|Healing|Hope|MeToo|NoContact|NotSilent|PTSD|ToxicFamily|Trauma,blog|csa|metoo|ptsd,22,3,2019-08-18T16:46:50,0.5,1.0
+1163345186757496832,9c9238f4b455f0f50f1088bef42411f7,metoo,metoo,11,3,2019-08-19T09:01:21,0.0,0.75
+1164064202505502721,b8bdfa8b2e0874f57af7f09227efb6f4,metoo,ghislaine maxwell|jeffrey epstein|metoo|oral sex,59,79,2019-08-21T08:38:27,0.0,0.5
+1165203859645452290,ce6df51b12f065042c81f98ed0773687,MeToo,iim ahmedabad|metoo,80,39,2019-08-24T12:07:03,0.5,0.75
+1166480532055777282,f2c4411c3fd632c4d2016f592fff9780,MeToo,metoo,0,0,2019-08-28T00:40:05,0.25,0.75
+1166640485592707073,76642ee51e0e12fd5568268e630cb4a2,MeToo,israel|metoo|palestine,4,4,2019-08-28T11:15:41,0.0,0.75
+1167051810886078464,a21bc88aa41fc522aa19deac088bcb73,MeToo,cancel culture|metoo,0,1,2019-08-29T14:30:09,0.25,0.0
+1157447296709087232,9559d8acf18d77d05a6d8c7d2ea0e3c7,MeToo,metoo|toxic masculinity|usd,69,26,2019-08-03T02:25:14,0.0,0.0
+1158209575901773826,47f9eb3a1c865807e0b73711001588bc,MeToo,lady justice|metoo,3,2,2019-08-05T04:54:16,0.5,0.0
+1159250544961212418,58a6ad298861ef1bbfdd9b65a933624f,Metoo|TrudeauMustGo,metoo,27,9,2019-08-08T01:50:42,0.0,0.0
+1160242201122824192,f5c2ff859a6ba27f0903e1a65f87e41b,MeToo,metoo movement|pass you by|sexist,0,0,2019-08-10T19:31:11,0.0,0.5
+1160601078347513856,e7436207958ec70d006dabb4a218d74b,MeToo,alyssa milano|metoo movement|the numbers,0,0,2019-08-11T19:17:14,0.25,0.25
+1161742482368942082,c19d89db17a68b0efddccf9617906e7e,GoogleExposed|metoo,document dump|metoo|penalty box|project veritas|rape in germany,182,196,2019-08-14T22:52:46,0.0,0.75
+1162822008457105408,a568d77e31aae60819733d7a2ea74128,MeToo,bbl|metoo|the better sex,0,0,2019-08-17T22:22:25,0.5,0.0
+1164184993830191105,fe75d85865a8784fb677088fe66ed378,MeToo|NSAC2019,metoo,0,1,2019-08-21T16:38:26,0.0,0.0
+1160201711199240192,400e96e729eba53ab353e78eab5e2a77,ClintonBodyCount|MeToo|ReleaseTheEpsteinBlackBook,bill clinton|metoo|pedophile,67,65,2019-08-10T16:50:18,0.0,0.0
+1161744301711212544,b3383e60714681b7f487c90f05aa8352,MeToo,metoo movement|podcast,2,5,2019-08-14T23:00:00,0.0,0.25
+1162142960823103491,069a561399d3a9b6a039eb9403ac81bb,Blexit|BuildTheWall|GOP|MAGA|MAGA2020|MeToo|QAnon|QArmy|WWG1WGA|WalkAway,blexit|gop|hamas|metoo|qanon|walkaway,0,1,2019-08-16T01:24:08,0.0,0.75
+1162151228517826560,37cab627798939bdac3bf06c7b276964,MeToo,dahlia lithwick|metoo,67,23,2019-08-16T01:56:59,0.0,0.5
+1165971529680556032,64063a11047e8d5b1affd13bcae13555,PoliceBrutality|SexualHumiliation|metoo,metoo,2,3,2019-08-26T14:57:30,0.25,0.5
+1166347286575820802,2a0671ff80bd52654f1a47c4646d7977,AbuseSurvivor|CSA|MeToo|Narcissist|NotSilent|PTSD|SurvivorTough|TruthTeller,csa|metoo|narcissist|ptsd,45,11,2019-08-27T15:50:37,0.25,0.75
+1166730325742911489,e40337b1da46a45e7c1bc0fdfc6a1c1b,HongKong|HongKongProtests|MeToo|PoliceBrutality|ProtestToo|StandWithHK,hongkong|metoo|sexual violence,1,1,2019-08-28T17:12:41,0.0,0.25
+1167199125395230720,797c5d2ef02f06a528fce3f99013045f,MeToo,metoo,0,0,2019-08-30T00:15:31,0.0,0.75
+1159794404636446726,2a0671ff80bd52654f1a47c4646d7977,AbuseSurvivors|CSA|Empowered|Healing|Hope|MeToo|NPD|NationalBookLoversDay|PTSD|SacredWandering|SelfCare|Warriors,csa|metoo|npd|ptsd,0,0,2019-08-09T13:51:48,0.5,0.75
+1161080629469032448,507190ef7d1bd6a8501e3849ae03a4cc,HarassmentFreeNY|MeToo,get here|metoo|nys,7,3,2019-08-13T03:02:48,0.25,0.5
+1161842839787069440,44563a5d56ada7c4261caf67449d6a61,BLM|BirtherInChief|CorpMedia|DACA|Humanity|Idiocracy|MeToo|MegaBanks|NoDAPL|Occupy|Oligarchs|SDF|Union,bernie sanders|daca|donald trump|idiocracy|metoo|nodapl|senator bernie sanders|tweets,0,0,2019-08-15T05:31:33,0.0,0.25
+1163403872666341377,031270dbb7228c235a0d73290ab57009,MeToo|PlacidoDomingo,ard|blitzkrieg|metoo,1,1,2019-08-19T12:54:32,0.0,0.0
+1164996280705343488,72e57021b6527166a94b9180766d7b52,befierce|laraspencer|metoo,metoo movement,203,40,2019-08-23T22:22:12,0.0,0.5
+1165946203990908929,6cb65ff74785fafffdca68fb05549d97,metoo,metoo,49,30,2019-08-26T13:16:51,0.0,0.0
+1166379298325794817,c25d6dcbc6108d0a4143ef927dbbdb6d,FreeHK|FreedomHongKong|HongKongProtests|MeToo|ProtestToo,metoo,0,0,2019-08-27T17:57:49,0.5,0.0
+1166823932806279168,bd12a6be87aba74494492680419aa3df,Iran|Islam|MeToo|eupol|svpol,hijab|iran|islam|metoo,1,2,2019-08-28T23:24:38,0.0,0.0
+1157238953642209282,952d8f889de4729b155f8b9608a70f57,MeToo|edinburghfringe2019,menstruation|metoo,0,0,2019-08-02T12:37:21,0.5,0.0
+1157640027708329984,4dcd3f2c09b4f3de9d471e706d8c548c,MeToo,metoo,0,1,2019-08-03T15:11:05,0.0,0.0
+1159049471084380160,66703dd29d3cfbf6b07fdd5ea394acd8,GE|MeToo,fbi|metoo|seema|whistleblower,0,0,2019-08-07T12:31:42,0.5,0.5
+1159482683975774210,8cbff1d21742bf4438e1eb81888eb068,MeToo,metoo,0,0,2019-08-08T17:13:08,0.0,0.25
+1159847469951250432,911f06f7c72422fda3ac601dc6e9c3f7,MeToo,layoff|metoo|mgmt,113,20,2019-08-09T17:22:40,0.25,0.25
+1164013643744329728,fb2c36353c938da88add26df25fb8591,metoo,ebel|metoo|usmc,4,1,2019-08-21T05:17:33,0.25,0.5
+1164594344793219072,a5314581fcc58e1e2be6939d649e004d,FarmToTable|ForTheIndividual|HandmadeHour|MeToo|NOH8|SmallBiz|SustainableAgriculture|WeToo|environmentalawareness|handmade|smallbizsat|smallbusiness|sustainability,john doe|metoo|noh8|sustainability,1,2,2019-08-22T19:45:03,0.25,0.0
+1164642590592888832,3cc4210a50e6ff4deac8c70eef5b64e1,MeToo,bella thorne|metoo,145,26,2019-08-22T22:56:46,0.0,0.0
+1165698214688739328,bdc545041d09ce5c8e039210df216fa4,feminism|metoo,feminism|metoo,0,0,2019-08-25T20:51:26,0.0,0.0
+1166901154476974080,626ca69c1139574d108d902380584aa4,MeToo|ProtestToo,metoo|sexual misconduct,247,138,2019-08-29T04:31:29,0.0,0.0
+1167786609355427842,b57c0c08faf64c40b3818972717b5bd2,Celebrity|Immigrant|MeToo|academiclife|humanities|imperialism|popularculture|sexism,humanities|imperialism|metoo|sexism,1,1,2019-08-31T15:09:58,0.5,0.5
+1156874170795462656,bef5f0982d5bd6c822b77f088e63df3b,MeToo|liveolder|sayyourage,bet|laferla|metoo,0,0,2019-08-01T12:27:50,0.25,0.75
+1157353402478804994,57699007bb6e0a837baed2e1825ad3f9,MeToo,metoo,796,281,2019-08-02T20:12:08,0.0,0.75
+1158839210620571649,656036d6f03e867b496be1e3de274ba2,GunControlNow|MoscowMitch|metoo,metoo,0,0,2019-08-06T22:36:12,0.0,0.0
+1159922157348110342,3fd215bbfe94332ec11a9a5899e54a14,1u|HandOffPantsOn|metoo|timesup,metoo,3,4,2019-08-09T22:19:27,0.0,0.5
+1159990506417299458,1a1c626266859cca95ed1f8a39eabc51,MeToo,black mark|genitals|metoo|rape|sexual harassment,71,10,2019-08-10T02:51:02,0.25,1.0
+1161081657513742336,9ea6168cb8bbb8c32a12d97a78023961,MeToo|SimonFalkIsOverParty,metoo,0,0,2019-08-13T03:06:53,0.25,0.25
+1161296568156401664,a2fbbce0e1d465ce48e285e8b27fe455,metoo,metoo movement,6,1,2019-08-13T17:20:52,0.25,0.0
+1161682294421278721,0f27af9d04b3d8df70bc09f86fd583de,metoo|strictly,metoo,0,0,2019-08-14T18:53:36,0.25,0.0
+1162105466157182976,ffbf3b088ba8ae687d36c7b15f059942,HR|MeToo|bullying|employee|harassment|mentalhealth|toxicworkplace|workplaceviolence,bullying|metoo|webinar,0,0,2019-08-15T22:55:08,0.25,0.5
+1163003500198014976,f57abb50d192455509eb9af3a5942c8d,61|SurvivorTough|metoo|natureheals|selfcare,metoo|soul|sound of water,0,0,2019-08-18T10:23:36,0.5,0.25
+1166070943283916800,ea193394a2a4a0629cf1d66ff021c688,MeToo|WomensEqualityDay,bs|metoo movement,34,18,2019-08-26T21:32:32,0.25,0.0
+1166176885413466113,7f9db5ff3d7f1642d0e34b1b9fc5fbf9,Metoo,metoo|moral panic|zeitgeist,0,0,2019-08-27T04:33:30,0.5,0.5
+1166450404386836481,4900fcd7db0b9b8ea812d543725ad595,MeToo,metoo|ronan farrow,0,0,2019-08-27T22:40:22,0.0,0.75
+1166696136087748609,a56c9ea4cd42d4a20eb96ad90224534c,metoo,metoo,0,0,2019-08-28T14:56:49,0.0,0.75
+1166771230885601280,f477685ed4d89cbf37c19d705c45f1de,KAGA|MAGA|METOO|Mtnews|Veteran,boris johnson|brexit|gambit|metoo|the new york times,0,0,2019-08-28T19:55:13,0.0,0.0
+1156823121946652672,37b593a737b76f037469a0c71cbaa3cd,MeToo,metoo|sexist,0,0,2019-08-01T09:04:59,0.0,0.25
+1156862565055471622,eaf5ec63c3c194b286aeb8cfe6c0b5e8,AUSvENG|Ashes|BREAKING|Brexit|Gillete|Metoo|ThursdayMotivation|ThursdayThoughts|Trump|ashes2019|boycottzomato|thursdaymorning,brexit|metoo|toxic masculinity,3,4,2019-08-01T11:41:43,0.25,0.5
+1157137461878747136,5235f1efa1f73d33499ba4824bde2806,AZ|MeToo,attempted murder|az|metoo|w o,47,70,2019-08-02T05:54:04,0.25,0.75
+1158083722773585920,80cdac1b58b4d6333702cc1212245647,MeToo|antielab|hongkongprotests,apple daily|metoo|tin shui wai,27,40,2019-08-04T20:34:10,0.0,0.0
+1160744599041847296,99bd2a144bcae6cb833fc87a1d763af4,MeToo,feminism|instagram|metoo,0,0,2019-08-12T04:47:32,0.25,0.5
+1162186156152201216,29edfdacb30b4c9d747896bfda43b127,MeToo|everyone|movement,metoo movement,0,0,2019-08-16T04:15:46,0.0,0.0
+1162467824247296000,e040e196fa6e8b529059ddc5ec819737,Epstien|FridayFeeling|FridayReads|FridayThoughts|Weinstein|metoo,metoo|sexual predator|young boys,322,301,2019-08-16T22:55:01,0.5,0.75
+1163280831756025856,9a9c1d248b94b037d1681d17601e7b6d,CrookOfTheMonth|Expose|FollowTheMoney|MAGA|MarkHalperin|MeToo|SerialPerv|TimesUp,ant|democrat|metoo,0,0,2019-08-19T04:45:37,0.0,0.0
+1163605101279240193,6bcf62b6c30435b0fdcfb8ed8c9aa74f,auslaw|metoo,anne ferguson|metoo|minterellison,9,6,2019-08-20T02:14:09,0.0,0.5
+1165024156368420865,3f397fa886d24c621033a50e00740ca2,MeToo|TimesUp|Uber|UberRape,metoo|sexually assault|uber,8,46,2019-08-24T00:12:58,0.0,0.5
+1165278671017369607,671b0cb885d99742628f7159946e4b52,FreeHongKong|HKpolice|HongKongextraditionbill|PrayForHongKong|StandWithHongKong|hongkongpolice|ippc|metoo,hydrogen cyanide|metoo|tear gas,0,0,2019-08-24T17:04:19,0.0,0.0
+1166985363837132801,3c512ff8a4a2863101770ad3eeff701c,MeToo,metoo|racism|sexism,10,2,2019-08-29T10:06:06,0.0,0.75
+1157446216344408066,5d9cb8e0aa118bf2e121c3f22bbb41b2,metoo|silencebreakers|survivors,metoo,3,2,2019-08-03T02:20:56,0.25,0.5
+1159995613787885569,4844bca3b5e7c72565ca7614443dcd2b,lgbt|metoo,catalyst|lgbt|metoo,0,0,2019-08-10T03:11:20,0.25,0.0
+1161498684586168325,62f107607d9b5daf3730aa860650a276,donlemondebateterrencekwilliams|metoo,metoo,0,0,2019-08-14T06:44:00,0.0,0.0
+1164560818819567617,1bb018c9dd5455d34c945522e543266d,Justice4Sandra|MeToo|TimesUp,fighting for justice|metoo|sbarro,0,1,2019-08-22T17:31:50,0.0,0.5
+1165958204234223616,8c80a21ab01cef8334d610fff04f6af8,BelieveWomen|MeToo,metoo|state rep,26,11,2019-08-26T14:04:33,0.0,0.25
+1166478120330776576,8d4455871b85eac2474f17938d1133a3,metoo,metoo,0,0,2019-08-28T00:30:30,0.25,0.25
+1167606267461996544,8b78368406c059990d5c95459a30c2d6,metoo,metoo,4,1,2019-08-31T03:13:21,0.0,0.75
+1156948888202252288,2d1811d33a97641e92df64a81600c364,GreatReads|MeToo|Tattered|WomensFiction,denver|metoo|tattered cover,1,1,2019-08-01T17:24:44,0.5,0.0
+1158239032767320064,2efc971ed2fd9a1098daf1c6c3ea5593,MeToo|TimesUp,metoo|mpa|multan|punjab,159,112,2019-08-05T06:51:19,0.0,0.75
+1159011999172325376,71b14f6bbadf992b1127d0c6b12b71b7,MeToo,gender equality|metoo,0,0,2019-08-07T10:02:48,0.0,0.0
+1159630821051064322,c8284248ab8dbc8fa45eaa8dfdb7c324,HUMOR|MeToo|WOMAN,metoo|rome,1,1,2019-08-09T03:01:47,0.75,0.0
+1160226179002986496,bf4d2aab8982c9f38b43a27f14e7ccfe,MeToo|WeSaidEnough,metoo|sexual violence|twitter|you are not alone|you deserve love,162,94,2019-08-10T18:27:31,0.5,0.5
+1161391914362425344,07f4727c158b53809502f7852cd9837b,MeToo,metoo|philadelphia orchestra|proven innocent|usa,0,0,2019-08-13T23:39:44,0.25,0.75
+1161699231020666880,b65e7bd4b9ac2db262dc62281a5c9c63,MeToo,everytime|metoo,0,0,2019-08-14T20:00:54,0.5,0.0
+1156981406599385091,eec71671fa40cb54f51853a3227e103d,metoo,metoo,0,0,2019-08-01T19:33:57,0.0,0.75
+1158667416148140032,b7b6474b62b44b1c1491bc7bf22ca389,MeToo,labour|metoo,0,0,2019-08-06T11:13:33,0.25,0.75
+1159104162933534720,49d61da8fbe10674282c4ed1013996af,MeToo,big oil|metoo,9,8,2019-08-07T16:09:02,0.0,0.75
+1162767278582247429,aaf292e923f1d93d9bb049dfa2ed8244,MeToo|ProtectWomensRights|RightToChoose|SeparateStateandReligion|StopTheWarOnWomen|ThisIsNotGilead|WomenAgainstTrump,metoo,5,1,2019-08-17T18:44:57,0.0,0.75
+1163027048643739648,eaf5ec63c3c194b286aeb8cfe6c0b5e8,Afghanistan|Brexit|HongKong|Mentoo|Metoo|Metooindia|NetajiSubhasChandraBose|PoonamJoshi|SundayThoughts|subhashchandrabose,afghanistan|brexit|chandigarh|extortion|hongkong|metoo|rape,27,17,2019-08-18T11:57:11,0.0,0.75
+1164869982263623680,28b6c05682bf444864b3f863f0b61c26,MeToo,metoo,0,0,2019-08-23T14:00:20,0.5,0.0
+1166759437199007744,aaf71ea8b52834e27b47cd5e85b2689e,MeToo|MenToo|MenTooIndia,metoo,18,13,2019-08-28T19:08:21,0.0,0.0
+1167917796275048448,64b2814f6f6f468e0a267122306ca262,MeToo,metoo,13,8,2019-08-31T23:51:16,0.0,0.5
+1157139447915302913,5235f1efa1f73d33499ba4824bde2806,Arizona|MeToo,arizona|metoo,11,13,2019-08-02T06:01:57,0.25,0.75
+1158665606280781825,94c0aafff21c1f97c4d188fdd5d3fe62,metoo,masculinity|metoo|toxic masculinity,15,6,2019-08-06T11:06:22,0.0,0.5
+1158734109755215872,6344b0d59e6da27f25a99f1db49aa520,activists|metoo|survivors|visability,metoo|social sciences,0,0,2019-08-06T15:38:34,0.0,0.0
+1160189443074134016,6f3bc8eb7df6b0f8b6d6a9a0b05f5e93,AbolishStatuteOfLimitations|MeToo|TimesUp,cnn|metoo,25,8,2019-08-10T16:01:33,0.0,0.0
+1161121922819563520,7080422dde5894ac1b0a53c926d79f0f,MeToo|MenToo,metoo,0,0,2019-08-13T05:46:53,0.25,0.5
+1161321047402123267,795b212c10d2980721cf2cbdb73b6e1c,MeToo,metoo,0,0,2019-08-13T18:58:08,0.25,0.0
+1163838441404035077,f0b56bcaf62b66b465135c725a768db3,MeToo,journalist|metoo,29,18,2019-08-20T17:41:22,0.0,0.0
+1166206002573783040,bcaa216e6106ba356db4ae115f14f5b0,MeToo,hollywood|metoo|pedophile|street artist,32,29,2019-08-27T06:29:12,0.0,0.0
+1157857768663126021,20f77604fee8f64af8878ff62a7fee6d,metoo,a out|brad pitt|metoo|sexual assault,0,0,2019-08-04T05:36:18,0.25,0.5
+1160388242581151745,1de425c7ab68d9d567875c2f0f296c04,Israel|metoo|sexualabuse,how high|israel|metoo,0,0,2019-08-11T05:11:30,0.0,0.75
+1160931785506582528,919d5c59a8738f83a34ea51243b12e10,MeToo,black cube|mossad|soybeans,4,5,2019-08-12T17:11:21,0.25,0.0
+1161071834466381824,21049b6828ff3d1d2ba55ede2f36c3e3,metoo,metoo|never be afraid,0,0,2019-08-13T02:27:51,0.0,0.75
+1161979925571756032,c8a59967bdfc2883907b1988bf15bf63,cleavagesells|doubleminded|metoo,metoo,21,3,2019-08-15T14:36:17,0.25,0.0
+1162889138313449472,6fd5c5b015f37d9df7413e45c698a352,LiesOfLeavingNeverland|MeToo,metoo movement,0,0,2019-08-18T02:49:10,0.0,0.5
+1164816685204824064,42989059b18d612651f8996f201a630c,MeToo,metoo,0,0,2019-08-23T10:28:33,0.0,0.0
+1164820768363970562,f117b226647e55c6a71fed79955e780a,metoo,body checking|metoo,12,6,2019-08-23T10:44:47,0.0,0.75
+1166326105348935681,bef20d4c7a2abe326ce05f411926c258,HongKongProtests|MeToo|ProtestToo|antiELAB,chater garden|metoo|sexual assault,1,1,2019-08-27T14:26:27,0.25,0.5
+1167899004388040705,9c6ba690887c61a0b68fd471128040f0,MeToo,metoo,9,1,2019-08-31T22:36:35,0.0,0.0
+1156699452897398784,bd6049425667390701e587844c8d3519,Chair|GOP|IaPolitics|IaSen|Judiciary|MeToo|Mueller,criminal law|gop|metoo|obstruction of justice,0,0,2019-08-01T00:53:34,0.0,0.5
+1157627849496383488,481ae03ab7f95943ef85043a94f9208c,colonial|metoo|white,inbred|mason dixon line|metoo movement|racist|rapey,0,0,2019-08-03T14:22:41,0.5,0.75
+1159470289790676992,c4a1b54c931038a85504cdf71834dbda,churchtoo|metoo,animal|metoo,0,0,2019-08-08T16:23:53,0.25,0.75
+1159949665208557568,234883998dc058655a3692ed6c343ff7,MeToo,lynching|metoo movement,0,0,2019-08-10T00:08:45,0.25,0.0
+1160590827460145152,70db98b330a85cb7f9befd7fb6fb163a,Broadway|CrazyTown|FGLHouse|JasonAldeans|LukeBryans|MusicCity|Nashville|metoo|stolenphone,broadway|dm|metoo|nashville,0,0,2019-08-11T18:36:30,0.25,0.0
+1162616581370683393,eaf5ec63c3c194b286aeb8cfe6c0b5e8,Brexit|MenToo|Metoo|Metooindia|Mumbai|PakHumiliated|SIIMAAwards2019|UNSC|hbdshankar,brexit|metoo|mumbai|sexual offence,21,19,2019-08-17T08:46:08,0.0,0.75
+1166390042585120769,a75bf59a9a46fb30c15c18199b8d84b8,HarveyWeinstein|MeToo,metoo,53,17,2019-08-27T18:40:31,0.25,0.0
+1166835347441033217,aa11677d237b2c2b435fd7decac0d7ad,MeToo,john legend|metoo movement,7,3,2019-08-29T00:10:00,0.5,0.0
+1166927588977020928,69328950da157f3739f931a9935472d8,PoliceBrutality|metoo|protestoo|women,clitoris|diuretic|incontinence|metoo|sexually assaulted,38,57,2019-08-29T06:16:32,0.0,0.5
+1167117139335176193,05b9d30337d8ba57fdb904b9e8db7413,metoo,apathy|metoo,3,1,2019-08-29T18:49:44,0.5,0.75
+1167280788481761280,cb99e321f584259a5b459d36563b6bc8,5Stars|Book|FREE|GreatReads|Kindle|KindleUnlimited|MeToo|READ|WomensFiction,kindle|metoo,0,0,2019-08-30T05:40:01,0.5,0.0
+1157227292919095296,17769bb0e9091135e3b4acc594d2f586,MeToo,ceo|metoo campaign,41,33,2019-08-02T11:51:01,0.0,0.5
+1157717347538481154,4987ce91a3653bf41df5487225fd9d62,NewJersey|assault|metoo|police,metoo,0,0,2019-08-03T20:18:19,0.25,0.5
+1158658637470076929,64c756c92ed1c0f969531a5db3a32226,MeToo,emma watson|metoo,0,0,2019-08-06T10:38:40,0.0,0.0
+1161030685894815745,3294df19c2da487d38307904e9e7f185,MeToo,metoo,1,1,2019-08-12T23:44:21,0.0,0.0
+1163367588451291136,beeb5bcb10bd3c84e30feba1b8a29e5c,MeToo,journalist|metoo,10,17,2019-08-19T10:30:22,0.0,0.0
+1165125692188745728,780df7314c506a7f5adf34a35b6d0b34,MeToo,amy coney barrett|made up stories|metoo,0,0,2019-08-24T06:56:26,0.25,0.25
+1165633114871422977,f165570854315ace0d0005a0dacd7689,metoo,metoo|unfriended,0,0,2019-08-25T16:32:45,0.25,0.5
+1166522581786099712,56c31fc395cf3f13d106d6bb2497fb66,FollowBackHongKong|FreeHK|HKPolice|HKprotesters|MeToo|MenToo|PoliceBrutality|StandWithHongKong|hkpolicebrutality|hkpolicestate,metoo|sexual violence,6,6,2019-08-28T03:27:11,0.0,0.0
+1166688821183954946,ebe5b5ec83862a5c955db47cb544c83b,MeToo|journalism|justice,dichotomy|due process|metoo,0,0,2019-08-28T14:27:45,0.0,0.25
+1167259230010822656,32c71135a6ed8e3a10da926a6e1c94cf,MeToo,crash override network|gamergate|metoo|nolan bushnell|zoe quinn,260,123,2019-08-30T04:14:21,0.0,0.0
+1167492479211507712,32c71135a6ed8e3a10da926a6e1c94cf,MeToo,metoo|zoe quinn,0,0,2019-08-30T19:41:12,0.0,0.0
+1159677396154376193,264e2c85ac7a9a64e73083fd29e43087,metoo,pimp|prostitute,0,0,2019-08-09T06:06:51,0.25,0.75
+1160215147874521091,aa1a69b56d5613d4761eebcd7c6430bd,metoo,metoo,0,0,2019-08-10T17:43:41,0.0,0.0
+1166807394166272000,40b57a94145d344d5d8a545340fd3ab0,metoo,metoo|single tear,0,0,2019-08-28T22:18:55,0.25,0.75
+1167132063947870208,e9cc5ec87cacb91855e9100fad9e9c46,Metoo|metoo,lgbt|metoo|rape,90,19,2019-08-29T19:49:02,0.0,0.75
+1167909438306406404,5a119c569b66b010b33af4c8369b44d6,MeToo,metoo|zoe quinn,23,7,2019-08-31T23:18:03,0.0,0.75
+1158404940789714945,66703dd29d3cfbf6b07fdd5ea394acd8,GE|MeToo|MeTooIndia,general electric company|metoo|seema|sexual harassment|soli sorabjee|whistle blower,0,0,2019-08-05T17:50:34,0.0,0.5
+1162032015497158658,4401b44f1b44b41ca37cd54b25ea513e,MeToo,metoo,0,0,2019-08-15T18:03:16,0.25,0.0
+1165286937986523137,90b80605d45fe9e9ac8555f8e52f417f,CNN|Democrats|Dems|Feminist|Hillary|MSNBC|MeToo|aarp|aoc|cnbc|drudge|foxnews|huffpost|npr|nyt|nytimes|pelosi|politico|wapo|wsj,aarp|cnbc|cnn|dems|feminist|foxnews|huffpost|metoo|msnbc|npr|politico|wsj,0,0,2019-08-24T17:37:10,0.25,0.0
+1166152755582398466,746b40dc805cb496e68e5e5b5f1728d2,metoo,empathy|metoo|precedent,0,0,2019-08-27T02:57:37,0.5,0.0
+1166357680887345152,45ad1011a5b385c21b46dee3657d0f0e,metoo,grand jury|metoo,0,0,2019-08-27T16:31:55,0.25,0.75
+1166736726942986241,b0f70ac56755dc918f02fb160d2c61b6,MeToo,metoo|twitter,0,1,2019-08-28T17:38:07,0.5,0.0
+1167509516482752513,3be8a40aac66b301894298c02b2b1116,MeToo,al franken|kirsten gillibrand|metoo,0,0,2019-08-30T20:48:54,0.0,0.0
+1157623577702617088,fc3487a3e2dbbaedea5b872f2fcb143a,MeToo,ceo|metoo,723,199,2019-08-03T14:05:43,0.25,0.5
+1158309860116705280,94f50158dc7cac653d4a81d1248e2a1a,metoo,metoo|rape,0,0,2019-08-05T11:32:45,0.0,0.75
+1159537495396274177,7c987efea643b73874a18e215c9c2b57,MeToo|womeninfilm,metoo,15,8,2019-08-08T20:50:56,0.75,0.0
+1160133397345423361,db3e6e486240630fe252942e64fb604c,MeToo,metoo|tone deaf,1,2,2019-08-10T12:18:50,0.75,0.5
+1163442649673527296,b34181edfad7406e2418fe870d29840f,MeToo,metoo|rajput,282,97,2019-08-19T15:28:38,0.25,0.0
+1164056783943544832,2ce6cf214a2cbb1b13f913e65130d4a6,MeToo,metoo movement,20,19,2019-08-21T08:08:59,0.0,0.0
+1157762155321745408,45ad1011a5b385c21b46dee3657d0f0e,metoo,metoo|middlesbrough,0,0,2019-08-03T23:16:22,0.0,0.0
+1157793193976651776,fd08f4528223785222a58eb228391c4e,MeToo,anime|clash|dallas news|metoo,1506,248,2019-08-04T01:19:42,0.5,0.0
+1159837564116672514,ce28a624c3c10586ae26f7494edd0bd1,maga|metoo,abolitionist|it blows my mind|metoo|women s rights,37,26,2019-08-09T16:43:18,0.5,0.25
+1159852124278149120,2d1811d33a97641e92df64a81600c364,GreatReads|MeToo|TatteredCover|WomensFiction,denver|matt zane|metoo,0,4,2019-08-09T17:41:10,0.0,0.0
+1160558229325324288,a0a1b7b1ff85ce617dfb3309cb787a0b,Metoo,joy villa|metoo movement,0,0,2019-08-11T16:26:58,0.5,0.0
+1161866220179562496,f018fc9098096af900ab3f58f8f72073,education|metoo|rape,metoo|rape,16,3,2019-08-15T07:04:27,0.0,0.75
+1163852746103148545,4e48e96500d262f06b73ea11f8dcb403,metoo|timesup,metoo,0,0,2019-08-20T18:38:12,0.0,0.0
+1165103424636981248,303e968793fdad23f635e092fe290aa4,MeToo,metoo|sexual harassment,0,0,2019-08-24T05:27:57,0.5,0.5
+1165667153111998464,cbdcee37df922779a228f561fcd084e3,HongKongProtests|NoPoliceBrutality|metoo,metoo|rape|whatsapp,222,320,2019-08-25T18:48:01,0.25,0.75
+1166685336031748097,1883c25eccf72410fb6c5135e720f65f,AntiELAB|Central|HK|HongKong|HongKongProtests|metoo,central mtr station|hkt|metoo,40,27,2019-08-28T14:13:54,0.0,0.0
+1159344276133703680,2844cf4f882422709be229e0952a78d8,MeToo,casey affleck|metoo movement,0,0,2019-08-08T08:03:09,0.0,0.25
+1159895184185995265,530da9574d6084ada2dbe9c791a4ff2e,FridayThoughts|Hate|KillAllMen|MeToo|feminist,feminist|kid rock|metoo|missouri|walmart,96,154,2019-08-09T20:32:16,0.25,0.75
+1160631877142818818,dff3d19ac8d7df9304bc3ce407d987a4,2020DemocraticNomination|Hollywood|MeToo|TrumpPence2020,hollywood|metoo,0,0,2019-08-11T21:19:37,0.5,0.0
+1160898486830850048,83d9d4f394eb46b80cf81c51e50963d6,BrianBanksMovie|MeToo,greg kinnear,22,6,2019-08-12T14:59:02,0.0,0.75
+1161373263248969736,cf4a9ac5ec8d258b54df7e6393d44309,MeToo,metoo|philadelphia orchestra,19,24,2019-08-13T22:25:37,0.0,0.0
+1161517864928579584,620d9782e575d11efcd7d6dde85af318,MeToo,metoo|rouleur|sexual assault,171,85,2019-08-14T08:00:13,0.0,0.5
+1161924161033261057,66471ccc8a904646bb8450c6882297a5,FakeCases|MRM2019|MensRightsMeet2019|metoo|rakhi,metoo,24,35,2019-08-15T10:54:42,0.25,0.0
+1163807502129127424,9b0cc2567a85ee994c45d25e3d1aab65,MeToo,metoo|past tense,0,0,2019-08-20T15:38:25,0.0,0.5
+1163934576974192640,416719563690f9f5e73e66d63985d476,metoo,metoo|the beatles,0,0,2019-08-21T00:03:22,0.0,0.5
+1165391664225144832,edf3922ff39609639a00f8f8b6cab45f,ErdoganRegime|Femicide|Feminist|HateCrimes|Istanbul|MeToo|NeverWalkAlone|TimesUp|Turkey|WomensMarch|WomensRights,2019 turkey|femicide|feminist|metoo,33,26,2019-08-25T00:33:19,0.0,0.75
+1166728381867548679,ffea8a888f026ff6a2485d2e6ff53659,MeToo,hollywood reporter|metoo|time s up|tone deaf,0,0,2019-08-28T17:04:57,0.0,0.0
+1167089745987432448,2a938ad3f1c7aba020c1733365dc9ede,LGBTQ|MeToo|Resist|TransLivesMatter,lgbtq|metoo,18,22,2019-08-29T17:00:53,0.25,0.5
+1167475086531715073,de62ab3cf7d718126404af09a08ccd02,MeToo,metoo,10,4,2019-08-30T18:32:05,0.75,0.5
+1157343571424501760,39bcc04c99cb62453e2b668e84811466,MeToo,metoo|sexually assaulted,977,343,2019-08-02T19:33:04,0.0,0.75
+1159332295251075073,e5643634b4dee04c99734a85e64508b6,Australia|Metoo|Note10|SamsungEvent|TrumpIsARacist,australia|epidemic|metoo,6,6,2019-08-08T07:15:33,0.25,0.75
+1159698162124087297,ade9cc21edd2eae48e9b858952c57752,metoo,metoo|trigger warning,0,0,2019-08-09T07:29:22,0.25,0.25
+1159852290657796097,832229b3314dfecfe487ed9b50d1babd,MeToo|SpikeIke,metoo|shareholder|soulcycle,358,320,2019-08-09T17:41:49,0.25,0.0
+1160212033947799552,0ef7df9ca8bb05ed393330f5f8c61488,MeToo|OneVoice1,metoo,27,18,2019-08-10T17:31:19,0.25,0.0
+1160664746754019331,28f25eafb7d44e730757cfd1a7b95b72,dv|feminism|feminist|metoo|praisethebrave|remetoo|sexualviolence,feminism|feminist|metoo,2,1,2019-08-11T23:30:14,0.5,0.0
+1161179921336561664,ce6df51b12f065042c81f98ed0773687,MeToo|MenToo,metoo,35,16,2019-08-13T09:37:21,0.25,0.0
+1166347023160791041,ce89ab25ec64325581f8bde60b14f30b,FreeHK|MeToo|StandwithHK|hkpolicebrutality,metoo|sexual assault,0,0,2019-08-27T15:49:34,0.0,0.5
+1166524555487264768,f785dd27b1b2efc4f94b1eca4380f5fa,MeToo|cardsarehumorous,metoo|wc,0,0,2019-08-28T03:35:01,0.25,0.0
+1166887199180083200,39358faa1b603692076c2aa5daf03592,EyeforHK|FreeHK|FreedomHK|HK|HongKong|HongKongProtesters|HongKongers|HumanRights|ProtectOurDemocracy|ProtestToo|metoo,hong kong|hongkongers|metoo,0,0,2019-08-29T03:36:02,0.0,0.5
+1167617213626494976,37a0cf151b17188ec6a8c9ad2d7c5b81,MeToo,metoo,0,0,2019-08-31T03:56:51,0.25,0.75
+1156713279747710977,416d5e5f5b4f925fdac35155dc24e5b5,MeToo,a j calloway|metoo|rape|sexual assault,981,284,2019-08-01T01:48:31,0.0,0.75
+1157416540452601856,3871ad12c87f1d9ecf5e2e0ea87da54f,Dubai|FreeLatifa|HumanRights|MeToo|TimesUp|UAE|princess|womensrights,dubai uae|metoo,0,0,2019-08-03T00:23:01,0.0,0.0
+1157637323955159041,01feb6488e4f6e755a49495a0cdd5a3f,FakeCases|MeToo|MenToo|men|political,metoo|seeking justice,1,1,2019-08-03T15:00:20,0.25,0.5
+1158372443309916160,f441b259ce912da62a539f83cfb58ad2,MeToo,founders ministries|metoo,0,0,2019-08-05T15:41:26,0.0,0.25
+1159055439587348480,063387209ce27d31b4d159c1a9a215ca,MeToo,friendly|metoo,0,0,2019-08-07T12:55:25,0.5,0.0
+1159327626097377280,eaf5ec63c3c194b286aeb8cfe6c0b5e8,Ajith|Brexit|GlazersOut|KashmirIsOurWeAreKashmir|KashmirMeriJaan|KashmirWithModi|Metoo|Metooindia|Note10|Thala|ThursdayMotivation|instagramdown,brexit|metoo,66,37,2019-08-08T06:56:59,0.0,0.75
+1160210028223180800,72b93a1b9f65195be85c7b9905e63f6e,careerpolitician|dobetter|fucktrump|idonot|metoo|nope|qtpoc|statusquo|whitefeminism|wocintech|womeninbusiness|womeninfilm|womenintech,metoo,0,1,2019-08-10T17:23:21,0.25,0.0
+1160547408020828160,279da23321e7e3b055f674b16837d3ec,metoo,metoo,0,0,2019-08-11T15:43:58,0.25,0.5
+1163224435135922176,069a561399d3a9b6a039eb9403ac81bb,BLEXIT|Blexit|BuildThewall|ClintonBodyCount|FakeNewsCNN|Fredo|FredoCuomo|MAGA|MAGA2020|MeToo|NPC|NPCmeme|QAnon|QAnons|QArmy|WWG1WGA|WalkAway|WeBuildTheWall|figs,blexit|metoo|npc|qanon|walkaway,0,0,2019-08-19T01:01:31,0.0,0.0
+1163689532111433729,e31abfc16802fced723bde38aeebffe1,MeToo|Rape,metoo|rape,8,8,2019-08-20T07:49:39,0.0,0.75
+1165590774102315011,fba44afaca7f36d2a0a2336c84f83cf9,MeToo,metoo,1,1,2019-08-25T13:44:30,0.25,0.0
+1166801753574006784,86f4aa7ee333f5a27f3e9160475bddf2,MeToo,blakely|david drummond|exec|google|metoo,0,1,2019-08-28T21:56:30,0.25,0.0
+1167192246720049152,9d731c92e6c4957d67288d8943b1963a,MeToo,catalyze|metoo,0,0,2019-08-29T23:48:11,0.25,0.0
+1156750807926050819,1a8bbbe2617e4982075be496f952a35e,MeToo|MeTooSTEM|SexualHarassment,metoo,0,0,2019-08-01T04:17:38,0.25,0.0
+1157347582974353408,7778f23bd620de2c6d9db157b87fc441,ABhealth|MeToo,metoo movement,1,1,2019-08-02T19:49:00,0.25,0.0
+1157462925285699584,4ca34c6f66d7ba7d5f0928b67e4b66c5,metoo,metoo,0,0,2019-08-03T03:27:20,0.0,0.0
+1159733029381857280,0d305b436d78d87e93d6385b83c425d5,metoo,fluke|metoo,0,0,2019-08-09T09:47:55,0.25,0.5
+1161285699703922690,c760aa62b939f9c6ccf25b7cd0d73fce,MeToo,metoo,6,7,2019-08-13T16:37:41,0.0,0.0
+1163480329644118016,a5a850fdc88152656936781d272b6841,MeToo,apple tv|metoo,0,0,2019-08-19T17:58:21,0.0,0.5
+1164156766009135104,45ad1011a5b385c21b46dee3657d0f0e,metoo,federal council|metoo|reliefweb|sexual assault,0,0,2019-08-21T14:46:16,0.0,0.5
+1164667946809122817,5f585bd85dc127e7674cc0828f217e01,metoo,metoo|sanctuary cities,0,0,2019-08-23T00:37:31,0.0,0.0
+1166646596215300096,f147d3803ea3f4026237eb229d4e88b9,MeToo,gender inequality|metoo,4,1,2019-08-28T11:39:58,0.0,0.75
+1166959223076315136,db74c36c3130c856ddb65627f06bf63c,MeToo,hong kong police|metoo,11,22,2019-08-29T08:22:14,0.25,0.5
+1167311029425950721,32c71135a6ed8e3a10da926a6e1c94cf,MeToo,metoo movement|video game industry,0,0,2019-08-30T07:40:11,0.0,0.0
+1158702765239078912,5ceb304a71f879325fdac9b7caa6d919,MeToo,metoo,3,4,2019-08-06T13:34:01,0.0,0.25
+1158867745129320448,e0ef60d3991a17c17f1eadff09f708a4,metoo,jana wendt|metoo,2,2,2019-08-07T00:29:35,0.0,0.0
+1158870336550494208,694fd2cfb56b6150f06dff0e60017ddd,MeToo,metoo,0,0,2019-08-07T00:39:53,0.0,0.25
+1158870613383163904,557e5474db735c9f845b4d65778b4d36,cutboardcutout|metoo,metoo,0,0,2019-08-07T00:40:59,0.0,0.5
+1159109642552774658,06501529c1d9177075259b60305e2b91,MeToo|sexualharassment,metoo movement|we can t stop,0,0,2019-08-07T16:30:48,0.5,0.0
+1163142570492350464,2219945d5495514baa991645c4bc81cc,Lima|MeToo|Peru|WomensRights|violenceagainstwomenact,femicide|lima peru|metoo|women s movement,10,9,2019-08-18T19:36:13,0.0,0.0
+1164794396673376256,9698faca2f3aca085748449e80885bdf,BoycottMulan|NoPoliceBrutality|metoo,metoo|torture,0,0,2019-08-23T08:59:59,0.0,0.5
+1165561500280352768,dc16627df182ff7bdd87c9c47e13776b,120db|Feminism|HeForShe|MeToo|TimesUp|UnitedKingdom|WomensMarch|WomensRights,feminism|heforshe|metoo|ptsd|somali,1,5,2019-08-25T11:48:11,0.0,0.75
+1166688459383164929,1883c25eccf72410fb6c5135e720f65f,AntiELAB|HK|HongKong|HongKongProtests|Metoo,chater garden|hkt|livestream|metoo|stand news,41,32,2019-08-28T14:26:19,0.0,0.0
+1167096977319845893,936bc94445b35c517e90f083455ceaff,MeToo,metoo movement,0,0,2019-08-29T17:29:37,0.25,0.75
+1167337206094151681,6d3fbdece321655bffd683f8bb5e5bb3,MeToo,metoo,0,0,2019-08-30T09:24:12,0.0,0.5
+1167918477891387392,abc904ab0b54b9d9aad6a4165187427a,MeToo,body count|bowel movement|metoo|up with people,0,0,2019-08-31T23:53:58,0.0,0.0
+1157893416061026309,5d4a9d9288a023d738781889e21f44fe,metoo,metoo|tweet,0,0,2019-08-04T07:57:57,0.0,0.0
+1158301617550028801,537b4260d148a5f4e9868bbfa6ffb885,CANADA|MeToo|SexualHarassment|VAW,boy culture|canada|metoo|sexual harassment,1,1,2019-08-05T11:00:00,0.0,0.5
+1158403025716809729,61d90a57eb2dd9e494ff0bc1ae07c905,MeToo,emma watson|metoo|sexually harassed,12,4,2019-08-05T17:42:58,0.0,0.5
+1159841116616720384,11a091d8a5559ea1fc52580ee972d708,APA2019|MeToo|SportToo,metoo|sexual assault,0,0,2019-08-09T16:57:25,0.0,0.5
+1160284244809342985,4c46a7e38705f3a1f082615b43d26e97,metoo,metoo,0,0,2019-08-10T22:18:15,0.25,0.0
+1162729864694259713,66d2fe76b665b4bbed172f37389a12d8,Aichitriennale|ThankYou|artfreedom|comfortwomen|japan|korea|metoo|nonfreedomofexpression|statueofpeace,censorship|freedom of expression|metoo|statue of peace,36,38,2019-08-17T16:16:16,0.25,0.25
+1163381685901242369,8940b1a40a1f8cbf7065344d15dafee9,MeToo|StopGBVatWork|feminism|gender,feminism|informal sector|kampala|metoo|sexually harassing|the guardian,15,10,2019-08-19T11:26:23,0.0,0.5
+1163653139154653185,fee26cd692b009f3621c63f6129215a5,MeToo,hoax|metoo,0,0,2019-08-20T05:25:02,0.25,0.75
+1163700518029615104,c2673b74f07440be0868da824debb265,BajwaDoctrine|BajwaForPeace|GeneralQamarBajwa|MeToo|Pakistan|PakistanAirForce|PakistanZindabad|ShehlaRashid|Trump,metoo|pakistan,0,0,2019-08-20T08:33:18,0.0,0.0
+1164447145036042240,b654498c482db0cec2c9a1caeabf7c48,MeToo,alyssa milano|hollywood|i m not sorry|metoo,5,3,2019-08-22T10:00:08,0.0,0.0
+1165643609049165824,813bff7111139b4d064d17aed1063231,MeToo,metoo,0,0,2019-08-25T17:14:27,0.0,0.0
+1166433626659184641,ea193394a2a4a0629cf1d66ff021c688,MeToo,metoo movement,0,4,2019-08-27T21:33:42,0.25,0.25
+1166531476222967808,b8f60fa2aea19d854325718537754feb,MeToo|StandwithHK,come and join us|metoo|sexual harassment|sexual violence,28,23,2019-08-28T04:02:31,0.0,0.5
+1166835181422088194,72e57021b6527166a94b9180766d7b52,befierce|metoo,metoo|my bill,0,0,2019-08-29T00:09:20,0.0,1.0
+1167198506102251520,8b78368406c059990d5c95459a30c2d6,MeToo,metoo,2,2,2019-08-30T00:13:04,0.25,0.5
+1167431011698970624,45ad1011a5b385c21b46dee3657d0f0e,metoo,metoo,0,0,2019-08-30T15:36:57,0.0,0.75
+1167476729587351553,943ca64cf573f4bd00cd212e6a75dd22,MeToo,j accuse|metoo,0,0,2019-08-30T18:38:37,0.0,0.75
+1159314301263310848,069a561399d3a9b6a039eb9403ac81bb,Blexit|BuildTheWall|FakeNews|GOP|KamalaHarrisDestroyed|KeepAmericaGreat|MAGA|MAGA2020|MeToo|NPC|OrangeManBad|QAnon|QAnons|QArmy|RNC|Trump2020|TuckerIsRight|WWG1WGA|WalkAway,blexit|gop|metoo|npc|qanon|walkaway,0,1,2019-08-08T06:04:03,0.5,0.0
+1161025600632643584,dac8bd2689b43768abd461cf88dad570,MeToo|curbsiders|geriatrics,geriatrics|metoo|podcast|sexual harassment,0,0,2019-08-12T23:24:08,0.0,0.5
+1165722849816010752,3548302465ea532831632e6a868720a7,MeToo,double standard|katy perry,296,320,2019-08-25T22:29:20,0.5,0.5
+1165836281655394305,72c10dd9eec87350c95680d154fedd55,Gestapo|HongKongPolice|MeToo|PoliceBrutality|antiELABhk|chinazi,gestapo|hong kong|metoo|triads|what a time to be alive,1,2,2019-08-26T06:00:04,0.25,0.75
+1166229506186764290,f90656ea629c7b3b59367e19049133f7,MeToo,deep thought|metoo movement|tarnish|what if,366,132,2019-08-27T08:02:36,0.0,0.0
+1166602680090988544,d6679f3b6da453db2aaec5d79f2775ac,MeToo|ProtestToo,metoo|police brutality|sexual violence,34,38,2019-08-28T08:45:28,0.25,0.5
+1167122429069545472,5c0b00292048e3e7b781874ba27aca31,BelieveWomen|Directher|TimesUp|believesurvivors|metoo,dark comedy|gender bias|metoo|sexual assault,5,4,2019-08-29T19:10:45,0.0,0.5
+1158353920034574336,6963da82d5c5649ea77e074f23955069,MeToo,hijab|iran|metoo,8,13,2019-08-05T14:27:50,0.0,0.5
+1159827010350436357,ad9b4c2fd1a8702b902004f0fec84a4f,MeThree|MeToo|WomensDay|equality|feminismiscancer|feminist,childbirth|feminist|metoo,8,2,2019-08-09T16:01:22,0.25,0.0
+1161429365328138245,3609f79897ee896920b29efd7029b9f6,HimToo|ibelievehim|metoo,metoo,0,0,2019-08-14T02:08:33,0.0,0.5
+1161954190165446661,b15e4af286dd35210c2ec8a096623216,AlternativeFacts|BlackHistoryMonth|ChaseTheTruth|FakeNews|HBO|LiesOfLeavingNeverland|MJ|MeToo|MichaelJackson|Oprah|TimesUp,astounding|df|hbo|metoo,0,0,2019-08-15T12:54:01,0.25,0.0
+1163155480782540802,45ad1011a5b385c21b46dee3657d0f0e,metoo,metoo|st helens,0,0,2019-08-18T20:27:31,0.0,0.0
+1164538078511423489,6d6f1be51588ee809b4cb52fba1b3392,metoo|metoostem,metoo,2,2,2019-08-22T16:01:28,0.0,0.5
+1167447746938208256,c772a5a9071bb1eba848124d9fb3b98b,metoo,apologist|brexit|metoo movement,0,0,2019-08-30T16:43:27,0.25,0.25
+1157743872333758470,83c5f2cdfe0232f4f83066daf06c11d7,MeToo,metoo,0,0,2019-08-03T22:03:43,0.0,0.0
+1158678041150861313,e084f32b89de75c8d1a33fbd9d88d829,Freeplay19|metoo,cw|metoo movement|philosophy of art|sexual assault,36,18,2019-08-06T11:55:46,0.0,0.75
+1160223733606256642,cb7de910a822798a0f21b1a97ad29453,BelieveAllWomen|metoo,metoo movement,0,0,2019-08-10T18:17:48,0.25,0.0
+1161189623080673281,66703dd29d3cfbf6b07fdd5ea394acd8,GE|MeToo,fbi|metoo|seema|whistleblower,0,0,2019-08-13T10:15:54,0.5,0.5
+1162025321815842817,a6bca43b26a9677c54b5d210d1d606fe,ColinKaepernick|ihaveaname|metoo,colin kaepernick|metoo,259,223,2019-08-15T17:36:40,0.0,0.75
+1163368300094447617,f7dcfa0ce062b70afc3af74b16038f86,MGTOW|MeToo,metoo movement,52,18,2019-08-19T10:33:11,0.0,0.0
+1163450545866268672,650583c0df1a3886c09234b77b92e3eb,MeToo,metoo|sexual harassment,0,0,2019-08-19T16:00:00,0.0,0.5
+1165508215024443392,069a561399d3a9b6a039eb9403ac81bb,BLEXIT|Blexit|BuildTheWall|CNN|FakeNews|GOP|KAG|KAG2020|KeepAmericaGreat|MAGA|MAGA2020|MSNBC|MeToo|NPC|NPCmeme|QAnon|QAnons|QArmy|RNC|Trump2020|WWG1WGA|WalkAway|WeBuildTheWall|cnnfakenews,blexit|cnn|gop|metoo|msnbc|npc|qanon|walkaway,2,3,2019-08-25T08:16:27,0.0,0.75
+1165648013060009984,b2266773fde6260811e39f2df0e4bbe5,metoo,everyday people|hashtag|metoo,0,0,2019-08-25T17:31:57,0.25,0.5
+1166746079465037827,1f66a2344ee557994870dd590dcf8612,MeToo,metoo,103,71,2019-08-28T18:15:17,0.25,0.25
+1167519012378431493,5b19fc23336aa22be83651044e67007a,MeToo,metoo,0,0,2019-08-30T21:26:38,0.0,0.25
+1159193608068763650,f271cedb5675774877d8e5b440457225,MeToo,amber heard|johnny depp|metoo,17,5,2019-08-07T22:04:27,0.5,0.75
+1159220015691755520,9f9954c668dc9a66467b78c4ed6045b4,ACTOR|EnoughIsEnough|LifeInDanger|MondayMotivation|SagAftra|WhiteSupremacistInChief|alpha|fbi|gay|gayrt|master|metoo|mondaythoughts|nypd,fbi|metoo|ny1|nypd|pantera,0,0,2019-08-07T23:49:23,0.0,0.25
+1159720542955540480,f7ea914d92f7de0086ea49927da6ad9a,JeffreyEpsteinArrest|MeToo,ceo|jeffrey epstein|l brands|metoo|victoria s secret,0,0,2019-08-09T08:58:18,0.0,0.75
+1160169529537912832,dfda11348f578db117fbe295c65f5886,MeToo,class analysis|feminism|metoo|philosophy|sexual desire|subjectivity,4,1,2019-08-10T14:42:25,0.25,0.0
+1161003401775321088,6f3bc8eb7df6b0f8b6d6a9a0b05f5e93,JusticeForAllSurvivors|MeToo|SB540|TimesUp,asap|metoo,30,11,2019-08-12T21:55:56,0.0,0.0
+1163036607978594304,fa12cb740f2b10da88f79bc0d7ae5757,MeToo|MedeaSpeaks,medea|metoo|the conversation,12,6,2019-08-18T12:35:10,0.0,0.75
+1163164917962346496,8eacf65802dc2bd5cb0e2cdcdd722f32,MeToo,mark halperin|metoo,0,0,2019-08-18T21:05:01,0.5,0.0
+1163880516350861312,cfdba03e650e119ac084f40a325e3592,AidToo|MeToo|PSEA|SEA|TimesUp|ethics|gender|harassment|integrity|safeguarding|sexualharassment,metoo,2,1,2019-08-20T20:28:33,0.5,0.5
+1165536064074899457,fda6f32b370ac2e9d650e567aa058410,endviolence|metoo|unseatmarkfield,metoo|stand with us|wep,8,2,2019-08-25T10:07:06,0.0,0.75
+1166593790855000065,ecc9e0e38595503e705a2d9c0d9d334f,MeToo,metoo,0,0,2019-08-28T08:10:08,0.0,0.0
+1167844498988158977,c7977307ea516e946bc97be5569111e7,MeToo,metoo|soul,187,50,2019-08-31T19:00:00,0.0,0.0
+1157094171481653251,8ad6afc982380402eaf8e83d459821d7,MeToo,metoo,0,1,2019-08-02T03:02:02,0.25,0.75
+1158879012527230976,0119a4d70aea2b2bdfee967d67d911c2,Metoo,dan schneider|metoo movement|outed,20,9,2019-08-07T01:14:22,0.0,0.0
+1159953332351356928,3bc4cb6f628ccbdd83643f36501af120,MeToo,hollywood|metoo,467,321,2019-08-10T00:23:19,0.25,0.0
+1161109176355041280,8c9c4fc0e8c1b4e431ad242fe8a2bc40,MeToo,bs|metoo,0,0,2019-08-13T04:56:14,0.0,0.0
+1162293626715680769,acec7da8f0dcd6e425edaec73b8fbe46,MeToo,metoo|sexual violence|victorian england,1,1,2019-08-16T11:22:49,0.0,0.75
+1163051998939418624,45ad1011a5b385c21b46dee3657d0f0e,metoo,metoo,0,0,2019-08-18T13:36:19,0.0,0.75
+1164833735612628993,15b1a6467d5f0ecebc58a5a794bb1de1,MeToo|PoliceBrutality,hong kong police force|metoo,16,8,2019-08-23T11:36:18,0.0,0.5
+1165131035723481088,fac780877cd783c81015e0c16515186c,metoo,chief justice of india|days are gone|metoo|propaganda,0,0,2019-08-24T07:17:40,0.25,0.75
+1165976735822647301,c4b1c2584efb0f62acc83de3cb0e31a1,HongKongPolice|MeToo|PoliceBrutalily|SexualHumiliation,metoo|undressed,69,69,2019-08-26T15:18:11,0.25,0.5
+1166289840687722499,4d4371215ec104000a1870a0e82806f9,MeToo|OneVoice1,metoo,176,98,2019-08-27T12:02:21,0.0,0.5
+1166376437818855424,37bbbb5e6764cccb84cf776add6ebc4e,MeToo,metoo,0,0,2019-08-27T17:46:27,0.0,0.0
+1166681891241484290,301a24808f1b4ef1fd491169fd0aa934,HongKongProtests|metoo,metoo,279,129,2019-08-28T14:00:13,0.0,0.0
+1167699753339097088,2b6dbca934360eb457ba959dbe587b19,MeToo,epub|metoo,0,0,2019-08-31T09:24:50,0.0,0.0
+1159105466535960576,7074df16fdc605e019a9bd990a2403a3,MeToo,metoo,80,31,2019-08-07T16:14:13,0.25,0.75
+1160356439702945793,3c7d0cb0d0cc02cd594e9e03ce09785e,IStandWithVic|metoo,metoo|social media|the press,91,28,2019-08-11T03:05:08,0.25,0.0
+1163352659283337216,f00d608855f78fb2f90ec89a43e72c49,Metoo,metoo|twitter,3,2,2019-08-19T09:31:02,0.0,0.5
+1165215630653571072,ef69c47dff89b6276b0e6f5aafa6889a,metoo,metoo,0,0,2019-08-24T12:53:49,0.25,0.5
+1166080567378665472,b301eeecae37166dd0b7987360d341b7,MeToo,metoo,2,2,2019-08-26T22:10:46,0.0,0.25
+1166098309028749313,e040e758aec4600fa6ad8014ff69343b,MeToo|PlannedParenthood|WomensEqualityDay|abortion,abortion|metoo movement,1,1,2019-08-26T23:21:16,0.25,0.0
+1166191297113337856,a4589f21ce19350372ef06ebe1799b09,meToo,blackmail|hollywood|metoo|mpaa|rape,8,9,2019-08-27T05:30:46,0.0,0.75
+1166199744382865408,1c4b1c60e46f69f18b0e93e04efbb188,metoo,metoo,0,0,2019-08-27T06:04:20,0.0,0.0
+1166760337237934080,c80b12679513f973064ae68f55cf54b9,Hongkongprotest|ProtestToo|StandWithHongKong|metoo,metoo,2,1,2019-08-28T19:11:56,0.0,0.0
+1167154677550419968,cda2bd4187166fed078c35d71a859d10,metoo,metoo,24,4,2019-08-29T21:18:54,0.0,0.0
+1167479777579679744,bc495b761ff22290c2948b14289bfeca,MeToo|Sexualharassment|tech|womenintech,metoo,27,13,2019-08-30T18:50:44,0.25,0.0
+1157208180033634304,25b40a32d9c8dd364eb5e5a54f82ffa2,MeToo|Vietnam,feminist movement|intersectionality|metoo movement,0,0,2019-08-02T10:35:04,0.0,0.0
+1158159343306588160,3ea29735bea66b43e1258725074f8907,forum|gymsharkwomen|metoo,metoo,0,0,2019-08-05T01:34:39,0.5,0.75
+1163459386498605056,c4f7a6bae7f9a7f3ace41a086c7f5e9e,metoo,metoo,9,2,2019-08-19T16:35:08,0.25,0.0
+1163506057517256704,37a455add60ecc93da75e79bea154c9c,MeToo,9to5mac|apple tv|metoo|wearables,0,0,2019-08-19T19:40:35,0.0,0.5
+1163778985073029120,106b298ce22e8b786877fa46109406c8,lawyerdiscipline|metoo,houston|lawyer|metoo|squeeze,0,0,2019-08-20T13:45:06,0.25,0.0
+1163802540246536193,7a2ef8b2868551a88faf3a3d641a8d98,metoo,metoo,0,0,2019-08-20T15:18:42,0.0,0.0
+1164164740370915329,58a6ad298861ef1bbfdd9b65a933624f,MeToo|MeTooMovement,gender equality|get here|metoo|sexual assault,142,88,2019-08-21T15:17:57,0.5,0.5
+1165978907687845888,3c82aceba1bd1be8263b5bacda778c0b,EndPatriarchy|JusticeServedCold|MeToo|NeverAgain,harvey weinstein|indictment|metoo,28,16,2019-08-26T15:26:49,0.0,0.0
+1167112278145142785,b93f0f8a9c4ddf2b3011f52a4c0f2ef4,Emmy|Emmy2019|HBO|JamesSafechuck|MJ|MacaulayCulkin|MeToo|MichaelJackson|Pederastia|Pedofilia|RomanPolanski|WadeRobson|WoodyAllen,emmy|hbo|leaving neverland|manual|metoo,0,0,2019-08-29T18:30:25,0.0,0.0
+1157190965985198080,83fba8827e4531ee26df86c4576ad4f3,MeToo,metoo movement,0,1,2019-08-02T09:26:40,0.0,0.5
+1158722252474597377,45ad1011a5b385c21b46dee3657d0f0e,metoo,afton williamson|metoo|racism|usa today,0,0,2019-08-06T14:51:27,0.0,0.5
+1161667748595949569,a9d2c13706899942489803c559246b16,Blessed|DreamsComeTrue|God|Gold|MeToo|NeverGiveUp|art|dmvactor|keepgoing|thankyou,metoo,0,0,2019-08-14T17:55:48,0.25,0.5
+1166260129773346817,36bb4d55a06800024f76cbfe8ce0bfb3,MeToo,metoo,0,0,2019-08-27T10:04:17,0.0,0.25
+1166326213738000384,4f6d431b9648ab2b2c4753ccf2658ddd,HongKongProtests|StandwithHK|metoo,chater garden|metoo|sexually harassed|strip search,26,12,2019-08-27T14:26:53,0.0,0.5
+1166710426018729984,c7e3f3242cbceaa4bdc36e393c9e09ec,MeToo,metoo|sexual harassment,100,80,2019-08-28T15:53:36,0.0,0.75
+1166886121256685569,45ad1011a5b385c21b46dee3657d0f0e,metoo,metoo|the new york times,0,0,2019-08-29T03:31:45,0.0,0.75
+1157472600517423105,f443c724ae7040c2e094cc18a44f825b,EnoughIsEnough|LivePD|LivePDNation|MeToo|PTSD|SexualReVictimization|TimesUp,metoo|ptsd|time out|williamson county,0,1,2019-08-03T04:05:47,0.0,0.0
+1157630516218093568,eaf5ec63c3c194b286aeb8cfe6c0b5e8,Brexit|Metoo|Trump|TrumpParade|ilovekamala,brexit|enlightenment|metoo,17,18,2019-08-03T14:33:17,0.5,0.75
+1158855673284718592,069a561399d3a9b6a039eb9403ac81bb,Blexit|BuildTheWall|CNN|CincinnatiTrumpRally|FakeNews|GOP|KamalaHarrisDestroyed|KeepAmericaGreat|KeepAmericaGreat2020|MAGA|MAGA2020|MSNBC|MeToo|NPC|NPCmeme|OrangeManBad|QAnon|QAnons|QArmy|Trump2020|WWG1WGA|WalkAway,blexit|cnn|gop|metoo|msnbc|npc|qanon|walkaway,0,0,2019-08-06T23:41:37,0.0,0.0
+1163761167631880192,69c613336db552245d5d694ec1315a37,MeToo,hermit|metoo,0,0,2019-08-20T12:34:18,0.0,0.5
+1164372872766337024,4d4371215ec104000a1870a0e82806f9,MeToo|OneVoice1|OneVoiceWomen,la opera|lawyer|metoo|placido domingo|sexual harassment,6,7,2019-08-22T05:05:00,0.0,0.5
+1164629862948253696,c17a4a130e8e012181a3348ea9b6e6e4,metoo,brett kavanaugh|freak out|freaked|leftist|metoo movement|tweet,12922,3351,2019-08-22T22:06:11,0.25,0.25
+1166186150639362049,ebbcaa525f01b7d8851b2466e66f2053,Aadai|metoo,metoo|vairamuthu,0,0,2019-08-27T05:10:19,0.25,0.0
+1166218467151736833,285256bd742b7d655e8db3c96e272b3b,metoo,lady friend|metoo,72,15,2019-08-27T07:18:44,0.25,0.0
+1157536501271601153,55e89070c43b31817b8d09db40b96d9f,MeToo|MediaRumble,metoo|padmapriya|talking about a revolution|vivian schiller,0,1,2019-08-03T08:19:42,0.0,0.0
+1158932834536579072,58a6ad298861ef1bbfdd9b65a933624f,FakeNewsMedia|TrudeauMustGo|metoo,james brown|luciano pavarotti|metoo,33,12,2019-08-07T04:48:14,0.5,0.25
+1158976792994177024,dc62f703ce72a19d7a2f54be670d2c89,IstandwithVic|MeToo|MonicaRial|VicMignogna|journalisimnotactivism,bet|metoo,51,18,2019-08-07T07:42:54,0.5,0.0
+1160699015366881280,45ad1011a5b385c21b46dee3657d0f0e,metoo,jehovah s witnesses|metoo,0,0,2019-08-12T01:46:24,0.5,0.75
+1161833010397941760,dc8625fe4af952ae240310423d8f5e70,MeToo,fox news|metoo movement,65,14,2019-08-15T04:52:30,0.25,0.75
+1163540316563083270,994a503ff6d9d552de83e71a8d7c272d,MeToo,blog|dear white people|metoo,0,0,2019-08-19T21:56:43,0.25,0.0
+1163558727468929025,15ed29a3df7063816f44322bc706a70e,MeToo,metoo,8,2,2019-08-19T23:09:53,0.0,0.5
+1164824465655513088,d1666746923fcc2956b398c1aa678a05,MeToo|antiELAB,metoo|sequelae,0,0,2019-08-23T10:59:28,0.0,0.75
+1165432820006838274,90fcec870169cc3ae4fb0621a47fe2e6,MeToo,metoo movement,17,7,2019-08-25T03:16:51,0.75,0.0
+1167156981616062464,df906c0af526e8a762afce2b1be44f86,MeToo,metoo|nypd,21,13,2019-08-29T21:28:03,0.25,0.5
+1158379213814226945,b14d2df4d7fdd8b322d9ed7c27872ece,MeToo,metoo|sheeple,120,22,2019-08-05T16:08:20,0.0,0.25
+1158773775292387328,994c61b3aaeeb5a60313862fb4fb2a6d,ActuallyPlay|FakeNews|HeSaidSheSaid|MeToo|advertiser,blog|lib|metoo,0,0,2019-08-06T18:16:11,0.25,0.0
+1159344637045354496,1f66a2344ee557994870dd590dcf8612,MeToo,it risk management|metoo,105,69,2019-08-08T08:04:35,0.0,0.5
+1161166298346225664,4cfbc7726d951c44a22ae9f2f19d345c,MeToo|MenToo,metoo,40,44,2019-08-13T08:43:13,0.25,0.0
+1166691261404704768,783b4b992b2ac10e93c3924c05caa015,HongKongProtests|MeToo|ProtestToo|antiELAB,metoo,19,23,2019-08-28T14:37:27,0.0,0.0
+1166753241536712706,82eff9d4ce87d5484d7f9fde1e89ad51,MeToo,metoo|stereotype|tamil|telugu,0,0,2019-08-28T18:43:44,0.0,0.75
+1166787823564918784,c979c83367f05008e8e945fb8eb36a6d,MeToo|Misogyny|Sexism|TimesUp|ToxicMasculinity|WomensRights|YesAllWomen,metoo|misogyny|sexism|yesallwomen,0,0,2019-08-28T21:01:09,0.0,0.0
+1157424631256477696,62e88ea281db677409d379e25e9b5760,hatecrime|hos|metoo,metoo,0,0,2019-08-03T00:55:10,0.0,0.0
+1158794300429230080,ddc5c2348549c5303f9c72f937e85455,CaseyAffleck|MeToo,metoo movement,0,1,2019-08-06T19:37:45,0.0,0.75
+1159170202422185992,8405491e66e0570e16f4555672fcab32,MeToo,metoo movement|sexual harassment,70,53,2019-08-07T20:31:27,0.0,0.75
+1160939896988549120,2d1811d33a97641e92df64a81600c364,GreatReads|MeToo|TatteredCover|WomensFiction,denver|matt zane|metoo,1,1,2019-08-12T17:43:35,0.0,0.0
+1161033217190834178,b2e4e2b6e914b82f1481413262e1d82a,FirstDayOfSchool|MeToo|MusicMonday|NewParxSingle|StolenIce|SundayMorning|WATERPARKS|addressALS|als|alsplea|listen|motivation|summer,metoo|potus|us fda|waterparks,9,6,2019-08-12T23:54:24,0.25,0.0
+1163729481468710912,127395bbd8ef8ffb71f9f89e9ee61ac9,MeToo,metoo|pmln|ptv,186,73,2019-08-20T10:28:24,0.5,0.5
+1164789455808417792,2f0f487046b889517ff43146803df557,MeToo,behind closed doors|male chauvinism|metoo|misogyny|sexual abuse,0,0,2019-08-23T08:40:21,0.0,0.75
+1164920937461899265,da6fc4127b5ebc3ab1082f72e2ef77c0,MeToo,metoo movement,142,80,2019-08-23T17:22:49,0.0,0.0
+1165297033692868608,1651f9b160d6e86a04fb69409ffb2e80,hkpolice|hkpolicebrutality|metoo,metoo,0,0,2019-08-24T18:17:17,0.5,0.75
+1166664750501117953,66287d778385a817b9b9d426121b0b9b,Hollyweird|MeToo,hollyweird|madonna|metoo,153,83,2019-08-28T12:52:06,0.0,0.0
+1167418696463241216,53eca1b0a02eb80cc5e3e3b716081c4c,MeToo,metoo,271,80,2019-08-30T14:48:01,0.5,0.5
+1156952742713315328,f49c7cde2a4518ed1c0851d89176f74d,MeToo,echosmith|instagram|metoo,0,0,2019-08-01T17:40:03,0.0,0.25
+1157883270023045120,1332333832f6e9227c61164a83d0b7c3,MeToo,lied|metoo|metoo movement|rial|sexually assaulted,0,0,2019-08-04T07:17:38,0.25,0.75
+1159487075399413762,fba825c11e9a76f182b5f8095f6d45af,MeToo,metoo movement|victoria s secret,0,0,2019-08-08T17:30:35,0.0,0.0
+1161777513510637569,2539215818258ca5ee67ef7ea8d5238b,metoo,metoo|spike lee,0,0,2019-08-15T01:11:58,0.0,0.0
+1161831134294106114,36b66235dda65b1f7b5b768e777c70e4,metoo,lawyer,14,10,2019-08-15T04:45:02,0.0,0.25
+1164530310731771904,3be86aa8f1d0dcabc5520b18b4a9d845,metoo,blog|metoo|short story,0,0,2019-08-22T15:30:36,0.5,0.0
+1166457522103803904,b0ebe81a55000c937a837d1301551279,mentalhealth|metoo|metoomovement,dr pepper|maryland|metoo|rite aid|security guard,0,0,2019-08-27T23:08:39,0.25,0.5
+1167556526250352642,c118bff8c72ebae781ddcc9229e287af,MeToo,confidentiality|metoo|tl,0,0,2019-08-30T23:55:42,0.0,0.75
+1157064261446901762,6c91d609206828f54b5db3a507db46dd,MeToo,how about you|metoo|photo op|rape,0,1,2019-08-02T01:03:11,0.25,0.75
+1157627300038365186,ce8f2c5e01f590a36eec3803c4c6d621,Ashes19|Brexit|HelloLoveGoobye|Metoo|RIPCameronBoyce,brexit|metoo,0,0,2019-08-03T14:20:30,0.25,0.75
+1157730645340123136,e7b68e0bd55d8b69f4fad158d99c1bc5,FreedomFromHijab|MeToo,iran|islamic law|metoo,59,58,2019-08-03T21:11:10,0.25,0.0
+1157999925197770752,66d2fe76b665b4bbed172f37389a12d8,AichiTriennale|japan|metoo|nonfreedomofexpression|statueofpeace|womencomfort|yoshikoshimada,aichi|censorship|freedom of expression|japan|metoo|statue of peace|triennale,51,135,2019-08-04T15:01:11,0.0,0.25
+1158139089024999424,9f9954c668dc9a66467b78c4ed6045b4,ACTOR|EnoughIsEnough|LifeInDanger|SagAftra|alpha|fbi|gay|gayrt|master|metoo|nypd,brooklyn|fbi|metoo|nypd|pantera,0,0,2019-08-05T00:14:10,0.0,0.25
+1158766749837217792,9f9954c668dc9a66467b78c4ed6045b4,ACTOR|EnoughIsEnough|LifeInDanger|MondayMotivation|SagAftra|alpha|fbi|gay|gayrt|master|metoo|nypd,dc s legends of tomorrow|fbi|metoo|nypd|pantera|welcome to the jungle,0,0,2019-08-06T17:48:16,0.25,0.25
+1159519439286493186,39a34faacd2bc456e40260d2012347f9,MAGA|MeToo,melania trump|metoo,20,6,2019-08-08T19:39:11,0.25,0.25
+1161298431291396099,126338f2a56aa60adea924a07a23cad6,MeToo,metoo,54,4,2019-08-13T17:28:16,0.0,0.0
+1164927211293442048,52977e5b864eb61d25598f17551dd486,metoo,metoo,5,5,2019-08-23T17:47:45,0.25,0.0
+1166597576122077185,b0b2a3658af24e5cfa671bb53d59570e,MeToo,bjp|metoo|sexually harassed|swami chinmayanand,199,105,2019-08-28T08:25:11,0.25,0.5
+1166689427684352000,c58b05a8ad7673cffc729ade3798304c,China|HongKong|MeToo,chater garden|metoo|sexual misconduct,138,93,2019-08-28T14:30:10,0.0,0.0
+1167290461016346630,c7bb2504a8cb3d4bd03bbc5f314139b4,metoo,gamergate|male feminist|metoo,41,12,2019-08-30T06:18:27,0.5,0.0
+1159924813588131840,7f6222ca6ab4b608d86046e0c64d4a1a,MeToo,metoo,18,9,2019-08-09T22:30:00,0.0,0.0
+1160258416314605570,37e360f43d248a2e77c2c7aca78735f3,BelieveWomen|metoo,metoo,0,0,2019-08-10T20:35:37,0.0,0.0
+1160263550142517248,8c31f5afe419c876fef890418358b6c1,MeToo,fgc|metoo,0,0,2019-08-10T20:56:01,0.25,0.75
+1160565023044972545,0f2bfc9c3051b2f00b3a677ec7004faf,JeffreyEpstein|MeToo|SaveTheAnimals|SeaWorld,hashtag|seaworld,1,1,2019-08-11T16:53:58,0.25,0.0
+1160886471395598336,66703dd29d3cfbf6b07fdd5ea394acd8,GE|MeToo,dizziness|metoo|starbucks,0,0,2019-08-12T14:11:17,0.0,0.5
+1162269218915549185,41b5d6f0c87ebc492a541b81184b12ec,auspol|metoo|nzpol,metoo|msm|nz,88,36,2019-08-16T09:45:50,0.0,0.75
+1163278831060443138,4b8cf90a4135c9cf6232a4abe44d7800,metoo,metoo,0,0,2019-08-19T04:37:40,0.0,0.5
+1164047126898151427,069a561399d3a9b6a039eb9403ac81bb,BLEXIT|Blexit|BuildThewall|KamalaHarrisDestroyed|MAGA|MAGA2020|MeToo|NPC|NPCmeme|QAnon|QArmy|WalkAway|WeBuildTheWall,blexit|metoo|middle class|nice|npc|qanon|tax cut|tax refund|the last guy|walkaway,0,0,2019-08-21T07:30:36,0.25,0.0
+1164516867324563456,78e7cc9cb0ca78f9260f19df1a18bd75,Fake_498A_Dv_125Cases|Metoo,metoo|zeenews,0,3,2019-08-22T14:37:11,0.0,0.25
+1164654785083170816,482b5d3f83b89478c1fb3d3b522f5ca1,metoo,metoo movement,0,0,2019-08-22T23:45:13,0.25,0.5
+1156983422830571520,0df2060a7fa5719025bad5c243e2d670,Bull|MeToo,cbs|metoo|michael weatherly|the star,166,56,2019-08-01T19:41:58,0.5,0.5
+1157588009707069441,2ba67d6db2a660960c848cca41b71b19,MeToo,metoo campaign,8,7,2019-08-03T11:44:23,0.0,0.5
+1158142160346083328,62f87781e1ceab2a0f311ee3348414d0,KAG|MAGA|MeToo|Trump|Trump2020|TrumpDerangementSyndrome|og1776,hazmat suit|metoo,4,5,2019-08-05T00:26:22,0.0,0.0
+1158707098449928192,f716fb28b400fccaff9133c56e1f0baf,MeToo,metoo,0,0,2019-08-06T13:51:14,0.0,0.0
+1161680913861943296,506486d9ba59036361f0c27022d7109f,CNN|FredoCuomo|MeToo,cnn|metoo|racist,90,101,2019-08-14T18:48:07,0.0,0.75
+1161870887114682368,6d09bfc6d3c155e9aee6bf2c549b9e7e,books|metoo,black people|metoo,0,0,2019-08-15T07:23:00,0.25,0.0
+1162513278343340032,3bbd65e4cd00e70f35236fdabf9bc273,MeToo,feminism|masculinity|metoo|mutation|new york post,0,0,2019-08-17T01:55:38,0.0,0.0
+1164286692989083648,a7f19e04cfaed50ae5956d437ff431ab,MeToo,ageism|metoo,0,0,2019-08-21T23:22:33,0.0,0.75
+1165957063450607616,67e3a1e1f366408471551d57d85ce323,MeToo|NSAC2019,metoo movement|sexual assault|sexual violence,4,2,2019-08-26T14:00:01,0.5,0.5
+1166691874641448961,14eaeb0d9edc68b973252d5c9b7f3152,Metoo|protesttoo,metoo,0,0,2019-08-28T14:39:53,0.0,0.0
+1166895013197795334,595b5daa407110200a5085e0a04c6535,HongKongers|MeToo|ProtestToo|ProtestTooHK|StandwithHK|antiELAB,hongkongers|metoo,0,0,2019-08-29T04:07:05,0.25,0.5
+1159116889303539715,7074df16fdc605e019a9bd990a2403a3,MeToo,metoo,57,48,2019-08-07T16:59:36,0.0,0.75
+1159684337702494208,8c1bd9064947731cb0c1f1a6ec94e6d1,MeToo,groupie|it s in the book|metoo movement|pic,0,0,2019-08-09T06:34:26,0.0,0.75
+1160788971326017536,7e133998dc9dcdd9aff254745f4b92ef,MeToo|NewZealand|media|news|nzpol|politics,metoo|sexual harassment,19,5,2019-08-12T07:43:51,0.0,0.5
+1161363722423668738,711d8dc1fd69682746e8f26988b8ce38,MeToo|OneVoice1,metoo,1,2,2019-08-13T21:47:43,0.25,0.75
+1162894901282930688,ad732af21c4c253154b5ec349e60bddb,metoo,metoo|racist|the boy who cried wolf,0,0,2019-08-18T03:12:04,0.25,0.75
+1163147281517993984,13374c4631cc8bc3968d875184ab213c,MeToo,metoo|too much to ask,298,94,2019-08-18T19:54:56,0.0,0.0
+1164915236438249472,f0cb15c8dd191d236cd4fda6828ab830,metoo,metoo,26,6,2019-08-23T17:00:10,0.0,0.75
+1164942923961704450,be213bbd8cc24d1a05e6a8c9fb77f75b,MeToo,feminism|metoo|podcast|sarah moss,15,9,2019-08-23T18:50:11,0.0,0.0
+1166698102465523718,0d798595540fb44e2ceca1a8cbb3a84e,HongKongProtests|ProtestToo|WednesdayWisdom|metoo,metoo|sexual violence,15,26,2019-08-28T15:04:38,0.25,0.5
+1166821232664170496,40b57a94145d344d5d8a545340fd3ab0,metoo,friendly|metoo|tinder,337,78,2019-08-28T23:13:55,0.25,0.0
+1167844075132768261,446594df2c1b99494882a391852e95bf,metoo,brave people|metoo,0,0,2019-08-31T18:58:19,0.5,0.0
+1156900691383857152,45ad1011a5b385c21b46dee3657d0f0e,metoo,buzzfeed news|metoo,0,0,2019-08-01T14:13:13,0.0,0.5
+1161437602937016320,476bf7d9168e1f4e6293f40f2c5a1700,MeToo,anus|metoo,0,0,2019-08-14T02:41:17,0.0,0.0
+1162097129021566976,df9282ebed28c21cda09e0157a57485e,MeToo|TheFamilyNetflix,metoo|nones,1,1,2019-08-15T22:22:00,0.25,0.75
+1162545723440713728,069a561399d3a9b6a039eb9403ac81bb,BLEXIT|Blexit|BuildThewall|ClintonBodyCount|FakeNewsCNN|Fredo|FredoCuomo|MAGA|MAGA2020|MeToo|NPC|NPCmeme|QAnon|QAnons|QArmy|WWG1WGA|WalkAway|WeBuildTheWall|figs,blexit|metoo|npc|qanon|walkaway,6,2,2019-08-17T04:04:34,0.0,0.0
+1164589226610122752,23576e793613b95d6912a461cc7a760d,metoo,manipulative|metoo,73,22,2019-08-22T19:24:43,0.25,0.75
+1165261717669961729,704b9c4f3b8e1184f4791fc1aab4ba88,MeToo,,0,0,2019-08-24T15:56:57,0.0,0.0
+1165808847816134658,9d1743c10de903d71912aabd7391aebb,metoo,dupage|metoo|sexual assault,0,0,2019-08-26T04:11:03,0.25,0.75
+1166695735330406407,6a41c1edeff90b6c6e9de0b1fedf3732,HongKong|PoliceBrutality|antiEALB|metoo,hongkong|metoo|purple sea,20,11,2019-08-28T14:55:14,0.0,0.25
+1167233816471228417,0288c476d3665f7fd9c3a7d6d91762d3,MeToo,metoo,0,0,2019-08-30T02:33:22,0.25,0.25
+1167466319341674498,0d54305a09e40eefbf376ce8f9fa5a69,metoo,,0,0,2019-08-30T17:57:15,0.0,0.0
+1167566032069963776,2c714b798923a799509c4271e144ab3f,MeToo,metoo movement|we re with you,2,1,2019-08-31T00:33:29,0.0,0.5
+1157401500957728768,db3e6e486240630fe252942e64fb604c,MeToo,brad pitt|lena dunham|listerine|metoo|pharmacy|yuck,1,2,2019-08-02T23:23:15,0.5,0.25
+1158948888289538048,d47d800311efda0dc1fbd5d95e4e670c,abuse|criticalrole|metoo|orionacaba,metoo,1,1,2019-08-07T05:52:01,0.25,0.75
+1160511915501785089,39ac918dacbcc64a59f17b7c713a0fed,MeToo,cheltenham|metoo,0,1,2019-08-11T13:22:56,0.25,0.5
+1161252512491438080,f477685ed4d89cbf37c19d705c45f1de,KAGA|MAGA|METOO|Mtnews|Veteran,metoo|the washington post,0,0,2019-08-13T14:25:48,0.0,0.0
+1161281421874520064,24823b8cf491229837351c6c00c57898,IStandWithVic|metoo,metoo|sexual harassment,128,36,2019-08-13T16:20:41,0.5,1.0
+1161549746034630656,03cd7ab5c47463bb8f556ce4d58485dc,MeToo,climate change|emma thompson|metoo|mugglenet,0,0,2019-08-14T10:06:54,0.0,0.0
+1161753059594244096,5f22b15c43dab99011fc390485f288ef,MeToo,alyssa milano|due process|metoo|no do|victim mentality,4,2,2019-08-14T23:34:48,0.0,0.5
+1163805568563367943,498bd975270d62cd50ec6d235d69ff5d,MeToo,metoo|sociopath,0,0,2019-08-20T15:30:44,0.0,0.0
+1164193038073307137,31333be6712afccbaaabea2f9c825a65,MeToo,she s a woman,4,2,2019-08-21T17:10:24,0.25,0.0
+1164491150889291776,fece8e013369f97a869f54ae5e67976b,MeToo|SexualHarassment,metoo movement,2,3,2019-08-22T12:55:00,0.5,0.25
+1164553056454959104,29354a09759607d0ad036ff782b55cdf,MeToo,metoo|metoo movement|sexual harassment,0,0,2019-08-22T17:00:59,0.0,0.5
+1164787015423971333,251ef7b9a15893a8e7e7eb1b2e8fec37,MeToo,metoo movement|vaccine,23,7,2019-08-23T08:30:39,0.25,0.5
+1166647490520788993,c2b062d83266ca255c9777e65f0a28be,metoo,metoo|tweets,0,0,2019-08-28T11:43:31,0.0,0.0
+1167099662454730753,2a0671ff80bd52654f1a47c4646d7977,Healing|MeToo|PTSD|trauma,lotus flower|metoo|ptsd,30,11,2019-08-29T17:40:17,0.5,0.75
+1159617891555262470,235d893deb42f26f1725133659f8551c,metoo,candace parker|metoo|steph curry|wnba,0,0,2019-08-09T02:10:24,0.25,0.25
+1160989156102877184,5d4cbfe15ce67073f70d6bcd78a43802,epstein|hangmanstyle|metoo|pizzagate|satan,jeffrey epstein|metoo|pizzagate|satan,0,1,2019-08-12T20:59:19,0.0,0.0
+1161520771774259201,9cfa92c82ca6ce146125fdc9705cda75,Fredo|IBelieveHer|IBelieveHim|JeffreyEpstein|KAG|MeToo|Trump,metoo,0,0,2019-08-14T08:11:46,0.0,0.0
+1164850944288292865,6a58f46faa938d5ff73e676a8f23eb21,metoo,metoo,0,0,2019-08-23T12:44:41,0.0,0.25
+1165983024749506561,b400ad63fed4ce17dc3c47fe59442fcf,HongKongProtesters|MeToo|Sexual,metoo|sexual abuse,18,12,2019-08-26T15:43:10,0.0,0.75
+1166070413027401728,8bd5b54df13422d53b151d53952a7a2e,MeToo|PapaJohns|TimesUp,metoo|sexual harassment,0,0,2019-08-26T21:30:25,0.0,0.5
+1166385766727110656,d01368fc16fc106438573f8297248f0c,ComplicitCorruptGOP|MeToo|WomenAgainstTrump,birds of a feather|metoo|sexual predator,82,52,2019-08-27T18:23:31,0.0,0.5
+1166706751015489537,e40bd7c3a16436241f22392fd1d244ce,HongKongProtestors|HongKongProtests|PoliceBrutality|PoliceViolence|ProtestToo|metoo,metoo|sexual violence,2,2,2019-08-28T15:39:00,0.25,0.0
+1167137427183546369,4ba00e9022857da992202be5ca24f57c,MeToo,greg bryk|metoo|satire,0,0,2019-08-29T20:10:21,0.25,0.0
+1167267219937480704,e0fc951fab5a5ebe7a061a0356f6146d,MeToo,metoo,0,0,2019-08-30T04:46:06,0.0,0.25
+1158765571246182400,b9f90662481a0850da605d188b55a267,metoo,metoo,0,0,2019-08-06T17:43:35,0.0,0.0
+1159937182951280640,2b25f3c3b3e967ca131acb5cc5e0146b,bleach|bleachedshirt|equality|equalrights|freedom|linkinbio|metoo|metoomovement|reversetiedye|tiedye|tiedyefrappuccino|tiedyeshirt,bleach|metoo,0,0,2019-08-09T23:19:09,0.0,0.0
+1160373604460068864,98671149bd544d5a2c67dd25c88df44d,charliechaplin|meToo|muterkelly|rkelly|thomasjefferson,court of law|lynched|metoo|mute|pedophiles,0,0,2019-08-11T04:13:20,0.0,0.75
+1161798500029476865,95ff7a50eee65d41a7307339f998373d,GoogleExposed|metoo,document dump|metoo|project veritas,19,23,2019-08-15T02:35:22,0.75,0.0
+1162178392189480960,be1e296316c3853cf1cff0d3c683524f,CNN|metoo,cnn|dos|metoo,246,180,2019-08-16T03:44:55,0.0,0.5
+1164624930035523584,fcb032a5d0ad0885ea46c6829998a241,metoo|notthejob|thisisnotworking|timesup|timesupuk,metoo,0,0,2019-08-22T21:46:35,0.0,0.0
+1164780819895816193,fcfc124026dd11c9ab1477f6c486af2f,DisloyalToTrump|EnoughIsEnough|MeToo|TheResistance,aclu|metoo|romero institute|the 411,6,5,2019-08-23T08:06:02,0.5,0.0
+1165755782014676992,7c9b1bd25f56a04b85d0102a3eaccf37,MeToo,amber heard|metoo movement,23,16,2019-08-26T00:40:11,0.0,0.0
+1166499683243446272,d29a8ff6406e4b36c0fdba4050d18995,MentalHealthforUS|metoo|metoomovement,metoo|oxygen|soap opera,0,0,2019-08-28T01:56:11,0.0,0.0
+1166527856387612672,c232bf70336387d14be2696d58e3b267,MeToo,corset|metoo,0,0,2019-08-28T03:48:08,0.0,0.0
+1167034683525357568,0920f6b02c6f964298eb3f1d0d0c6ae5,metoo,metoo,0,0,2019-08-29T13:22:05,0.25,0.75
+1157392326731239424,6c9d4fc5b2ac0a0244b37c92f5544e5b,kamaladestroyed|kamalaharrisprostitute|metoo,metoo,0,0,2019-08-02T22:46:48,0.0,0.25
+1160326434985873408,c24912cf2d6e74e677eb4b8d977e13c2,MeToo,coed|corey lewandowski|fck|metoo,387,192,2019-08-11T01:05:54,0.0,0.5
+1160951828114300929,8351c51be35ac079dcef328a3f0ddbf7,MeToo,metoo,8,3,2019-08-12T18:30:59,0.75,0.0
+1163731333585223680,8fc0fb3ce759640d8b0e27b6b95d0a58,Geraldotoo|MeToo,bill cosby|metoo,0,0,2019-08-20T10:35:45,0.0,0.0
+1164847251333816320,30053241dc8544a65fee63a2d1c48441,MeToo,metoo|the windsors,3,1,2019-08-23T12:30:01,0.0,0.0
+1164964744995827712,3660efb11bcbc8cef7a20c7f4bbbfca2,MeToo,metoo,120,17,2019-08-23T20:16:53,0.0,0.0
+1165471499970498561,13c0010788f50b3c4ca2b3160f6a4147,metoo,metoo,0,0,2019-08-25T05:50:33,0.0,0.0
+1165641727333609473,de5352851912ee287b878f86564efa3a,MeToo|TimesUp,amber heard|johnny depp|metoo,66,35,2019-08-25T17:06:59,0.25,0.75
+1166220999819284481,b530b4d48326c05bf238d8424d636231,FightForFreedom|FreedomHK|HongKongProtests|HumanRights|Humanity|MeToo|hkpolicebrutality|powerabuse,hong kong police|metoo|sexually harassed,12,17,2019-08-27T07:28:48,0.0,0.75
+1167040605886849025,5bc3865c7aecc1a5851ba3d79957ea89,MeToo,metoo movement,0,0,2019-08-29T13:45:37,0.25,0.0
+1167321741472878593,a3c232ebbd90ba84511e229e25b64fce,MeToo,gender inequality|metoo|violence against women,9,5,2019-08-30T08:22:45,0.0,0.5
+1156865815674806273,894d6e9d5acee632b2a816b0f11b8e2e,metoo,disruptor|domestic abuse|metoo,0,1,2019-08-01T11:54:38,0.0,0.75
+1159549562136084480,8b3a00595e39e1be6af34bd0cc8279b7,AllLivesMatter|Corrupt|Disrupt|ImpeachTrumpNow|Individual1|LockHimUp|MeToo|Occupy|Racist|Resist|Resistance|SteamingPileOfTrump|WorseThanBush43|WorstPresidentEver|immoral,metoo|racist,0,0,2019-08-08T21:38:53,0.0,0.5
+1159918890962452480,28cf23905ffc9fcde48853de9b1aaf1c,metoo,metoo,30,2,2019-08-09T22:06:28,0.25,0.25
+1160393931995013121,e1e552edfd0dd250060f00715f7a96f9,ClintonBodyCount|ClintonCrimeFamily|ClintonEpstein|Epstein|EpsteinMurder|MeToo|TrumpEpstein|epsteinclinton,bill clinton|metoo|sex offender,1474,1118,2019-08-11T05:34:07,0.0,0.5
+1161733230040510464,a64a5d8cfb0418eedb76b34886ede944,metoo,metoo,0,0,2019-08-14T22:16:00,0.0,0.0
+1162899808916369410,89fe48702512d3a0b97917e4f2f8cebc,MeToo|Weaponisation,mccarthyite|metoo,2,1,2019-08-18T03:31:34,0.0,0.0
+1163150513917059073,6711b718fe51e9b4f6864ac386a9442f,MeToo|Mexico|NoMeCuidanMeViolan,metoo,84,41,2019-08-18T20:07:47,0.5,0.75
+1163814338844454914,acc93fd95638650c134a7a17b2d948c7,IAmAnInvisibleMan|MeToo|SpreadTheWord,metoo|miniskirt|narcissist|slut,0,0,2019-08-20T16:05:35,0.0,0.75
+1163935489470226432,c79a3ff76f3a88097e808644d0a0e70e,metoo|timesup,jezebel|metoo,3,4,2019-08-21T00:07:00,0.5,0.0
+1164522609893171200,67e3a1e1f366408471551d57d85ce323,MeToo,metoo movement|sexual violence,4,4,2019-08-22T15:00:00,0.25,0.0
+1164545626597494784,fc3487a3e2dbbaedea5b872f2fcb143a,MeToo,metoo,92,42,2019-08-22T16:31:28,0.25,0.25
+1166773515896291330,a2e168f5137216c1f246c6325dab1ade,HKPolice|HongKong|HongKongProtests|HumanRights|MeToo|ProtestToo,drug smuggler|hongkong|metoo|pic,4,7,2019-08-28T20:04:18,0.0,0.25
+1167371632924606465,353e89857add338a411ce96d28ea3a74,metoo,metoo,0,0,2019-08-30T11:41:00,0.0,0.5
+1158412620552126465,45ad1011a5b385c21b46dee3657d0f0e,metoo,metoo,0,0,2019-08-05T18:21:05,0.25,0.75
+1162544365174083585,409fa1634346df5f7b182aedec499a99,metoo,jordan|metoo,12,5,2019-08-17T03:59:10,0.0,0.5
+1163158546474819584,e69d67adf7ca859e385d1c650f3741b4,DomesticTerrorism|MeToo|OneVoice1|OneVoiceWomen,metoo|pedophile|sexual abuse,23,21,2019-08-18T20:39:42,0.0,0.75
+1163429100406677504,bea615b28d1f937191a69bebd8347a50,metoo|mondaythoughts|pedo,metoo,0,0,2019-08-19T14:34:47,0.25,0.0
+1164946072235646976,6adda44dabf3f19d70723d76da466ec3,MeToo,metoo,93,24,2019-08-23T19:02:41,0.25,0.5
+1165304612628443136,aaf71ea8b52834e27b47cd5e85b2689e,IIMA|MeToo|MeTooIndia|MenToo,fir|iim ahmedabad|metoo|sexual harassment,56,75,2019-08-24T18:47:24,0.0,0.75
+1166661583411515392,e9ce89c67ef16a08070eb9729b74419a,metoo,gamergate|metoo,0,0,2019-08-28T12:39:31,0.0,0.0
+1159024254949761024,66703dd29d3cfbf6b07fdd5ea394acd8,GE|MeToo,fbi|metoo|seema|whistleblower,0,0,2019-08-07T10:51:30,0.5,0.5
+1159887481401237505,843896ba28ae5355ff6eae46eac13ab6,Anthropology|Feminism|MeToo,feminism,1,5,2019-08-09T20:01:39,0.0,0.0
+1162948076639870976,86508d82d22159a1144f64e393a55f63,Japanese|Therapist|fitness|handjob|metoo,handjob|metoo|miura,0,0,2019-08-18T06:43:22,0.0,0.0
+1164673641369542661,467f7bbd0dbb0491d8486af543c83a6c,metoo,groping|journalist|metoo movement,0,1,2019-08-23T01:00:09,0.5,0.0
+1164927402272673792,c8333e2b08726c264eb6777df892385d,MeToo|PoliceBrutality,metoo,0,0,2019-08-23T17:48:30,0.25,0.75
+1165734080190660608,fcfc124026dd11c9ab1477f6c486af2f,DisloyalToTrump|DoSomething|EnoughIsEnough|MeToo|MoscowMitch|TheResistance,metoo,0,0,2019-08-25T23:13:57,0.0,0.0
+1166545520392904704,c893c9dc3bf93bee1feb5f21bb0a5ce7,Abalone|WednesdayWisdom|chicklit|domesticabuse|endabuse|metoo,abalone|chicklit|metoo,87,164,2019-08-28T04:58:20,0.5,0.0
+1166833352705527809,8a027e1ad7e478ee75241ba21f5e7d7a,MeToo,metoo,0,0,2019-08-29T00:02:04,0.0,0.25
+1159581694711730176,6e54f48ce46e8aeac126cae1ec61d9bc,Brave|MeToo,i will wait|metoo,0,0,2019-08-08T23:46:34,0.5,0.0
+1160194203495911424,c3fd41316d410cb44358dce56f8cc409,MeToo,metoo|richard callaghan|u s figure skating|usfs,21,21,2019-08-10T16:20:28,0.0,0.75
+1161158585256165376,e6799a3420628e9b931aae494993850a,MeToo,anthropology|metoo,0,0,2019-08-13T08:12:34,0.0,0.0
+1162426145842839554,a373dcb7f3fa70fb39f8ec91cbfa3592,metoo,karma|metoo,0,0,2019-08-16T20:09:24,0.75,0.0
+1164603941742510080,ca23c62c1e86091b982404b390395978,BillBlueDress|ClintonBodyCount|EpsteinMurder|Epsteinbodydouble|FamilySeparation|FredoCuomo|Hati|JewsAreDisloyal|Metoo|NewMexico|ObamaGate|TrumpRacist|VEGASShooting|sandyhook,cnn|metoo,0,0,2019-08-22T20:23:11,0.0,0.0
+1165114107265212416,fc866087bd40c52be19cc72fe9593641,BoycottMulan|D23Expo|Disney|DisneyPlus|HongKongProtesters|Metoo|StandWithHongKong|chinazi,hong kong police|metoo|prefect|the whole world is watching,12,13,2019-08-24T06:10:24,0.25,0.75
+1166293555591229441,a75bf59a9a46fb30c15c18199b8d84b8,JamesSafechuck|MeToo|WadeRobson,,37,17,2019-08-27T12:17:06,0.0,0.75
+1166310142654263296,6344b0d59e6da27f25a99f1db49aa520,anthropologist|anthropology|authorsofinstagram|domesticviolence|gender|genderbasedviolence|keynotespeaker|metoo|rapeculture|research|sexualassault|socialscience|socialworker|speaker|timesup,anthropologist|anthropology|metoo|rape,0,0,2019-08-27T13:23:01,0.0,0.75
+1166700710257315840,db74c36c3130c856ddb65627f06bf63c,MeToo,metoo,29,25,2019-08-28T15:15:00,0.0,0.0
+1167410880767610881,c5d123191cb3642955390a96f1af77b6,MeToo,metoo,10,17,2019-08-30T14:16:58,0.0,0.25
+1167502022851158017,bec02a14d94ea31c5ac97b63bca70464,metoo,google|metoo|sexual harassment|tweets,4,5,2019-08-30T20:19:08,0.5,0.5
+1157975832108945408,83306df9022e64466ec4998b8d762200,MeToo|TimesUp,metoo|sexually harassed|wales,7,4,2019-08-04T13:25:27,0.0,0.5
+1158257892400799745,b15e4af286dd35210c2ec8a096623216,BlackHistoryMonth|Emmys|HBO|LeavingNeverland|MeToo|MichaelJackson|Oprah,emmys|hbo|jackie jackson|metoo|wade robson,9,3,2019-08-05T08:06:15,0.25,0.0
+1159105864059498497,7074df16fdc605e019a9bd990a2403a3,MeToo,lahore|metoo,0,7,2019-08-07T16:15:47,0.5,0.0
+1159647163581902849,29336967d5cde4e7ad76b2bd8e2b02f2,AfterMeToo|Justice|MeToo|SexualAssault,metoo,0,0,2019-08-09T04:06:43,0.25,0.0
+1159745097388269568,a0639f17cf7dbac81166774abe07449f,MeToo,bigil|metoo movement,1,1,2019-08-09T10:35:52,0.0,0.0
+1161387628362493953,b453123420103972c588a3acc502ca2b,blacknotdemocrat|blacksfortrump|blacksfortrump2020|blexit|jexit|kag|latinoswithtrump|lexit|maga|maga2kag|metoo|walkaway,blexit|lexit|metoo|walkaway,52,7,2019-08-13T23:22:42,0.25,0.75
+1164454192511180800,151b402fe5f2dec74f99c8b6b50609bb,KatyPerryInnocent|Metoomove|beast|believeallwomen|ibelieveher|ibelievehim|metoo|whyisthat,metoo|sexually assaulting,0,0,2019-08-22T10:28:08,0.5,0.5
+1166330271093919749,855b4d0c2da9758d3c2b59e84f84e267,metoo,fight for 15|gerardo reyes|metoo,6,10,2019-08-27T14:43:00,0.0,0.5
+1166722526644453377,a33548959bdc3986ec7ee3c2606916ae,MeToo,metoo,0,0,2019-08-28T16:41:41,0.0,0.5
+1167110978816872448,aaf71ea8b52834e27b47cd5e85b2689e,AdityaPancholi|MUMBAI|MeToo|MeTooIndia|MenToo|MensDayOut,fir|metoo|mumbai|rape,25,41,2019-08-29T18:25:15,0.0,0.75
+1167769967556796417,30c67ae96677b040f621eb876881fd15,metoo|victim,burling|eric holder|facebook|law firm|metoo|tweet,1,1,2019-08-31T14:03:51,0.25,0.75
+1158177303324745735,051c8d37f463f118f360742d2072fb50,ALS|Alzheimers|Dementia|FatShaming|Mansplaining|cancer|diabetes|epilepsy|fatAcceptance|heartDisease|liverDisease|metoo|obesity|parkinsons|waroncancer,alyssa milano|alzheimers|carbohydrates|dementia|diabetes|epilepsy|mansplaining|metoo|obesity,0,0,2019-08-05T02:46:01,0.0,0.0
+1161712531146043392,ef829f547edab4937a082da0ae0c83d5,metoo,metoo,0,0,2019-08-14T20:53:45,0.0,0.0
+1162494982068080640,d1d81afd6d552c3b2bf73a54e0d4faaa,MeToo,bollywood|metoo|nationalism,67,52,2019-08-17T00:42:56,0.0,0.5
+1162526512786149376,0d64cd8c64a854a2f5122bf243ceef51,BLM|TimesUp|metoo,alt right|cynic|metoo,11,4,2019-08-17T02:48:14,0.25,0.25
+1163128343660810241,34f95747a97d0c3b70b8616483552194,MeToo,metoo,0,0,2019-08-18T18:39:41,0.0,0.0
+1165808944310153216,16e6ee15616c59e66ba790248a133b08,KAG|MeToo|Trump2020,adas|donald trump|metoo|you re a star,0,0,2019-08-26T04:11:26,0.75,0.0
+1166439855720685569,ac29efb6bcb0da92af2c3a67c1aade8e,MeToo,composer|jeremy soule|metoo|professional abuse|rape|video game,0,0,2019-08-27T21:58:27,0.25,1.0
+1167111082772750336,c8d582800e9899b45983fd9e399e9992,TheSwallows|Thriller|metoo|onwriting|protagonists|women,lisa lutz|metoo|thriller,0,0,2019-08-29T18:25:40,0.75,0.0
+1167441992390979584,82b3b15327a329dddc7e05f7611c002a,metoo,metoo|women s rights,0,0,2019-08-30T16:20:35,0.5,0.0
+1158546081522814978,45ad1011a5b385c21b46dee3657d0f0e,metoo,bsa|metoo|pedophile|usa today,2,6,2019-08-06T03:11:25,0.0,0.75
+1158666208159379457,433cb450ba95c39f52fd2c68005c19d9,metoo,metoo,0,0,2019-08-06T11:08:45,0.5,0.0
+1159463474172506112,ac291d005f3b65a13485e6e316f1562e,MeToo,metoo,2,1,2019-08-08T15:56:48,0.0,1.0
+1159848372771205120,93626a5655f6c5c42fb78af498712e27,MeToo,metoo,0,0,2019-08-09T17:26:15,0.0,0.25
+1161096176747393024,ef63980f1103fd39f0fe1d32eb4682ec,MeToo,,21,8,2019-08-13T04:04:35,0.25,0.5
+1161433987430178816,2a0671ff80bd52654f1a47c4646d7977,Courageous|EmpoweredWomen|Healing|MeToo|PTSD|Solidarity|SpeakUp|StandUp|SurvivorTough|TruthTellers|Warriors|YourStoryMatters,metoo|ptsd,0,0,2019-08-14T02:26:55,0.25,0.0
+1163173235128786944,b6fed34936d6a521b99c4b63d06bc2ac,MeToo,metoo,71,34,2019-08-18T21:38:04,0.25,0.0
+1163462167888138240,17f622951119f46a84795186aa9ce425,MeToo,audiobook|barack obama|donald trump|jay z|metoo|racism,12,5,2019-08-19T16:46:11,0.5,0.75
+1164480983388872704,ba2471e21c97ed2d57ea7d97a8edf989,CNN|DonLemon|Hypocrisy|Metoo,cnn|don lemon|hypocrisy|metoo|sexual assault,0,1,2019-08-22T12:14:36,0.0,0.5
+1164701896264888321,b0eba8fa3b206820c3d19fff0e9cd7b7,Kentucky|metoo|walkaway,kentucky|metoo|walkaway,2,1,2019-08-23T02:52:25,0.0,0.75
+1164807264802238465,4d3375d0018f66637f0ba7dfa2d1ed78,FreedomHK|MeToo|hkpolicebrutality,metoo|what s happening,0,0,2019-08-23T09:51:07,0.0,0.0
+1165546414438354951,b0899801eeb195f3380f22f3a996b036,MeToo,metoo,0,0,2019-08-25T10:48:14,0.25,0.0
+1165929198323732480,e96c990e8197e911e80061b4fca38f8a,MeToo|Patron,frightfest|metoo,33,14,2019-08-26T12:09:17,0.75,0.75
+1167430760883769346,d9ed7f1769a79bcce417cf05c162bfb9,EquipCircle|MeToo,metoo|sexual harassment,20,8,2019-08-30T15:35:57,0.0,0.5
+1167540484132225026,2a7d3046df2cf3d6a27b42aaf61b0fe3,MeToo,metoo,26,8,2019-08-30T22:51:57,0.0,0.75
+1156744952707260428,a356ed424e779f93335560eeb63fc954,metoo,metoo|mirror image|quid pro quo,0,0,2019-08-01T03:54:22,0.0,0.25
+1160548134956613632,a579eed376b8aa2ab39dc1f34788c923,metoo,lawyer,2553,474,2019-08-11T15:46:51,0.0,0.75
+1161371286330908672,e3693d50b8b6b88851c4d945148a6ad8,MeToo,justin bieber|metoo|shawn mendes,1,2,2019-08-13T22:17:46,0.5,0.0
+1164815018476462080,1883c25eccf72410fb6c5135e720f65f,AntiELAB|HongKong|metoo,hongkong|metoo|pen|sexual abuse,135,101,2019-08-23T10:21:56,0.0,0.75
+1164954426181914624,2da4719c873510df51e7527189de4b1a,MeToo,metoo movement|sexual abuse,0,0,2019-08-23T19:35:53,0.25,0.75
+1166059728146821120,fdf3ab11ee794bc3e3854acef7dfaf30,MeToo|MondayBlogs|WritingCommunity|amwriting,metoo|rape|t i,5,6,2019-08-26T20:47:58,0.0,0.75
+1166552481138139136,50e13f51edd9209c58ed9908d0ad1bb8,DaveChappelle|MeToo|MichaelJackson,dave chappelle|metoo|michael jackson,0,0,2019-08-28T05:25:59,0.0,0.0
+1166678046038003717,fb6f005b251fa47c6c10ba53f32a93e1,MeToo,metoo movement,0,0,2019-08-28T13:44:56,0.0,0.0
+1167261259827470338,44563a5d56ada7c4261caf67449d6a61,BLM|BirtherInChief|CorpMedia|DACA|Humanity|MeToo|MegaBanks|NoDAPL|Occupy|Oligarchs|SDF|Union,daca|hate inc|metoo|nodapl,0,0,2019-08-30T04:22:25,0.0,0.75
+1157469761992663041,836b703293b9195ecd9ed1a177dd2703,Metoo,metoo,0,0,2019-08-03T03:54:30,0.25,0.0
+1157647314967846912,c4935fea97f924bcbe391c29f2b3c0c8,MeToo,funimation|jamie marchi|metoo|monica rial,469,170,2019-08-03T15:40:02,0.25,0.0
+1160589972518256640,63f81af17e3c7e770d009e016624f891,metoo,,2378,523,2019-08-11T18:33:06,0.0,1.0
+1162155082709962753,0f78e798bbf7f28a1d28d25b9e8c9cf4,ChaseTheTruth|LiesOfLeavingNeverland|MeToo,metoo|wade robson,18,15,2019-08-16T02:12:18,0.25,0.75
+1162909724012175365,fe395c8f713550a57ed61a61e42386e9,metoo|twill,house leader|illinois|metoo|republican|sexual harassment|twill|zero tolerance,75,101,2019-08-18T04:10:58,0.25,0.5
+1163672399407198209,84bccfad525238f3249f45d0c4219d56,MeToo,metoo,0,0,2019-08-20T06:41:34,0.0,0.5
+1164575290443493376,e87fe4b90744683d654bbb0958d2d436,Metoo,feminist|metoo|sexually assaulted,0,0,2019-08-22T18:29:20,0.5,0.75
+1164757050485661700,4cf9f6a14e6f2919296295b1b1a248a0,metoo,aamir khan|metoo,8,6,2019-08-23T06:31:35,0.0,0.5
+1167219382721896448,7947677b918991e734a6b377e7ecaacc,DomesticViolence|MeToo|istandwithvic|kickvicisabusive,metoo,45,13,2019-08-30T01:36:01,0.25,0.5
+1158020648863584256,82c71dd0c7f31f5d54d60ab3031ae033,Metoo,metoo,9,3,2019-08-04T16:23:32,0.25,0.25
+1166179632707756033,bf6bbf36d5d68df9d770fa5b2574af5a,metoo,metoo,0,0,2019-08-27T04:44:25,0.0,0.25
+1166679552854085633,ac88094ce1655e249ffa516f124b8a64,MeToo|ProtestToo,chater garden|metoo|sexual assault,133,107,2019-08-28T13:50:55,0.0,0.5
+1166774597816946689,253439c549f72c17a8813e77f7e9f7df,MeToo|PoliceBrutality|antiELAB,metoo|pic,0,1,2019-08-28T20:08:36,0.0,1.0
+1167809941291327488,45ad1011a5b385c21b46dee3657d0f0e,metoo,metoo|nj,0,1,2019-08-31T16:42:41,0.0,0.75
+1156748178097627136,47e2ce9dd4488e0c8a3cfa385e01a28f,BernieSanders|ElizabethWarren2020|KamalaHarris2020|Resist|Squad|alyssamilano|chrisevans|markruffalo|metoo,metoo,0,0,2019-08-01T04:07:11,0.25,0.25
+1158034811564380166,f4d011e5565c18f7b37e1b846a4dd99f,12|12YearsWithSNSD|GG4EVA|MeToo,metoo movement,106,96,2019-08-04T17:19:48,0.0,0.25
+1158362332403253248,bbb0843ee1199119c53605664f249fa9,TIMESUP|TIMESUPHC|metoo,metoo,12,9,2019-08-05T15:01:16,0.0,0.75
+1158418106684805120,c3a2b4ff04e55b1bb8aedb93c5dcbb34,BlueWaveUnited|ChildVictimsAct|ElPasoShootings|MeToo|NeverAgainIsNow|OhioShooting,burning bright|gasoline|metoo|these eyes,0,0,2019-08-05T18:42:53,0.25,0.0
+1159226814633402369,4795cbb7795a108f4df0fb680421fa63,FreemasonFavors|MeToo|OhioGate,metoo|rape|tea party,0,0,2019-08-08T00:16:24,0.0,0.75
+1162976518227677185,d40b3419ccfc3c767e53c19b72257d6b,MeToo,metoo|no more women|patriarchy|the washington post,0,0,2019-08-18T08:36:23,0.0,0.75
+1163545186162618371,2763257a05f067bf3748597135bfcfe0,metoo,metoo,0,0,2019-08-19T22:16:04,0.0,0.0
+1164552548948180992,4346ca2b6945e191174d2feb9251e727,ChabadMafia|Clinton|Epstein|MeToo|MichaelJackson|Trump|Weinstein,metoo|proven innocent|scapegoating,0,0,2019-08-22T16:58:58,0.25,0.75
+1166464425227890695,c1a0547e0ce78942783ca8261ca116c8,metoo,metoo,43,15,2019-08-27T23:36:05,0.25,0.0
+1166696102516539392,ebc1956f29c065535666c29319c902bc,MeToo,metoo|planned parenthood,0,0,2019-08-28T14:56:41,0.25,0.75
+1167445341123178496,37fb9e4d214ae34016168eb613b64cd6,MeToo|ProtestToo,metoo,23,17,2019-08-30T16:33:54,0.0,0.5
+1161140908806561793,5b6c7927b7fd8914d264198a8658237c,SexualHarassment|Timesup|metoo|sagaftra|sexualmisconduct,alyssa milano|metoo,8,7,2019-08-13T07:02:20,0.0,0.5
+1161270800797884418,0f9dd7db9e09679648c5cce3c3ccf8a3,99cents|ChristFic|arson|college|inspy|metoo|yabooks,arson|metoo|young adult,2,6,2019-08-13T15:38:28,0.75,0.0
+1162518542190727168,6ccb77f20af8ab827a560aadd3914a7b,JustSaidNo|WhitneyPort|metoo,metoo,0,0,2019-08-17T02:16:33,0.0,0.5
+1163176410950840321,e3a622e1db80d1104f5d1f39dd262b95,MeToo,metoo,70,20,2019-08-18T21:50:41,0.0,0.5
+1165278914295586816,85f46653242bfbde499ccc795c2cab7e,metoo,blog|metoo|short story,0,0,2019-08-24T17:05:17,0.5,0.0
+1166124536334626816,9aeb6fad15f37e3d10d9c7c967787fc7,MeToo,amazon|g7|harvey weinstein|metoo,0,0,2019-08-27T01:05:29,0.5,0.75
+1157980494006558720,c4c4e117b65230505c38d7f23ffcb0bc,MeToo,ceo|metoo campaign|nice,0,0,2019-08-04T13:43:58,0.5,0.5
+1161071800891011073,f05445da50ac25dedf27f395387f9148,metoo,metoo,0,0,2019-08-13T02:27:43,0.5,0.0
+1161692784379793408,a1fd7fbf173fb452acdd71112d6dea30,MeToo,howard stern|metoo|scott baio,0,0,2019-08-14T19:35:17,0.5,0.0
+1166744917013454848,f4280c4ec32f4ce3ddd9089bfdc27dd9,MeToo|ProtestToo,metoo,5,4,2019-08-28T18:10:39,0.25,0.0
+1167068393138081792,4baa3c6aea79fcb2cbd51e8f53473d85,MeToo,metoo|nudity|playboy,0,0,2019-08-29T15:36:02,0.0,0.0
+1167520092323819521,5e33da7db202d95296f9c7ec258b3f6c,MeToo,hypocrisy|marc elrich|metoo|msm|rape|underscore,123,112,2019-08-30T21:30:56,0.0,0.75
+1167625772179181569,7780c434326e36a5699707daec02d23a,HongKongProtests|MeToo|ProtestToo,metoo,12,17,2019-08-31T04:30:52,0.0,0.5
+1158703432628412416,97c3df6e421905650f86d74673bd4273,MeToo,metoo|universal credit,0,0,2019-08-06T13:36:40,0.0,0.0
+1161374508021964800,693a85621d75e83c118da5e5fd9d46e2,EndGBV|GenderEquality|MeToo|SDG5|Safecity|TimesUp,android|ios|metoo|mobile app|sexual violence,0,0,2019-08-13T22:30:34,0.25,0.0
+1163284296276119552,e18824dd829d79be47cad83dbb679a8d,MeToo,metoo,0,0,2019-08-19T04:59:23,0.25,0.0
+1163851911415644167,5a7b86571f23f0e3ce20a0e23add47e7,MeToo,feminist|metoo,0,0,2019-08-20T18:34:53,0.0,0.0
+1164072204671377408,2e3c887d413925efe6086c1e01a18a7c,MeToo|metoo|news|timesup,metoo,0,0,2019-08-21T09:10:15,0.0,0.5
+1166698447560269826,664166c3731affee01baeccc040d1996,HongKongProtests|MeToo|PoliceBrutality|ProtestToo,metoo|sexual violence,1,1,2019-08-28T15:06:00,0.5,0.0
+1158394803148775425,9507cb429e226a673d8dd4364808e6e6,HistoricalFiction|MeToo|womensfiction,metoo,0,0,2019-08-05T17:10:17,0.5,0.5
+1158697012969254912,82e35b0f9991b5b7c491acd78991c560,metoo,casey affleck|defender|metoo movement|mob mentality,0,1,2019-08-06T13:11:10,0.25,0.25
+1159518622227804167,f388525c2b3da79b2bc66ce23477a577,metoo,metoo|religious discrimination,18,7,2019-08-08T19:35:57,0.0,0.5
+1162033951604641793,848bd595ae742c91bbbc5965da945784,MeToo,metoo|right to reply,1,2,2019-08-15T18:10:58,0.25,0.5
+1163435626731102208,d772865ec34f9284a84ef521ed014930,Iran|IranPersecution|MeToo|Persecution,cycle of abuse|metoo|prostitution in iran,0,0,2019-08-19T15:00:43,0.0,0.75
+1163781596094353415,c8a89be2d5a3ded9f2b497e1bf7132e4,MeToo|aisaynahichalega|kashmir|pakistan,kashmir|kashmiri|metoo|pakistan,79,20,2019-08-20T13:55:29,0.5,0.0
+1164807945667788800,a1ee90175b39374362d88f76ab1db49e,MeToo,metoo,181,50,2019-08-23T09:53:49,0.0,0.5
+1166168868022173696,892c7c95ac9d9b3db75fcd7207eb8620,Chinazi|FreeHongKong|HongKongProtests|metoo,metoo,119,78,2019-08-27T04:01:39,0.0,0.0
+1156780054829047809,f51b5adef9dbf2b084eb324b17ef466e,MeToo,metoo|sexist,0,0,2019-08-01T06:13:51,0.0,0.25
+1157833546557345792,896b599af590a727f5de60a0eb9550b6,LeavingNeverland|metoo,metoo,0,0,2019-08-04T04:00:03,0.0,0.0
+1159437255309533184,78a3a28f23833f3259797a222b67ab12,Ajith|Metoo|NerKondaPaarvai|Thala,metoo|sexual harassment|tamil cinema,4774,1565,2019-08-08T14:12:37,0.0,0.5
+1160431884343619585,63d3ee3131ad70dea5ff0aee67718059,JeffreyEpstein|MeToo|PetSematary,bury|metoo movement,0,0,2019-08-11T08:04:55,0.0,0.0
+1161050183439794176,1eb8f9aad856d12c44b0b3da889c1612,MeToo,i m so excited|metoo movement,0,0,2019-08-13T01:01:49,0.5,0.0
+1161516989434802176,b1022c3bec5f9e52d35c95d906685256,Democrat|DemocratsAreDangerous|DemocratsHateAmerica|DonKiss|DonLemon|FakeNewsCNN|KAG2020|MAGA|MeToo,democrat|metoo movement,229,270,2019-08-14T07:56:44,0.0,0.5
+1162076282185818114,c31f51eda92ed2c15fd6027ba66cfd70,MeToo,metoo|sexual harassment,0,0,2019-08-15T20:59:10,0.0,0.5
+1163270643795709952,412c5a3831244296498b18b2dbb7daab,metoo,dem|home to roost|metoo,0,0,2019-08-19T04:05:08,0.25,0.75
+1166954144504016896,dc7fb81dbef77fbf9b5e3e9bdecd27c5,MeToo|ProtestTooHK|metoohongkong,metoo,0,0,2019-08-29T08:02:03,0.0,0.25
+1167907261504602115,d51a0a193f7629ae5057088525606c71,CPS|DHS|EndFamilyCourts|GoodbyeAFCC|MeToo|RecallHaight|kids4cash,child molestation|contra costa|dhs|metoo,5,9,2019-08-31T23:09:24,0.25,0.75
+1159460676466806785,b8108c7f56549e7b790c10a3e0b7f331,author|bookrelease|booksofinstagram|featuredauthor|interview|metoo|notyourshame|psykiskoh,metoo,0,0,2019-08-08T15:45:41,0.0,0.5
+1159694815463821312,5f4c044f5ae3da580eea652939978822,Artical370|Article370|Article370Scrapped|MeToo|ModiKashmirSpeech|SaveKashmirFromModi|earthquake,goi|incompressible|metoo,1,1,2019-08-09T07:16:04,0.0,0.0
+1161161860990660608,85d70802756d1b9925e74b02e66889cf,MeToo|MenToo,metoo,0,0,2019-08-13T08:25:35,0.0,0.25
+1163218634426204161,a549c65aa1496afc236115de497d8e42,MeToo|SundayThoughts,metoo movement,0,0,2019-08-19T00:38:28,0.25,0.75
+1164102663677476864,d9bb3c95d16eb7afd2771d22f97dde62,MeToo,metoo movement,0,0,2019-08-21T11:11:17,0.0,0.25
+1164181438914322432,86a7c62208615d415bf013fdf7efebab,Democrats|Metoo|feminist,feminist|metoo,23,32,2019-08-21T16:24:19,0.0,0.0
+1164797987035308032,3b6bbdab91fdfbaa85efec778e9cef5e,StandWithHongKong|metoo|policebrutality,hong kong police force|metoo|sexual assault,0,0,2019-08-23T09:14:15,0.0,0.5
+1160904745646743553,4b4bd0aa740a265586822a2dc5f44278,Metoo,metoo,6,2,2019-08-12T15:23:54,0.5,0.0
+1163749236099440640,0ef7df9ca8bb05ed393330f5f8c61488,MeToo|OneVoice1,metoo,77,51,2019-08-20T11:46:53,0.25,0.5
+1166050699802599424,9e991bfbcc4de32a46efb5f98292f46f,MeToo,metoo,0,0,2019-08-26T20:12:05,0.0,0.0
+1166083114801647616,d2b9b12d55598f7a84b7f1b9dcb1ad4f,HarveyWeinstein|MeToo|Survivors|Untouchable,bbc|hulu|metoo,9,7,2019-08-26T22:20:54,0.25,0.0
+1166310850833113093,a93818f77d0b0d797533d9d3f34c8015,2|MeToo,anti catholic|blackface|klansman|metoo|northam|tweets|virginia,1,2,2019-08-27T13:25:50,0.0,0.5
+1166712000853839873,5a5f2d1152f505e1358643e96c2120b1,ProtestToo|metoo,metoo|our girl|sexual harassment,13,14,2019-08-28T15:59:52,0.0,0.5
+1167207941818109955,08f72ee9ce7b6421d5c21d8ec34a141e,Japanese|MeToo|SouthKorea|hatecrime,metoo,0,0,2019-08-30T00:50:33,0.0,0.25
+1158003821848727552,dea2a39e17dd018889dcfe74e0b7fa9e,ItIsTheFingerNotTheTrigger|MAGA|MeToo|NRALifeMember|Word,gun control|kinda funny|metoo,4,2,2019-08-04T15:16:40,0.25,0.0
+1159713974667108352,7dc659011f4a8e0e38eb36f132da97d8,metoo,metoo,0,0,2019-08-09T08:32:12,0.0,0.0
+1161073453434322945,025e75b92685881371383c3f1ffd9ccb,metoo|timesup,metoo|sexual harassment,0,0,2019-08-13T02:34:17,0.5,0.5
+1161297051784601602,06dd461e747cfd7e342251bda7144bc2,BillCosby|MeToo|entertainmentlaw|legalnews,metoo,0,0,2019-08-13T17:22:47,0.0,0.0
+1163752548366315522,896b599af590a727f5de60a0eb9550b6,LeavingNeverland|metoo,metoo,0,0,2019-08-20T12:00:03,0.0,0.0
+1166468662108147712,b2f54b654498a57e5f9964a8290c2b63,MeToo,ghislaine maxwell|metoo,17,3,2019-08-27T23:52:55,0.0,0.75
+1166630264514260994,245d7749a515c1604207e8e2064e117c,MeToo|PoliceBrutality|Rape|StandwithHK|StopPoliceBrutality|Womensrights,metoo|rape,0,0,2019-08-28T10:35:04,0.0,0.75
+1166941712553373696,6a35d73aacdf556b55f3fefd12249550,Metoo,charter garden|hong kong police|metoo|sexual violence|stand with you,0,0,2019-08-29T07:12:39,0.5,0.75
+1167225461954535425,726815461430818cfb670b07adcf4cba,ALANchat|metoo,hea|metoo,1,1,2019-08-30T02:00:10,0.5,0.0
+1167509230519234560,3f918e6a0c2620f1fdd9f93010c84b3b,metoo,blog|joker|metoo,2,1,2019-08-30T20:47:46,0.25,0.0
+1167787351382417408,0b8d8c68c9157d46fea6d037d0eeee45,carlbeech|metoo,due process|fembot|metoo,0,0,2019-08-31T15:12:55,0.25,0.0
+1157449575210332160,12b308302bb1563f90046905f729134f,MeToo,bullying|metoo|unrwa,20,18,2019-08-03T02:34:17,0.0,0.25
+1158826061494476802,128c02202651ef55511c13bafd6d6e47,MeToo,metoo movement|tmz,0,0,2019-08-06T21:43:57,0.0,0.0
+1159086362957684736,775054ff61a1580fe08584e284cf818d,MeToo,metoo,23,7,2019-08-07T14:58:18,0.0,0.5
+1160635920435044353,44563a5d56ada7c4261caf67449d6a61,ClintonsBodyCount|CorpMedia|Humanity|Idiocracy|MeToo|MegaBanks|Oligarchs|TimesUp|TrumpBodyCount,idiocracy|metoo,0,0,2019-08-11T21:35:41,0.0,0.0
+1160648352360361984,3221e09617c9f0e890619f679d4a1a00,MeToo,metoo|shakespeare,0,0,2019-08-11T22:25:05,0.0,0.25
+1161466510801551364,56b66a2f0ba9b5811478d3a83e4568a1,MeToo,don lemon|metoo,1,1,2019-08-14T04:36:09,0.25,0.0
+1161625725838987265,371a7d5e03e0d7fb2f8327769d0d6bf1,MeToo|NAASCA|PTSD|leadership|memoir|mentalhealth|metooCSA|truthOWNit,memoir|metoo|ptsd,0,0,2019-08-14T15:08:49,0.25,0.0
+1162356417241571329,eaf5ec63c3c194b286aeb8cfe6c0b5e8,AtalBihariVajpayee|BharatRatna|Brexit|Londonistan|Metoo|Metooindia|Quetta,brexit|londonistan|madras high court|metoo|quetta,24,25,2019-08-16T15:32:20,0.25,0.75
+1162592991053266944,1b2846f71cd083c8b43331ffc03638ec,MeToo|NiUnaMenos|NoMeCuidanMeViolan|NoNosCuidanNosViolan,metoo|niunamenos,0,0,2019-08-17T07:12:23,0.0,1.0
+1162801405578661890,ddddd91f9ed372ba8e49a87b793eaafa,MeToo|Pl,metoo|sexually harassed|the associated press,2,2,2019-08-17T21:00:33,0.0,0.5
+1162856294614753280,2a0671ff80bd52654f1a47c4646d7977,AbuseSurvivors|CSA|HimToo|MeToo|PTSD,child abuse|child pornography|csa|domestic abuse|metoo|ptsd|rape|sex trafficking,12,3,2019-08-18T00:38:40,0.0,1.0
+1163499807987527680,4b1d5ab070f5498bb3feb01f7fb46d2e,metoo,metoo,0,0,2019-08-19T19:15:45,0.0,0.5
+1163869812726128641,fe0a94003acc8aef363c0d65553f639e,MeToo|TrusteesUnited,california|metoo,0,0,2019-08-20T19:46:01,0.25,0.75
+1164149526640418817,1ccadf356ca5cdc1f9b01b60602e5dad,metoo,globalism|metoo movement,0,0,2019-08-21T14:17:30,0.25,0.5
+1164804540396216321,b66fe7faa14bf3eb47a2ab921a8811a3,MJAkbar|MeToo|PriyaRamani,metoo,33,24,2019-08-23T09:40:18,0.25,0.5
+1166684777174294530,c8fd465dc08011b843e0ce8b57ad1a80,MeToo,metoo|police abuses|sexually harassed|strip search,474,315,2019-08-28T14:11:41,0.0,0.75
+1156971491231227907,f12ed3fb408282ee9613a027321172f6,MeToo|rape,metoo|rape|wales,0,0,2019-08-01T18:54:33,0.0,0.75
+1157393673098653696,a034518e2f2ae4fbb070572c02cd2ec4,metoo,metoo,0,0,2019-08-02T22:52:09,0.5,0.0
+1158607522422542337,e245e3c426dc67ac1e3a8bda487e5cfd,AftonWilliamson|MeToo,metoo campaign,2,1,2019-08-06T07:15:33,0.25,0.0
+1160372256465477632,2142994c0efef86027be3889a951c73a,MeToo,metoo,3,1,2019-08-11T04:07:59,0.0,0.0
+1161769754039767040,061355ec9ce08f77bbbf7aeb899be8ad,MeToo,metoo,0,0,2019-08-15T00:41:08,0.25,0.0
+1162368414578614273,a22bc114e96c1631e74addfc7997e686,MeToo,metoo,2,1,2019-08-16T16:20:00,0.0,0.5
+1163158609733328896,faa7d3e91997edf0be5933d31a2c0484,metoo,metoo movement,0,0,2019-08-18T20:39:57,0.0,0.0
+1163265730990759936,c893c9dc3bf93bee1feb5f21bb0a5ce7,Abalone|ChickLit|MeToo|SundayMotivation|WomensFiction|inspirational|literary,abalone|chicklit|metoo,13,29,2019-08-19T03:45:37,0.5,0.75
+1164240266858913793,372e697a3e3ac85dcf5a4cd68f864718,METOO,castration|groping|metoo|pedophiles,0,1,2019-08-21T20:18:04,0.25,0.75
+1164428917614104576,77a8edce35592fd778654400922d0744,metoo,folklore|metoo|race relations,0,0,2019-08-22T08:47:42,0.25,0.25
+1165678632293060611,b9f2ad907d883728a7ae2988216ab406,MeToo,mark halperin|metoo|mob justice,32,15,2019-08-25T19:33:37,0.0,0.0
+1167021278500253696,9be0f9596a0b4de9645d4453e237b1b1,MeToo,lol|metoo,0,0,2019-08-29T12:28:49,0.5,0.0
+1167366357010305025,12bc38b9df128b9d7f85e40c0dcfc017,MeToo,metoo,27,18,2019-08-30T11:20:02,0.25,0.25
+1167403555789123592,8ee64226ab092defd4ed85a12575b473,MeToo,metoo|social media,0,0,2019-08-30T13:47:51,0.0,0.75
+1167413494725132289,4034fc8878eb176137c7a797f278c674,MeToo,metoo,4,3,2019-08-30T14:27:21,0.0,0.0
+1158264481908060160,a3a4a8af561f11e8978414e82b894295,MeToo|ThisNewWorld,metoo|our boys,0,0,2019-08-05T08:32:26,0.5,0.0
+1159691053810667523,24823b8cf491229837351c6c00c57898,MeToo,metoo,31,12,2019-08-09T07:01:07,0.25,0.25
+1159775553286750208,984b79cd9dd00b9f4bc2f2f7590ba6a6,MeToo,dear world|kashmir|metoo|racist,2,2,2019-08-09T12:36:54,0.25,0.75
+1161596374028148736,ac7da14326b8c674baf13ba96de1004a,MeToo,metoo|sexual violence|sledgehammer|tony mochama|whistleblowing,63,49,2019-08-14T13:12:11,0.0,0.25
+1162391945488060416,f09d6620989a31c1c346dc96c1261e77,metoo,metoo|tl,0,0,2019-08-16T17:53:30,0.0,0.5
+1163170781615935488,81e95b8c6cfeb129a7ea15ba8c3a9cab,MeToo,metoo,0,0,2019-08-18T21:28:19,0.0,0.5
+1163442705403437057,0560ee18a217a7f9f578242c5483477b,Agendas|FactsDontLiePeopleDo|INewThatLeavingNeverlandWasBS|LiesOfLeavingNeverland|MJInnocent|NormelizingPedophilia|metoo|propaganda|wadeandjamesdonotspeakforme,metoo|propaganda,3,1,2019-08-19T15:28:51,0.25,0.0
+1163543625889959936,abbc14b1ac98830ffc277d225aca82a4,MeToo,metoo,0,0,2019-08-19T22:09:52,0.25,0.75
+1166785402105139201,6524eab4c1031db6288c117374214f17,MeToo,metoo|sexually assaulted,200,109,2019-08-28T20:51:32,0.0,0.5
+1157537797776920576,db4197110dac12f2348a27cfc735d67f,MeToo,metoo,0,0,2019-08-03T08:24:51,0.0,0.0
+1159798248871202816,a0d107045675844ebeca3c06a4f83d71,52|SurvivorTough|metoo|natureheals,metoo|soul,13,11,2019-08-09T14:07:05,0.25,0.0
+1159917317955969024,41cc2a7837075696c458d65101661d4a,MeToo,metoo,1,1,2019-08-09T22:00:13,0.0,0.0
+1160939686539321344,2d1811d33a97641e92df64a81600c364,GreatReads|MeToo|Tattered|WomensFiction,denver|metoo|tattered cover,9,20,2019-08-12T17:42:45,0.5,0.0
+1161818693204160512,058b812b360cafb16badc6dd7b4ef938,metoo,corey feldman|metoo|monica rial|scapegoat,0,0,2019-08-15T03:55:36,0.25,0.5
+1162744008453419008,2b9b9101cca91fef752e908f6245411f,MeToo,metoo|rushing back,173,55,2019-08-17T17:12:29,0.0,0.0
+1163814867309981701,abba5333102992215d9e71d9aefa324a,1619project|metoo,metoo,0,0,2019-08-20T16:07:41,0.0,0.0
+1164623294257074178,8b88416fc1a64c03de6c73462da9eb0c,MeToo|News,metoo movement,0,0,2019-08-22T21:40:05,0.0,0.0
+1165232565156024320,8c1a521d101eb24d139dc9ddfa30002f,MeToo,emmy awards|julia louis dreyfus|metoo movement|npr,434,43,2019-08-24T14:01:07,0.5,0.0
+1165412746239926272,2f4d0d04f3d5a86b7722b654fd4cd2f5,MeToo,mastectomy|metoo|predatory|roger ailes|the loudest voice,43,9,2019-08-25T01:57:05,0.0,0.75
+1166421615229509634,32c71135a6ed8e3a10da926a6e1c94cf,MeToo,metoo movement,97,37,2019-08-27T20:45:58,0.25,0.5
+1167077041805639680,e41b7a18f42239dd16e801077bd7e4c5,MeToo,metoo,0,0,2019-08-29T16:10:24,0.0,0.0
+1167820947732058113,95474f20e1a4cea75a531672a44b4b01,AntiELAB|ChiNazi|FreedomHK|HKpolice|HongKong|HongKongProtests|MeToo|PoliceBrutality|SexualHumiliation|StandWithHK|WhiteTerror,hongkong|metoo,0,0,2019-08-31T17:26:25,0.0,0.0
+1167837702651285505,1ca2363f13f338289f5bfdf9800b738b,MeToo,metoo|tom holland|voltaire,39,17,2019-08-31T18:33:00,0.0,0.0
+1156689757163925504,d47b4b7da4d258a8d65d05ed981a6113,Metoo|ThursdayThoughts|TimesUp|Uber|thursdaymorning,mailonline|metoo|sexting|uber,2,7,2019-08-01T00:15:03,0.0,0.0
+1160611840705081346,e49493e6b37ac82324d15a031fb560de,EpsteinDead|EpsteinScandal|MeToo,human sexuality|metoo|patriarchy,29,19,2019-08-11T20:00:00,0.0,0.0
+1161448319366942721,ba457f1062e9a7c4ffb5472d9ba0e1d5,MeToo,metoo|sexually assaulted,0,0,2019-08-14T03:23:52,0.0,0.5
+1161689642602782720,89edfed4ecc0079346096e4965c430dd,MeToo,metoo,2,2,2019-08-14T19:22:48,0.25,0.25
+1163233566140129285,564c92e4981c928cc0bf2662eab7e7ef,F_ckYou|KatyPerry|KatyPerryIsADiddler|MeToo|MeWho,metoo,0,0,2019-08-19T01:37:48,0.0,0.0
+1164423727322292230,e5643634b4dee04c99734a85e64508b6,Brexit|KarmaStrikes|KiaSeltos|Metoo|Metooindia|PChidamabaram,brexit|gospel of truth|metoo,20,17,2019-08-22T08:27:05,0.25,0.75
+1158247771817807872,efbcbc0ad8e45dd81230019aa1be21be,MeToo|Workplace|harassment|writing,metoo|workplace harassment,0,0,2019-08-05T07:26:02,0.0,0.5
+1158384061548617733,5d83958d7cc5dc1331711818ba72aa13,MeToo|TrumpCountdown|TrumpRussia,metoo,0,0,2019-08-05T16:27:36,0.0,0.0
+1159653681962393600,4e55ecae2bcea15eea4f80ed9d0c68a3,MeToo|Trump2020,metoo,30,26,2019-08-09T04:32:37,0.25,0.75
+1161941329603174401,ef05e29a33dc909d5b7fef1a2868ecca,metoo|safesport,if something should happen|metoo,66,7,2019-08-15T12:02:55,0.5,0.0
+1163107277617807366,f477685ed4d89cbf37c19d705c45f1de,KAGA|MAGA|METOO|Mtnews|Veteran,metoo,1,2,2019-08-18T17:15:59,0.0,0.0
+1166705887584518144,a91ca2e90506bb09ad3bbc39760e2151,HongKongProtesters|ProtestToo|feminism|metoo,feminism|metoo|purple sea,6,7,2019-08-28T15:35:34,0.25,0.5
+1166729128449458176,59a5298bab9eaf7337cc68e328457b07,EyeforHK|MeToo|PoliceBrutality,carrie lam|i can t explain|metoo,0,0,2019-08-28T17:07:55,0.0,0.75
+1166749181442002944,5d83958d7cc5dc1331711818ba72aa13,MeToo|SmockingGun|TrumpCountdown,metoo,0,0,2019-08-28T18:27:36,0.0,0.0
+1161646901323681792,c760aa62b939f9c6ccf25b7cd0d73fce,MeToo,jeffrey epstein|metoo,8,1,2019-08-14T16:32:58,0.0,0.75
+1162408054228492288,bdb168c9c06a652c8faeba0247fb553b,Boys|MeToo,child sexual abuse|metoo,0,2,2019-08-16T18:57:31,0.0,0.75
+1163624487851560960,7d40e236c7627a803b3305a6de5ec2a8,MeToo,metoo,0,0,2019-08-20T03:31:11,0.0,0.0
+1163918848296464389,f8df503941e90c0bcf92c427e613e4b6,MeToo,groping|metoo|sexual assault,0,0,2019-08-20T23:00:52,0.25,0.75
+1166725785622724609,4a0a38bdd4bc165918f030ac5b84a5de,Disney|MeToo|Mulan|YifeiLi|boycottMulan,hong kong police|metoo,0,0,2019-08-28T16:54:38,0.25,0.5
+1167451295332085761,6e10cdd3db236d37a696c887c00eb3e1,FightForFreedom|Hongkongprotest|StandWithHongKong|antiELAB|followbackhongkong|hkdemocracynow|hkpolicestate|metoo,metoo,0,0,2019-08-30T16:57:33,0.0,0.5
+1167912566653243393,d5fc6fe1c6a4c07aacc87ce16a9fd08c,MeToo,dave chappelle|metoo movement,357,58,2019-08-31T23:30:29,0.25,0.25
+1157488019793960960,c2488a880ff82051722d194da71bad11,metoo,metoo,0,0,2019-08-03T05:07:03,0.0,0.5
+1157821873817817088,65edd64e2612f54459eb27dbbeb5e87a,MeToo,metoo,0,0,2019-08-04T03:13:40,0.0,0.5
+1160774517829984259,24823b8cf491229837351c6c00c57898,IStandWithVic|MeToo,metoo|sexual misconduct|stfu,55,18,2019-08-12T06:46:25,0.25,0.75
+1161394537245368322,c514e9e55a398ee9ca67bbe433af5da9,MeToo,don lemon|metoo,3,1,2019-08-13T23:50:10,0.0,0.5
+1162042067591282690,213346a67b5f5a3e98e0e8831bcabdc7,DontWantToPayThenStayAway|metoo,metoo,1,1,2019-08-15T18:43:13,0.0,0.0
+1163428595915730950,436e272f039fe4d6eaefd4335447b758,1|MeToo,democratic|metoo movement,16,19,2019-08-19T14:32:47,0.0,0.0
+1164840462659678208,40bea8d637cdf2c1b07fcf0630482b73,MeToo,metoo movement,99,60,2019-08-23T12:03:02,0.0,0.0
+1165202364065882112,969edd659a72c34680e471651d44f4c8,Epstein|France|Paris|US|cdnpoli|dems|gop|metoo|resist|uk,dems|gop|metoo,0,0,2019-08-24T12:01:06,0.25,0.0
+1166731049042202625,3bd8253d873cb2079a328623e92b10d5,FightForFreedom|HKLastWord|HongKongProtests|MeToo,metoo|the new york times,0,1,2019-08-28T17:15:33,0.0,0.5
+1166878512814395392,bc1f4a273527ab3c56f176a7910af23e,MeToo,alyssa milano|metoo|sexual harassment,0,0,2019-08-29T03:01:31,0.25,0.5
+1162620565556875264,eaf5ec63c3c194b286aeb8cfe6c0b5e8,Ashes19|London|MTVHottest|Metoo|SaturdayMotivation|hbdshankar,london|metoo|rape,25,29,2019-08-17T09:01:57,0.0,0.75
+1164916709234335745,9cfeb41ec16c95e4b0f6b2004efa8f4a,Eye4HK|FreedomHK|HKPoliceState|MeToo|NoPoliceBrutality|SexualViolence|StandwithHK,english|metoo|sexually harassed,0,1,2019-08-23T17:06:01,0.0,0.5
+1165672394553532416,994daeb3a07a297c41509574b62938a5,feminist|metoo|rape|victimblaming|violence,feminist|metoo|rape|rape culture|this is what it feels like,0,0,2019-08-25T19:08:50,0.25,1.0
+1166703012842049541,3204e62b5b543cb6fedf57a1df623a43,HongKongPolice|MeToo|ProtestToo|SpeakYourself|antiELAB,metoo|sexual violence,79,52,2019-08-28T15:24:09,0.0,0.0
+1166958946957111296,2df81335837b951b214979cad510a679,metoo,alyssa milano|metoo movement,0,0,2019-08-29T08:21:08,0.5,0.0
+1167197063630639105,5cc136a12366fbeac89756f44d791db3,MeToo,metoo,2,3,2019-08-30T00:07:20,0.0,0.25
+1156711765243310080,7514ce8c40366547d6c265ef2eaaea16,Gillette|MeToo,metoo|sexist,143,74,2019-08-01T01:42:30,0.0,0.25
+1158400775854284800,cec6851ec47a438b2b9aec03d303ec48,metoo,metoo|shill,0,0,2019-08-05T17:34:01,0.25,0.5
+1158726488692350976,c38c0b1a1d2b01082e2dd92e176ae99b,CSA|churchtoo|metoo|recovery|trauma,cacophony|csa|metoo,0,0,2019-08-06T15:08:17,0.25,0.75
+1160164871809437696,66d2fe76b665b4bbed172f37389a12d8,AichiTriennale|SBS|aichitriennale|artfreedom|comfortwomen|metoo|nonfreedomofexpression|rosariaiazzetta|statueofpeace|wetoo|yoshikoshimada,metoo|sbs,4,2,2019-08-10T14:23:54,0.25,0.25
+1160321616070373376,cc854e5288ee84e7f02ce18d8ab596ea,AirForce|MetooMilitary|metoo,metoo|scotus,0,0,2019-08-11T00:46:45,0.5,0.75
+1161434742396297217,5c42da0963cce556f36a1d4b8b843635,believeallvictims|donlemoncancelled|metoo,metoo,0,0,2019-08-14T02:29:55,0.0,0.5
+1162108649642188800,f7852e9f9c391f8c1a5eedd8bcb84f3c,metoo,abuse of power|metoo,0,0,2019-08-15T23:07:47,0.0,0.75
+1162758400062709760,65b961bf454f43632aca9b0c024a848d,MeToo|TwoTieredJusticeSystem,don lemon|metoo|sexual assault,76,70,2019-08-17T18:09:40,0.5,0.5
+1167710255863619584,45dceaeec84d069a62264a37bc615926,MeToo,exec|metoo,0,0,2019-08-31T10:06:34,0.0,0.0
+1156948989822013440,19ac64005fbd46d3aa922322f8723078,MeToo,metoo|sexual harassment,16,10,2019-08-01T17:25:08,0.0,0.5
+1163853509445292032,48db8d184ae0795e0b844ce3dcaf5bb4,Metoo,metoo|torpedo,0,0,2019-08-20T18:41:14,0.0,0.5
+1166878678090842113,8fa00984c3f84101a37753b9eabb9ab6,HongKongProtests|metoo|protesttoo,metoo movement|sexual assault,1,1,2019-08-29T03:02:11,0.5,0.5
+1167038739413131264,ba3b97e95866b95f5026fbe72302a49a,MeToo|MyMumAttacksMe|MyTwitterAnniversary,metoo|twitter,0,0,2019-08-29T13:38:12,0.0,0.0
+1157361347606302723,48147bdd3b8dfa28c221d805a3d518e2,MeToo,metoo,0,0,2019-08-02T20:43:42,0.5,0.0
+1159125881857695745,dc8625fe4af952ae240310423d8f5e70,MeToo,metoo movement,65,13,2019-08-07T17:35:20,0.0,0.75
+1159482942483308545,0666d3337b33ef87e3a1105802f9df4c,BoycottSabroso|LetsStandWithRabia|MeToo|RabiaIsFighter,fir|metoo,368,332,2019-08-08T17:14:10,0.0,0.75
+1159882204027265025,c22595c188ea6f88dff93e234ef986db,MeToo,metoo,0,0,2019-08-09T19:40:41,0.0,0.0
+1164243354680483841,b9946e75d32fa7c23d7437f5150d466f,Unifor19|canfem|metoo,hashtag|metoo,0,1,2019-08-21T20:30:21,0.5,0.25
+1165300280088551426,d78f7276828faace538e74fb0236771a,feminism|mansplain|metoo|timesup,feminism|metoo,0,0,2019-08-24T18:30:11,0.0,0.0
+1166064306926116870,2215fe522ed2a473607c1414b939942d,harassment|metoo,metoo,116,50,2019-08-26T21:06:09,0.0,0.5
+1166499968481406977,2326158de8e989bf141669f40d4885ee,DaveChapelle|GunControl|LGBTQ|MeToo|MichaelJackson|SticksAndStones|abortion|nofucksgiven|opioidcrisis|rkelly,abortion|lgbtq|metoo|the realist,0,0,2019-08-28T01:57:19,0.25,0.0
+1166672582063443968,dca9b31a2a2f1574182781fa97c80340,CharterGarden|HongKong|antiEALB|metoo,hongkong|metoo|sexual harassment,131,99,2019-08-28T13:23:13,0.0,0.75
+1166692470958092288,7df8eb3e801c66c7c43e54a150a3e233,ProtestToo|antielab|hkprotests|metoo,chater garden|hong kong police|metoo|sexual violence,11,9,2019-08-28T14:42:15,0.0,0.0
+1167512759065632768,53e6f87870023d02cb634d6591536ab2,EndRapeCulture|GBV|MeToo|SGBV,metoo,21,9,2019-08-30T21:01:47,0.0,0.75
+1157680757650780162,380dad969d60610d87cca4ae8c305a2d,metoo,ceo|metoo movement,16,3,2019-08-03T17:52:55,0.25,0.75
+1159958576087089152,17f622951119f46a84795186aa9ce425,CashAppFriday|MeToo,cash app|metoo|white house,2,1,2019-08-10T00:44:10,0.25,0.0
+1161653840095186950,3860b1dde7dd0dd2f646be7d1d502874,MeToo,metoo|north carolina,103,40,2019-08-14T17:00:32,0.0,0.75
+1162199366507073536,84f441f6bd17743f03c652413c9de35b,DonLemonSexualPredator|MeToo|SexualAssault,bad to me|cnn|metoo,15,23,2019-08-16T05:08:16,0.25,0.25
+1165023921512386560,5efac822b3c7b0c0e5e7e49e1246fcfb,Kicha|Metoo,christians|dharma|hindu|metoo,1,1,2019-08-24T00:12:02,0.5,0.5
+1167669306857009152,8d411f494c59c116f4ea616477571294,MeToo,metoo,0,0,2019-08-31T07:23:51,0.25,0.25
+1157321312987054080,6de36ddd6c325d83fd9c7aa0c70cdd1b,action|equality|feminism|genderequality|girls|heforshe|metoo|women,feminism|heforshe|metoo,0,0,2019-08-02T18:04:37,0.25,0.0
+1159110763157626884,7074df16fdc605e019a9bd990a2403a3,MeToo,bribe|metoo,196,86,2019-08-07T16:35:15,0.0,0.0
+1159470833590517760,094e0885a2255a002e26e136e83f5b8c,MeToo|believe|rape|revenge|victims,metoo movement|rape,13,2,2019-08-08T16:26:03,0.0,1.0
+1162102056167059456,3a7d844dce6be321427219c22abe8ae2,MosaicGeorgia|SafetyHealthJustice|consentculture|gwinnettcounty|metoo|sexualassault|sexualassaultcenter|webelieveyou,metoo|mosaic,0,0,2019-08-15T22:41:35,0.75,0.0
+1163243808722771968,12cdfb8f67d925ed10fc95ff525c420b,MeToo,metoo|my truth,2,3,2019-08-19T02:18:30,0.25,0.0
+1163408091146272769,a813f4826055ff17d24703f03221be4d,metoo,abstinence|metoo,0,0,2019-08-19T13:11:18,0.0,0.75
+1164306024511279104,98532b98e52f78e509a4b0e4d1ece2ad,metoo,metoo,0,0,2019-08-22T00:39:22,0.0,0.0
+1166053434489024513,9988beb7cdab1e68f63b93adf0cb00ea,MeToo,metoo,0,0,2019-08-26T20:22:57,0.0,0.0
+1166412333779783680,f8953a0fc2a8a1ad09664a707ac56c21,NoPoliceBrutality|SexualHumiliation|SpeakYourself|metoo|protecToo,metoo|retweet|sexual harassment,1,3,2019-08-27T20:09:05,0.25,0.75
+1166752759187738624,a41ebd8c99302760780e5b78ce729e7a,MeToo,metoo,0,0,2019-08-28T18:41:49,0.25,0.25
+1158033637582835712,c263bf78b54332d39d185792ab07e97a,12YearsWithSNSD|GG4EVA|metoo,metoo campaign,37,65,2019-08-04T17:15:09,0.0,0.25
+1158377245809004550,afdd7680d308153ef83bb10f00c852c1,MeToo,emma watson|metoo|sexually harassed,0,0,2019-08-05T16:00:31,0.0,0.5
+1162370181240446976,618d373a34fddf18d39f99e191f34c0d,MeToo|womenleaders,blog|metoo,0,0,2019-08-16T16:27:01,0.0,0.0
+1162986143572381696,54042cbecb0cf08e95ee98b5b98a3d19,MeToo|Shame,civil society|metoo|sultanpur,33,45,2019-08-18T09:14:38,0.0,0.75
+1166687072427630592,df0f2d73d0012c57858afbcb3e89bacf,MeToo,busted|metoo|text message,462,408,2019-08-28T14:20:48,0.0,0.75
+1167772256061337600,29831ad31484aded0f174fd0f553cacb,MeToo,metoo,0,0,2019-08-31T14:12:56,0.5,0.25
+1156786039593172992,d15b3a0007355e63baaf4893efe64a74,MeToo,al franken|metoo|podcast|sexually assaulted,1,1,2019-08-01T06:37:38,0.0,0.5
+1160877541311356930,8dda222565de3327d6717a00ceb614bb,HappyWomensMonth|Imbokodo|WeKnowAfrica|WomensDay2019|metoo,feminist|metoo movement|novelist|sexual violence,2,2,2019-08-12T13:35:48,0.0,0.0
+1161317025093844992,602f87fba0af4c9e6d1b223ec4553389,Firstthem|metoo,metoo|tarana burke,154,76,2019-08-13T18:42:09,0.5,0.0
+1161584957195730944,b42210490e0468740ed963d63ac069db,emmy|metoo,emmy|metoo,0,0,2019-08-14T12:26:49,0.5,0.0
+1162586285376040962,df1997a50d1e33e04a50041f7769cc41,metoo,california|metoo,17,11,2019-08-17T06:45:44,0.0,0.25
+1163905119500435457,df9998d821b3fec8e8b2568a5aaaebf4,LivePDProducer|MeToo,metoo|sexually harassed,93,20,2019-08-20T22:06:19,0.5,0.5
+1164639939268698122,a3b5644da569d9c86843df729b592452,LiberalHypocrisy|MeToo,anti semitic|metoo|racist|white privilege,118,121,2019-08-22T22:46:14,0.25,0.0
+1165106110744817666,24f858424ef16347e4f5be78902cc07c,Children|Economy|MeToo|Metooindia|Muslims,metoo,40,9,2019-08-24T05:38:38,0.0,0.0
+1166559901969190914,65a29450b625dd0e6ed9090a0fb51787,metoo,metoo,1,1,2019-08-28T05:55:28,0.25,0.75
+1166741367181197312,031270dbb7228c235a0d73290ab57009,MeToo|PatriciaWulf|PlacidoDomingo|StandByDomingo,cosmetics|fanaticism|metoo|realtor|youtube,0,1,2019-08-28T17:56:33,0.0,0.5
+1158756897421291527,a06eae54f1dda27034c1d97970a06d7d,metoo,metoo|moron,0,0,2019-08-06T17:09:07,0.0,0.5
+1159813815892094976,c919661f1e62bf020b6f463b103ee43f,metoo,metoo movement,0,0,2019-08-09T15:08:56,0.0,0.0
+1164999938779963392,300a1a224385acfb318149b6498f746d,Aristemo|HashtagDay|KuToo|MeToo|OrgulhoLGBT|RickyRenuncia|VidasNegrasImportam|bbb19|bbmastopsocial|bellletstalk|brexit|dyisisitmanila|gameofthrones|giletsjaunes|got7|iheartawards|kcamexico|loveisland|niunamenos,brexit|got7|metoo|niunamenos,1462,1239,2019-08-23T22:36:44,0.5,0.0
+1165006668150771712,39fd38cf169f56611b58fd01fbdbfdce,AmericanPatriots|BlueTsunami2020|DemCast|MeToo|NeverAgain|Resist|TheResistance,caa|metoo|n zi|t wave,658,260,2019-08-23T23:03:29,0.0,0.5
+1166504203918823425,2cf9325c82c6c49e3156b05fd454965d,MeToo,metoo,1,1,2019-08-28T02:14:09,0.0,0.0
+1157749223288463360,204e9c54747d229e983e72c84600ffb3,AbuseHasNoGender|AmberHeard|AmberHeardIsAnAbuser|JohnnyDepp|JusticeForJohnnyDepp|MeToo|TimesUp,johnny depp|metoo,828,461,2019-08-03T22:24:59,0.0,0.75
+1159829909444812801,b1883354ce00b374f78a5d15dfde97e0,MeToo,left wing|metoo|nice,0,0,2019-08-09T16:12:53,0.25,0.75
+1159837219672084480,01b951c717c666dfae52eea93bb41350,metoo,metoo,21,5,2019-08-09T16:41:56,0.5,0.75
+1161713764309327873,901ab7f60a60633e00282ca591dadc1f,MeToo,metoo,0,0,2019-08-14T20:58:39,0.0,0.0
+1162599645698301952,68077298509ba860cd23714c44add0e6,EpsteinSuicide|ImpeachTrump|Metoo|SaturdayThoughts|TrumpEpstein|impeachment,impeachment|metoo movement,2,2,2019-08-17T07:38:50,0.0,0.0
+1163280020741246976,d093a9daddb3fba76d9a9442fb254e6e,KAG|Trump2020Landslide|WhiteSupremacyHoax|WomenForTrump|metoo|metooforALLwomen|only2genders,categorized|i wonder why|metoo movement,21,24,2019-08-19T04:42:24,0.25,0.5
+1165598180156878848,3580858016521e38460b1851edd5e793,MeToo,metoo|social dynamics|social media,458,128,2019-08-25T14:13:56,0.25,0.0
+1166631867656876033,3c922b769ff26820b759c17f830a9804,metoo,jeffrey epstein|me too movement|metoo|pedophile,72,41,2019-08-28T10:41:26,0.0,0.75
+1167114073298886656,c641a9b7bc9bea01f0cc4d22de68b303,MeToo,metoo|mike pence,0,0,2019-08-29T18:37:33,0.0,0.75
+1156903362949976064,9d7e41346777e22072538004721d4a6c,MeToo,metoo|sexist|youtube,4,5,2019-08-01T14:23:50,0.0,0.25
+1157526380889833472,cb5ca6c8aab364cd240e98e2eca3c334,MeToo,metoo|millennial,0,0,2019-08-03T07:39:29,0.25,0.0
+1159158217731170306,734fe0ef637c3628abf6ec10c538449e,BMTB|BeMoreThanABystander|Gala|HamOnt|metoo,hamont|metoo,4,3,2019-08-07T19:43:49,0.25,0.75
+1159310302263087111,2e6c1c46309db00f5613effba2f9d02a,malala|metoo|metooindia|metoopakistan,hindu|metoo|women in pakistan,0,0,2019-08-08T05:48:09,0.25,0.0
+1160554278324330497,5286a0c49dc1ba23aee64e09ed376ef2,Abuser|BoycottAmberHeard|JusticeForJohnnyDepp|JusticeISJohnnyDepp|MeToo|MenToo,metoo,0,0,2019-08-11T16:11:16,0.5,0.75
+1162714516842528768,435f914bb3e2444b5b035d6e4bc9efcc,feminism|metoo,feminism|metoo,0,0,2019-08-17T15:15:17,0.0,0.0
+1163982117782487041,377882ad5435d8a78031e3e998537033,BoycottNetflix|metoo,jp|metoo|netflix|rape|sexual crime,14,13,2019-08-21T03:12:17,0.0,0.75
+1164232703908052993,b3cae406a235892432f39aedc84181c3,metoo,hashtag|metoo,0,0,2019-08-21T19:48:01,0.0,0.0
+1164808103692398595,5d50fc88d8c6f89e0d16c36fd470ba53,chiNazi|metoo,hong kong police|metoo,0,0,2019-08-23T09:54:27,0.0,0.5
+1165696195999592448,396f6e030cea17a0bb87d66b9944fa6e,metoo,metoo|verbal abuse,0,1,2019-08-25T20:43:25,0.25,0.75
+1157674739927851009,5d3ebb5655e0b63101c60d958c6d951d,MeToo,anime|clash|metoo,138,57,2019-08-03T17:29:01,0.0,0.0
+1158592767678746626,43470114e0e1c2de4213790418cd2d51,metoo,metoo movement|sexual violence,0,1,2019-08-06T06:16:56,0.0,0.0
+1159694919952302080,f4756010020c98913658293934ce557c,MeToo,metoo|tommy lee,0,0,2019-08-09T07:16:29,0.0,0.75
+1160896780973875200,b9307334b604c67b9e3f67c12215987e,metoo,metoo,0,0,2019-08-12T14:52:15,0.0,0.25
+1162850708221308928,3a0c65f58cc3b97b15898244e46a6458,MeToo,metoo,36,23,2019-08-18T00:16:28,0.0,0.0
+1163132019213254656,fe395c8f713550a57ed61a61e42386e9,MeToo|twill,metoo|the numbers|twill,50,69,2019-08-18T18:54:17,0.0,0.25
+1165976823202598913,5a5f2d1152f505e1358643e96c2120b1,PoliceBrutality|SexualHumiliation|metoo,metoo,2,1,2019-08-26T15:18:32,0.0,0.75
+1165990646018187265,d0fa71ad6b4083b71d5816a3206f817a,MeToo,harvey weinstein|metoo movement,1,4,2019-08-26T16:13:27,0.0,0.5
+1159063628454273024,7074df16fdc605e019a9bd990a2403a3,MeToo,metoo,73,28,2019-08-07T13:27:58,0.0,0.75
+1159570219095904256,4a7960cb8132a179193b63c5dd383669,Metoo,weirdo,0,0,2019-08-08T23:00:58,0.0,0.25
+1160403935871455233,8afb0f7eefe117094a962083ae77fc04,EpsteinMurder|Metoo|Pedogate|metoo,deep state|metoo|pedophiles|suicide,0,1,2019-08-11T06:13:52,0.0,0.75
+1161561848493170689,4d164b10cea4edaa9ab2ba25cb0dd1fa,LeavingNeverland|LiesOfLeavingNeverland|MJfam|MeToo|MichaelJackson,metoo,2,2,2019-08-14T10:55:00,0.0,0.0
+1161665890523525122,eb8d7642d8f9d775fe9a37ff522d36d3,auspol|metoo,metoo|rave,0,0,2019-08-14T17:48:25,0.0,0.0
+1161721016235806721,c6d55f5cebe2c42e6fc5b6176edec2ae,MeToo,metoo,0,0,2019-08-14T21:27:28,0.0,0.0
+1162687466215792641,b2250f4da9d1d6377e298a0f20e7f8da,MeToo|OneVoice1|RapeIsRape|SpeakTruthToPower,metoo|popular culture|sexual assault,86,59,2019-08-17T13:27:48,0.5,0.75
+1164602528249630720,8b117279882427ad9acdf729ed4f3ab0,Helenpage|asawomeniamdisgusted|metoo,just walk away|metoo|miami|sexually harassed,0,0,2019-08-22T20:17:34,0.25,0.5
+1166414237956300800,7ecf70abf99db6d785ff301bd3a63d36,MeToo,iceberg|metoo,208,71,2019-08-27T20:16:39,0.0,0.75
+1157874092894294016,83490bbb70bc54719197a87add856516,MeToo,metoo,0,0,2019-08-04T06:41:10,0.25,0.0
+1160717407360602114,75938064ddbc33a43e77c5bab15c9477,metoo,metoo movement|sexually assaulted,0,0,2019-08-12T02:59:29,0.0,1.0
+1162286677466894336,5d9cb8e0aa118bf2e121c3f22bbb41b2,AB218|CSA|kids2|metoo,corey feldman|csa|metoo,2,1,2019-08-16T10:55:12,0.25,0.0
+1163657694185758720,ee343ad3941c2d031c89ddcaf3d5c7a6,MeToo,metoo,0,0,2019-08-20T05:43:08,0.0,0.5
+1165764908295716864,6b09d8b03ec16106178f64e86e5bd7e8,metoo|vaw,metoo,0,0,2019-08-26T01:16:27,0.25,0.75
+1166613539852902402,d5701010de04addf3e79c0ac5ea6a8eb,IStandWithVic|MeToo|RonToyeExposed|abusiveex,metoo,81,27,2019-08-28T09:28:37,0.25,0.75
+1166691277347254273,3204e62b5b543cb6fedf57a1df623a43,HongKong|HongKongProtests|Metoo|PoliceBrutality|ProtestToo,hongkong|metoo|sexual violence,159,125,2019-08-28T14:37:31,0.0,0.0
+1166730529648988161,eab8dcb633a66632f742983b74458dba,metoo,metoo,574,52,2019-08-28T17:13:29,0.25,0.5
+1167467083099189248,c10d18c9b2fbd8361691643ac817c167,CPC|MeToo|Mississauga|MississaugaLakeshore|cdnmedia|cdnpoli|elxn43|womensrights,cpc|metoo|mississauga,13,21,2019-08-30T18:00:17,0.0,0.5
+1157298498284511232,ad61c54f94364985f50074b36ffc722f,BradPitt|MeToo,metoo|sexually assaulted|take that,3,1,2019-08-02T16:33:58,0.0,0.5
+1160192918046564353,a0008f3abd99e94647965c0bcd65acb3,MeToo|NP|NowPlaying|Podcast|media|news,metoo movement|news media|podcast|youtube,0,0,2019-08-10T16:15:21,0.0,0.0
+1161987317504102400,f0d11b5838957dea19fb2cedde31b301,MeToo|RedFlagLaws,metoo movement,8,3,2019-08-15T15:05:39,0.0,0.75
+1162718803416870913,a036b56b736ded5b6d37b71ce29a8f40,MeToo,bollywood|metoo|shah rukh khan,0,0,2019-08-17T15:32:19,0.0,0.0
+1163610457917337600,f1c2eb26b6c00d58900b105ec93ed883,MeToo,metoo,0,0,2019-08-20T02:35:26,0.0,0.0
+1164139605614104578,fd6aee94e9d1f1fa6b276fec273f0c1e,DemocracyforEVERYONE|metoo|womansrights,chicom|freak out|metoo,3,2,2019-08-21T13:38:05,0.5,0.25
+1164415663634616320,f4dbdb16b05fae26d14d06da3aad22ba,Colchester|feminisim|fertility|metoo|sisterhoodplay|theatre|wakethewitch|whatson,colchester|colchester castle|matthew hopkins|metoo,0,0,2019-08-22T07:55:02,0.0,0.0
+1165972598112440320,0d798595540fb44e2ceca1a8cbb3a84e,HongKongProtests|PoliceBrutality|SexualHumiliation|metoo,metoo|rape,31,39,2019-08-26T15:01:44,0.25,0.75
+1166761353283014656,44f41bee9da0b5e0c7945c3f40c543e1,MeToo,metoo,0,0,2019-08-28T19:15:58,0.0,0.0
+1166996683101589504,9bb7b4f001dcf69d2571fe511b5ab001,MeToo,metoo,0,0,2019-08-29T10:51:05,0.0,0.75
+1167649983182491650,a5ae0dfc49d5fd776f23dd217982b3ef,HK|HongKongProtests|MeToo|antiELAB,metoo,36,25,2019-08-31T06:07:04,0.0,0.5
+1167815159244578817,aaf71ea8b52834e27b47cd5e85b2689e,AllegedFalseRape|BJP|MeToo|MeTooIndia|MenToo|MensDayOut|UTTARPRADESH,bjp|metoo|sexually harassing|uttarpradesh,5,4,2019-08-31T17:03:25,0.0,0.5
+1156777395619155971,4c2c1392bf301bca35f3c11b20a02e97,MeToo,metoo,0,0,2019-08-01T06:03:17,0.0,0.0
+1157083487549231104,34d55ee79fa62e9c252f854f9edda666,metoo,metoo,0,0,2019-08-02T02:19:35,0.0,0.0
+1157361710078058496,79b1e8e41b54fa6c3a1ae37f6f129a63,FemalePrivledge|MeToo|toxicfemininity,bouncer|intoxicated women|metoo,1621,628,2019-08-02T20:45:09,0.0,0.5
+1159796833155276803,7a9c9ab643359dc096651864ed43d9b2,MeToo,metoo,0,0,2019-08-09T14:01:27,0.25,0.0
+1160956587080441857,72e57021b6527166a94b9180766d7b52,befierce|metoo|theloudestvoice,metoo|naomi watts,184,36,2019-08-12T18:49:54,0.25,0.0
+1161816828617924608,2fd9e489f857e624e83ce6bfcf0b96ca,Democrat|HeToo|LemonSanchez|MeToo,democrat|metoo,41,26,2019-08-15T03:48:12,0.0,0.5
+1162041782328152064,2d1811d33a97641e92df64a81600c364,GreatReads|MeToo|Tattered|WomensFiction,denver|metoo|tattered cover,2,4,2019-08-15T18:42:05,0.5,0.0
+1164572098959949825,746068b7205c27702837341e47b89c53,MeToo,human trafficking|metoo|slave trade,163,61,2019-08-22T18:16:39,0.0,0.5
+1165597492647518209,435f914bb3e2444b5b035d6e4bc9efcc,feminism|metoo,feminism|metoo,0,0,2019-08-25T14:11:12,0.0,0.0
+1166360984182804482,2b1c20f35a5b6ab42fe8ddd0c6eaac82,MeToo,metoo|robyn,6,3,2019-08-27T16:45:03,0.25,0.0
+1166436159209127936,eaf5ec63c3c194b286aeb8cfe6c0b5e8,BretBug|Brexit|MenToo|Metoo|Metooindia|TuesdayMotivation|TuesdayThoughts|domesticviolence,brexit|child support|metoo,14,13,2019-08-27T21:43:46,0.25,0.0
+1166607417070772225,f2a7bbefd2899aa090e4a3c77ec04295,MeToo|RonToyeExposed,fucked up|metoo|narcissistic,158,71,2019-08-28T09:04:17,0.0,0.75
+1157076466305314816,78e41da6f62da27c58ef124353741df2,demdebate|metoo,daily news|metoo,0,0,2019-08-02T01:51:41,0.0,0.25
+1158435840206311424,c65536f2880458556b4565bc6a66fe8d,Olypmics|abuse|gymnastics|metoo|stopchildabuse|survivor|youthsports,aly raisman|gymnastics|metoo,0,0,2019-08-05T19:53:21,0.25,0.75
+1162645470222651392,301d3a22d7dfe90a2da45b1eb20fac83,femenism|femenist|girlssupportgirls|metoo|timesup,metoo|tweet,0,0,2019-08-17T10:40:55,0.0,0.0
+1163140981102907393,0d6ddc548a0f298c21920b93013d6e65,metoo,apple|google|identity politics|jive|metoo|puritanism|sexual identity,0,0,2019-08-18T19:29:54,0.25,0.0
+1164028609062952960,0348a0ed979b46b87b47d7c02393966d,csa|metoo,csa|hearts|in my room|metoo|rock,0,0,2019-08-21T06:17:01,0.25,0.75
+1164565949732679680,3960c7a06c33fd937f4833393d88caef,Metoo,metoo,0,0,2019-08-22T17:52:13,0.25,0.0
+1164640914519674880,25a219416ed602ab64cd6e2ccfd2f6a0,MeToo,harvey weinstein|indictment|metoo|rawstory|sexual assault,0,0,2019-08-22T22:50:06,0.0,0.5
+1166392229365256194,6142d7010f434912dbd95a61b11fb7ae,getout|metoo,metoo,0,0,2019-08-27T18:49:12,0.25,0.0
+1166945199567671296,037e92f3db6c7b07514fc0b5637b57e7,MeToo,liberalist,4,2,2019-08-29T07:26:31,0.0,0.0
+1162267274272636928,422516948c88477dd1e801c5b7458810,metoo,metoo|pedophiles,20,11,2019-08-16T09:38:06,0.25,0.75
+1162758796088872961,bc0ebc9b48c144bf89384090923d3fb4,MeToo,beauty pageant|metoo movement|nick offerman|out run,0,0,2019-08-17T18:11:14,0.5,0.0
+1166699445607518209,3da2b85a7474c86f3aaca1a09f332c6c,metoo,metoo,315,171,2019-08-28T15:09:58,0.0,0.25
+1166971949995552768,9c9f18260da04ce3ee8c336fe2d1aed0,MeToo,metoo,1,3,2019-08-29T09:12:48,0.0,0.25
+1167751041284222976,7b1743de3808a593274728d3f6d24b13,MeToo,douche|metoo|wise,0,0,2019-08-31T12:48:38,0.75,0.5
+1167812199533838336,828f05dc08ac4f50f1c97eb9e714ad91,AOC|AlyssaMilano|BetteMidler|Kavanaugh|Trump|metoo,metoo|the outrage,54,26,2019-08-31T16:51:39,0.25,0.75
+1156989619038302209,94a8eadcd598449f355cb078e4392e49,metoo,armed robbery|death row|glass ceiling|metoo,0,0,2019-08-01T20:06:35,0.0,0.75
+1159649028273070080,c4de1bac6d0ddb1da6f10ae9d5062517,Metoo,christians|conservatives|garbage|metoo|predator|tommy lee|where we at,5,3,2019-08-09T04:14:08,0.25,0.5
+1160003084191272960,ac6071078f5a4c6bc80672d8347d453c,MeToo,investigative journalist|metoo|prince andrew,107,91,2019-08-10T03:41:01,0.25,0.0
+1160357740633645058,522bb102bdd3e85368e4ae24eb60fb26,metoo,guilty as sin,204,21,2019-08-11T03:10:18,0.0,0.75
+1161123981103120389,f65bd9a47382b214fa27fb769ffb54c5,MeToo|TimesUp|VoteBlue2020|WakeUp|WhiteSupremacy,erectile dysfunction|foxnews|metoo,15,11,2019-08-13T05:55:04,0.0,0.5
+1161402504971784198,b0eba8fa3b206820c3d19fff0e9cd7b7,Oklahoma|metoo|walkaway,metoo|oklahoma|walkaway,0,0,2019-08-14T00:21:49,0.0,0.75
+1162407198150017025,3b557bb73a188f0a804984c99ce6d41f,BeingBrave|MeToo,domestic violence|metoo,2,2,2019-08-16T18:54:07,0.0,0.0
+1162533764121157632,6ecadeaa2f49b7c16af96bd027701e6f,NiUnaM|metoo,metoo|rape,24,10,2019-08-17T03:17:02,0.0,0.75
+1162821086863486976,39ff55f8ad093c9068d946ddd22c849d,cartoon|justice|metoo|nzsociety|rape,metoo|rape|sexual assault,39,22,2019-08-17T22:18:45,0.0,0.75
+1164166882666209280,3e18cdb5c421b4b60918f179892d953d,MeToo,mark halperin|metoo|the washington post,0,0,2019-08-21T15:26:28,0.25,0.5
+1164351822942932992,d3df88713774f2260da48ae5cc181372,DisobedienceAward|MeToo|MeTooSTEM,child rapist|hypocrisy|metoo,45,14,2019-08-22T03:41:21,0.0,0.75
+1164611707249070080,d32a500311974d96a7afa47d7b129254,MeToo,abortion rights|birth control|metoo movement,32,9,2019-08-22T20:54:03,0.0,0.75
+1166428069630021632,1ff6f892c9748da6d1a9cf0303182bf2,IHaveComplainToo|IranianRefugeesInTurkey|MeToo|UNHCR,metoo|refugee,2,4,2019-08-27T21:11:37,0.0,0.25
+1166684247941271553,2c4d14163c1e124d8ebb98cfca254a6c,HKpolice|MeToo|ProtestToo|hkpolicebrutality|lipstick|sexuel,metoo,3,2,2019-08-28T14:09:35,0.0,0.0
+1167428142794977281,a1fd7fbf173fb452acdd71112d6dea30,MeToo,bow tie|brandi brandt|cummerbund|donald j trump|donald trump|metoo|playboy|playmate|tuxedo,0,0,2019-08-30T15:25:33,0.0,0.0
+1167562729193783296,069a561399d3a9b6a039eb9403ac81bb,BLEXIT|Blexit|BuildTheWall|GOP|Jexit|Jexodus|KAG|KAG2020|KeepAmericaGreat|KeepAmericaGreat2020|MAGA|MAGA2020|MeToo|QAnon|QArmy|RNC|Trump2020|WWG1WGA|WalkAway|WeBuildTheWall,blexit|gop|jexodus|metoo|qanon|walkaway,0,1,2019-08-31T00:20:21,0.0,0.0
+1157282855396921344,705d7a8521c9be9640ab384fadc41b98,MeToo|Rainn|SAGAFTRA|Snap|TimesUp,johnathon schaech|metoo,0,0,2019-08-02T15:31:48,0.0,0.75
+1157510621723860992,901ab7f60a60633e00282ca591dadc1f,MeToo,ceo|metoo movement,173,98,2019-08-03T06:36:52,0.0,0.0
+1161684124853264386,9415201ce0b5b0f0bca59a9129b85ced,MeToo,metoo|mfa,31,11,2019-08-14T19:00:53,0.0,0.0
+1165042893700005888,9070c09f0296892275c7245557161a34,ChurchToo|ForSuchATimeAsThisRally|MeToo|SBC|SBCToo,metoo,1,1,2019-08-24T01:27:25,0.0,0.0
+1165276938795139072,3249063a01939cf9da04381777a75ee8,MeToo,metoo movement,0,0,2019-08-24T16:57:26,0.0,0.0
+1165740304525250560,7b26e2dcacc48eaf1da0310fac8c05d2,MeToo|Trump,metoo|sexual assault,0,0,2019-08-25T23:38:41,0.25,0.5
+1166125187479158784,069a561399d3a9b6a039eb9403ac81bb,BLEXIT|Blexit|BuildTheWall|CNN|FakeNews|GOP|KAG|KAG2020|KeepAmericaGreat|MAGA|MAGA2020|MSNBC|MeToo|NPC|NPCmeme|QAnon|QAnons|QArmy|RNC|Trump2020|WWG1WGA|WalkAway|WeBuildTheWall|cnnfakenews,blexit|cnn|gop|metoo|msnbc|npc|qanon|walkaway,0,1,2019-08-27T01:08:04,0.0,0.0
+1166157283518140417,1421b85cea0ac865256a603f3b985316,ADVANCE|APSA2019|AcademicTwitter|MeTooPoliSci|metoo,i m so excited|metoo|sharrow,55,24,2019-08-27T03:15:37,0.5,0.0
+1166744263809306625,6f510f0a91b0af67002d623e79f14315,MeToo,benjamin yuen|central hong kong|chater garden|metoo,138,68,2019-08-28T18:08:04,0.0,0.0
+1157168346703388674,dc70991844371f239685f40b22a58432,Metoo,metoo|twitter,0,0,2019-08-02T07:56:47,0.0,0.0
+1157209928924200960,abf07d578f1ffce5e4cad0b9167a4da2,AmberHeardAbusedJohnnyDepp|AmberHeardIsAnAbuser|BanAmberHeard|BoycottAmberHeard|CancelAmberHeard|MeToo,metoo,1,1,2019-08-02T10:42:01,0.25,0.75
+1158608414844628992,56fb878985ce6a4e86afbbb7c662d10d,MeToo,credit card|metoo|slander,0,0,2019-08-06T07:19:06,0.25,0.75
+1158779735394201600,29ccacd903b854da804e1921d45e9fcf,BlackGirlMagic|BlackLightning|Chicago|HelpMeHelpThem|LGBTQAROUNDTHEWORLD|SHARE|Shematters|metoo|retweet,chicago|domestic violence|metoo|retweet,0,0,2019-08-06T18:39:52,0.25,0.75
+1160579242792497153,44563a5d56ada7c4261caf67449d6a61,ClintonsBodyCount|CorpMedia|Humanity|Idiocracy|MeToo|MegaBanks|Oligarchs|TimesUp|TrumpBodyCount,idiocracy|metoo,0,0,2019-08-11T17:50:28,0.0,0.0
+1160664805272903682,c893c9dc3bf93bee1feb5f21bb0a5ce7,Abalone|ChickLit|MeToo|SundayMotivation|YAlit|readers,abalone|chicklit|literary fiction|metoo,74,139,2019-08-11T23:30:28,0.5,0.75
+1162972176208867328,eb94aeaa7e530fc95291fabe155158bf,metoo,blog|dennis kelly|metoo|rape me,21,12,2019-08-18T08:19:08,0.0,0.75
+1163096024845471746,f9395a3c07aceee22a1652222e933c01,JWR|KokaneeGrope|MeToo|PMOC|misogynistic,jwr|metoo|misogynistic|right back,13,6,2019-08-18T16:31:16,0.0,1.0
+1164591698611253248,d01368fc16fc106438573f8297248f0c,Epstein|MeToo|TrumpIsARapist,metoo|sexual assault|sexual predator,66,51,2019-08-22T19:34:32,0.25,0.5
+1165976385111781376,11bdbc928d1be8e5e0a1f69ae2810800,PoliceBrutality|SexualHumiliation|metoo,hong kong|hong kong police|indecent assault|metoo,0,0,2019-08-26T15:16:47,0.25,0.75
+1157680131483160576,1a2abec0b6c6ff1dd1ec2cc1722508e4,MeToo,karma|latifa|metoo|pal|stalking|waiting for the day,0,0,2019-08-03T17:50:26,0.25,0.5
+1159017062502735872,9ffdd837680ec1b84072e50c4175bf73,MeToo,metoo|rape,177,137,2019-08-07T10:22:55,0.0,0.75
+1160262759755538434,b80cba5e0a4055045df16b559b7900c6,GigiMoments|SexualHarassment|metoo|timesuphc,against me|metoo|misogyny|social media,6,9,2019-08-10T20:52:53,0.0,0.0
+1164286145783574528,30825a7eb3e00d1684f0d8f560225345,MeToo,metoo|rn,44,3,2019-08-21T23:20:23,0.0,0.0
+1167829773135073283,d326bd842bf434b15037c0d1bdd5813a,MeToo,metoo,425,46,2019-08-31T18:01:29,0.25,0.25
+1167911085162156034,3a52d83e29150733219584ff621159eb,AlecHolowka|CancelCulture|GamerGate|MeToo|SuicideAwareness|bullying,bullying|gamergate|metoo|pathological liar|zoe quinn,137,34,2019-08-31T23:24:36,0.0,0.5
+1158732309178118146,eaf5ec63c3c194b286aeb8cfe6c0b5e8,Brexit|CancelNYT|DonaldTrump|Metoo|Pennysylvania|TeamMitch|TuesdayThoughts|VideogamesAreNotToBlame,brexit|metoo,6,11,2019-08-06T15:31:25,0.25,0.5
+1164921861605613569,43de033b62dd0ae77787ff1fb3a0cc3a,metoo,bs|hollywood|metoo,0,0,2019-08-23T17:26:29,0.0,0.75
+1164950378665799680,e9d4093064a2878d7c57db6e7c6669d5,MeToo,body shaming|foxnews|metoo,0,0,2019-08-23T19:19:48,0.0,0.0
+1165844535018000384,eaf5ec63c3c194b286aeb8cfe6c0b5e8,Ambedkar|AmbedkarStatue|ArundhatiRoy|Metoo|Metooindia|MissionMangal|Modi|MotherTeresa,gang rape|metoo,5,3,2019-08-26T06:32:52,0.25,0.75
+1166183147710496768,6f8f59eb9acfbcd433cf0aa583c77852,metoo,carrie lam|metoo,250,133,2019-08-27T04:58:23,0.0,0.5
+1166344452136304641,963108c4605400ee47f002d563bc28b8,metoo,alec holowka|jeremy soule|metoo|sexual assault,58,45,2019-08-27T15:39:21,0.5,0.75
+1166866096294678528,5b5184e151c00272f1112257daf13e3e,metoo,metoo,119,25,2019-08-29T02:12:11,0.5,0.5
+1157831189345947649,2fdba52d8d784925b99bcfe4a51fbf88,Doublestandards|Hypocrisy|MeToo|SexualAbuse|TimCast|TimPool,hypocrisy|metoo,0,0,2019-08-04T03:50:41,0.0,0.0
+1158041276295647238,92b67a81c6abd4ef557507c1a96b609c,Gillette|MeToo,ceo|metoo campaign,10,10,2019-08-04T17:45:30,0.0,0.5
+1159118770088161281,7074df16fdc605e019a9bd990a2403a3,MeToo,i was a fool|metoo,579,188,2019-08-07T17:07:04,0.0,0.75
+1160845197200281600,948b541e6e286adeecec40d2daec5eb4,AnnuKapoor|DreamGirl|MeToo|SKTKS|VijayRaaz|dreamgirltrailer,mahabharat|metoo,19,4,2019-08-12T11:27:17,0.5,0.0
+1161718494251147269,86b2671c2cce77c8703645f62f12f015,MeToo,metoo|pipe up,66,63,2019-08-14T21:17:27,0.25,0.0
+1163186841618657281,2a0671ff80bd52654f1a47c4646d7977,AbuseSurvivors|CSA|Courage|HealingJourney|MeToo|PTSD|SacredWandering|StrongerTogether|Trauma,csa|metoo|ptsd,0,0,2019-08-18T22:32:08,0.5,1.0
+1163381034202935297,66287d778385a817b9b9d426121b0b9b,Epstein|Maxwell|MeToo|completesilence|complicit|twins,i wonder why|metoo,31,17,2019-08-19T11:23:47,0.0,0.0
+1163807586031980544,f9b1cb750829ad6c0eab2d968569c0f3,MeToo,metoo|metoo movement|youtube,0,0,2019-08-20T15:38:45,0.0,0.0
+1166025760475426816,d29837d9ca5b084a6d210ba647ccb3dd,MeToo,axios|metoo,0,0,2019-08-26T18:32:59,0.25,0.5
+1167105131080507397,19713d9939ead5c098b4b4cc5c519fd9,metoo,metoo movement,207,88,2019-08-29T18:02:01,1.0,0.75
+1157043345031438336,711052647d43faa89258b2761204b4fb,MeToo,metoo|sexually assaulted,19,11,2019-08-01T23:40:04,0.0,0.75
+1157387151618662400,676352638f2f6317c5e2338a68b33d3e,MeToo,ceo|metoo campaign,34,12,2019-08-02T22:26:14,0.0,0.5
+1159346307699372034,5d118a79d8e278980f7163cfd112771d,TheDrum|metoo,christian liberal party|kenneth hayne|liberal party|metoo,9,6,2019-08-08T08:11:14,0.0,0.0
+1159649894073868293,44563a5d56ada7c4261caf67449d6a61,BLM|BirtherInChief|CorpMedia|DACA|Humanity|Idiocracy|MeToo|MegaBanks|NoDAPL|Occupy|Oligarchs|SDF|Union,bernie sanders|daca|idiocracy|metoo|nodapl,0,0,2019-08-09T04:17:34,0.25,0.0
+1160487873247756288,ca23c62c1e86091b982404b390395978,ClintonsBodyCount|MeToo,metoo,42,23,2019-08-11T11:47:24,0.0,0.0
+1161684860458717186,aba97c925589d8d57d02614479a90bca,MeToo,metoo|what say you,6,12,2019-08-14T19:03:48,0.0,0.5
+1161830554679091200,66703dd29d3cfbf6b07fdd5ea394acd8,GE|MeToo,fbi|lodhi gardens|metoo|seema|whistleblower,0,0,2019-08-15T04:42:44,0.0,0.75
+1166696808107716609,88b0463a02f02fa36b00c42051538bec,FreeHongKong|antiELABhk|metoo|policebrutality|protesttoo,chater garden|metoo|sexually harassed,7,11,2019-08-28T14:59:29,0.0,0.5
+1157675006043836416,24fe896ec265b2e945742ed480c2715e,MeToo|Nirbhaya,metoo movement,0,0,2019-08-03T17:30:04,0.0,0.5
+1158332150199885824,ce8f2c5e01f590a36eec3803c4c6d621,Metoo|MondayMorning|UK|mondaythoughts,lawyer|metoo|rape,24,20,2019-08-05T13:01:20,0.0,0.75
+1159486710494793728,488ddf5360620d60211a0c867a2060d5,metoo,metoo,0,0,2019-08-08T17:29:08,0.5,0.0
+1160955287315943424,2b63c3660a4a9ccb442e2d2146f2a7a2,MeToo,metoo,0,0,2019-08-12T18:44:44,0.25,0.0
+1161870702581956608,86156882e00f7f134fe6e97429b0302a,MeToo,la opera|metoo|this is the one,0,0,2019-08-15T07:22:16,0.5,0.0
+1161951333878042625,abf07d578f1ffce5e4cad0b9167a4da2,JohnnyDepp|JohnnyDeppIsInnocent|JohnnyDeppWillNotBeSilenced|JusticeForJohnnyDepp|MeToo|SpeakUp,metoo,0,0,2019-08-15T12:42:40,0.25,0.5
+1162586523679756293,80ff504c2880047e8f5ba49874c6ef58,CNN|ConLemon|DonLemon|Metoo|TimesUp,cnn|con|metoo|social justice warrior,23,24,2019-08-17T06:46:41,0.5,0.75
+1163341284267814912,488f21c97aa98d967b1d454a01134272,MeToo,dems|hypocrisy|mark halperin|metoo,0,0,2019-08-19T08:45:50,0.25,0.0
+1163421291225014272,dfdc25b1ba106b3510ced66e80a94f71,MeToo,metoo,3,2,2019-08-19T14:03:45,0.25,0.0
+1164143011980349440,326338dc0c8d20d813ffae6a58072456,CallForPapers|MeToo,metoo,3,2,2019-08-21T13:51:37,0.0,0.0
+1164152752496418816,c35ff10e00e58ac20171dd95b0ab3508,MeToo|Tech|Toronto,sexual harassment|toronto,1,1,2019-08-21T14:30:19,0.0,0.5
+1164223893802037251,4f556e76cb1b8498a2b59f37ae65fb65,MeToo,metoo,8,6,2019-08-21T19:13:01,0.0,0.0
+1166692673295511553,d74cf28c0cd41c4c441def0f3a73b1c8,Australia|MeToo|PoliceBrutality|ProtestToo|StandWithHongKong,australia|metoo,196,108,2019-08-28T14:43:04,0.25,0.0
+1166695396736790528,1712be98c16b0c06f2ba199439d27845,MeToo|ProtestToo|antiELAB,abuse of power|chater garden|metoo|sexual violence,82,74,2019-08-28T14:53:53,0.0,1.0
+1167833962644815872,069a561399d3a9b6a039eb9403ac81bb,BLEXIT|Blexit|BuildTheWall|GOP|Jexit|Jexodus|KAG|KAG2020|KeepAmericaGreat|MAGA|MAGA2020|MeToo|QAnon|QAnons|QArmy|Trump2020|WWG1WGA|WalkAway|WeBuildTheWall,blexit|gop|jexodus|metoo|qanon|walkaway,0,0,2019-08-31T18:18:08,0.0,0.0
+1156910506067628032,91045f2de491ec4a9a026e6af97d4eee,EEOC|cannabis|metoo|metoomovement|shit|women,cannabis industry|eeoc|metoo,0,0,2019-08-01T14:52:13,0.0,0.25
+1157083675617562624,89ffb3c1b0574c4969f6cb07b85ada2c,CapitalHill|MeToo|USA|Veterans|h1b,europe|metoo|numbersusa,1,1,2019-08-02T02:20:20,0.0,0.25
+1158731746118123520,9182c96fb806b3901da43e28d846ab7c,BelieveWoman|MeToo|YouTube,islamists|metoo|second strike|youtube,53,37,2019-08-06T15:29:11,0.0,0.75
+1158830159333593089,ead700abba231bff1a2ae72652e8582c,metoo,metoo movement,0,0,2019-08-06T22:00:14,0.25,0.0
+1159815254924283904,b5b7978637dca86c177f58a2c0fd1f5a,KokaneeGrope|MeToo|TrudeauMustGo,metoo,96,70,2019-08-09T15:14:39,0.0,0.25
+1159844295886565376,a73b22c7aaa6dd90e5916d9e46a9d30a,MeToo,metoo movement,0,0,2019-08-09T17:10:03,0.25,0.25
+1160185949923487744,d481ddb862db98d12964035a2ce27ebd,MeToo,metoo|twitter,14,10,2019-08-10T15:47:40,0.25,0.75
+1161260263552749569,fb5ebd8913485e2182a79158ace04312,MeToo,coffee|metoo,0,0,2019-08-13T14:56:36,0.0,0.75
+1164170496977584133,2a0671ff80bd52654f1a47c4646d7977,AbuseSurvivors|MeToo|PTSD|narcissist,break you|metoo|narcissist|ptsd,72,22,2019-08-21T15:40:50,0.5,1.0
+1165798709768138752,4acf3f8affe6b86ba9623c9afc8e5170,MeToo,afterall|islamists|mb|metoo,4,2,2019-08-26T03:30:46,0.0,0.0
+1165842847729213440,622ffff18aef2199193a5be4ac59badd,Korea|Laidaihan|Metoo|Vietnam|sexualviolence,metoo|vietnam,1,4,2019-08-26T06:26:09,0.0,0.5
+1166488400595021824,e1a5d012a6c7449b563269e7d8cfae42,Metoo,metoo|woody allen,0,0,2019-08-28T01:11:21,0.0,0.0
+1166700433756180480,5ce0f48fcdd39d485e569cb54e77d0b6,HKPoliceTorture|HongKongProtesters|Metoo|hongkonger,central hong kong|china|hongkonger|metoo|police brutality,6,5,2019-08-28T15:13:54,0.0,0.5
+1157297659562090496,aae71092931fc2cb8d5eafb821c091fa,MeToo,climate change|garbage|google|metoo|racist|rebel media,11,5,2019-08-02T16:30:38,0.25,0.5
+1157532766336102401,fa3597882bfcfad2291464fdc2a03f17,MeToo,metoo,46,8,2019-08-03T08:04:52,0.25,0.0
+1158602140195217408,13bb79963c227f0cd62e4a50dbd9d658,metoo,metoo|mutts,0,0,2019-08-06T06:54:10,0.0,0.0
+1159617612273332224,3aaf9f883edda93bb05d580a372adcbe,MeToo,metoo|tommy lee,103,59,2019-08-09T02:09:18,0.25,0.25
+1160442745661644800,ee9e2f4782abd51d511073d4379a82ee,metoo,metoo|people in need,8,1,2019-08-11T08:48:05,0.0,0.75
+1160483979834748928,b6c6ad7ae03672acc90f8322ccd245a9,MeToo,intersectional|metoo movement,8,3,2019-08-11T11:31:56,0.5,0.25
+1160664839242604544,a0eb70e897bb79640a75e71bb5b77833,Boycott|BoycottTheSimpsons|Epstein|Groening|JeffreyEpstein|KuToo|MattGroening|MeToo|TimesUp,boycott|elitist|metoo|working class,2,1,2019-08-11T23:30:36,0.5,0.5
+1161206904649109505,a383640cb32080ff86660c1cf63c6bcd,MeToo,metoo,75,41,2019-08-13T11:24:34,0.0,0.0
+1161448361314197504,2fd9f900d0d0ae1224d2941ba0db1931,CNN|DonLemon|FakeNews|MeToo|Trump,cnn|don lemon|metoo|new york bar,0,0,2019-08-14T03:24:02,0.25,0.75
+1164591682349875200,d01368fc16fc106438573f8297248f0c,Epstein|MeToo|TrumpIsARapist,metoo,14,20,2019-08-22T19:34:28,0.25,0.5
+1164873703844405248,3204e62b5b543cb6fedf57a1df623a43,FreedomHK|antiELAB|metoo,metoo|pen,10,19,2019-08-23T14:15:07,0.0,0.25
+1164919667967684609,c9b0c11ca8d55e90563dc9e2f7689dd2,BlackLivesMatter|Indivisible|Kavanaugh|MeToo,blacklivesmatter|metoo,0,0,2019-08-23T17:17:46,0.5,0.0
+1166148125083557888,48ff1fd73a1760dc959fe99a32bec4b3,MeToo,chavisa woods|metoo,0,0,2019-08-27T02:39:13,0.75,0.0
+1166415877241212928,0412969f7725327bc11695150ddfbfbc,MeToo,anita sarkeesian|breaking news|get crazy|metoo,130,47,2019-08-27T20:23:10,0.25,0.0
+1166432436265410560,c7a9862acc6357748c0ba7e3944eefbf,IBelieveHer|Metoo|PrinceAndrew|TeamVirginia,fighting for justice|metoo,430,116,2019-08-27T21:28:58,0.25,0.75
+1166632411989364737,a02e03441826c89ea781e66cbebbc3cc,MeToo,metoo movement,0,0,2019-08-28T10:43:36,0.25,0.0
+1156858937100197889,f0a80a089d93e8043f012a13dd9929fb,metoo,metoo,0,0,2019-08-01T11:27:18,0.0,0.5
+1158384859670298624,552c1a5de12a5e3523636a1dd0f94e9e,MeToo,metoo movement,10,11,2019-08-05T16:30:46,0.0,0.5
+1158608192550686720,bad1f52c9dfa293133e779974966bf21,menaretrash|metoo,metoo,0,0,2019-08-06T07:18:13,0.5,0.75
+1159088293566394368,dbe108edc4d86786dc03d7540ed99324,MeToo,metoo,0,0,2019-08-07T15:05:58,0.0,0.75
+1159188346456985601,fe2d953aca03422236d4248c97b7c7c5,MeToo,metoo|sexual harassment|victoria s secret,6,6,2019-08-07T21:43:33,0.0,0.5
+1160910412487041025,2fa61e3c7e1a02c279ed639dff9d637c,MeToo,metoo,0,0,2019-08-12T15:46:25,0.0,0.25
+1161588673441222656,a680f23ff3b87844fe7aa6e37fd57723,Manel|MeToo|MedEd|MedTwitter,excite|metoo|what s your story,66,26,2019-08-14T12:41:35,0.5,0.0
+1162333736945508354,a6ab3f85b52dd429ef607adb78bff6d0,BelieveSurvivors|ListenAndBelieve|Metoo,blog|metoo,0,0,2019-08-16T14:02:12,0.25,0.0
+1164820076152815616,c58b05a8ad7673cffc729ade3798304c,China|HongKong|MeToo|NoToChinaExtradition|antiELAB|antiELABhk,hong kong police|metoo,343,269,2019-08-23T10:42:02,0.0,0.5
+1165349756106731520,f2c0aa00cdebf579a359276d906bdad7,metoo,emoji|metoo|vagina,0,0,2019-08-24T21:46:47,0.0,0.0
+1165384925329051648,abc61474f1037125b72e040348c1cf21,MeToo,bulldog|lawyer|metoo,0,0,2019-08-25T00:06:32,0.25,0.0
+1165769522286092289,412fa6626fffa6c18f03884b72191bc8,MeToo,beg the question|metoo,2,5,2019-08-26T01:34:47,0.0,0.0
+1166227296748879872,86ee2224d5d92651d1dc7edd787a0fda,MeToo,metoo|satire|smear campaign,0,0,2019-08-27T07:53:49,0.25,0.0
+1166697348203872258,975f4d8d3b95b9faa66353f48fa978e3,HongKong|HongKongProtests|metoo,hongkong|metoo|sexually harassed,0,0,2019-08-28T15:01:38,0.25,0.5
+1166829464589918209,8f897d8a4b32410150fdaee12df2af48,MeToo,malleable|metoo,0,0,2019-08-28T23:46:37,0.0,0.5
+1167064627076882432,626ca69c1139574d108d902380584aa4,MeToo|ProtestToo,metoo|sexual misconduct,48,27,2019-08-29T15:21:04,0.0,0.0
+1167092074186805249,06ceacb86c3f9303137aa1316a5c3a03,MeToo,metoo,0,0,2019-08-29T17:10:08,0.0,0.75
+1167898109969494016,9c3c7cc3dbeb162128028b92c0e13786,MeToo,cancel culture|metoo|suicide|tweet,0,2,2019-08-31T22:33:02,0.0,0.75
+1156973234807590913,92faaea887ed8253c3b2f4bf83ee7b1a,MeToo,bankrupt|community organizer|country|metoo|sexist,446,361,2019-08-01T19:01:29,0.25,0.25
+1157095979805478912,db23b1feec5b1dc4649d2e5ad87132ab,GreatReads|Kindle|LitFict|MeToo,kindle|metoo,53,81,2019-08-02T03:09:14,0.0,0.0
+1158022818715643904,435f914bb3e2444b5b035d6e4bc9efcc,feminism|metoo,feminism|metoo,0,0,2019-08-04T16:32:09,0.0,0.25
+1159453799804805122,339add2be42e46c5061f60422af68beb,MeToo,metoo|twitter,12,5,2019-08-08T15:18:22,0.0,0.0
+1161301619616731136,f09412114b0da62f82a16a676778198f,MeToo,hillary clinton|lisa bloom|metoo|rape,21,22,2019-08-13T17:40:56,0.25,0.75
+1162029591197827078,7a15d565d217ad3be362dd80b1f7431d,MeToo|TheyAllKnew,dems|metoo|predator,0,0,2019-08-15T17:53:38,0.25,0.75
+1163410137958277125,b147cef5eb1cdcb14ce1824c67b63682,MeToo|MediaBias|feminism|sexualharassment|sexuality|socialmedia|wokeness,caitlin flanagan|feminism|metoo,0,0,2019-08-19T13:19:26,0.0,0.25
+1165287827900456961,acaf60c63ecdc4068ce9c94124325ef0,MeToo,metoo|native american,4,8,2019-08-24T17:40:42,0.0,0.0
+1166331020330725376,1883c25eccf72410fb6c5135e720f65f,AntiELAB|HK|HongKong|HongKongProtests|Metoo|ProtestToo,hongkong|metoo|pic|sexual abuse,16,9,2019-08-27T14:45:59,0.0,0.75
+1166631780662816768,40b0165992c508339b5053c63ae02629,MeToo,metoo|placido domingo,0,1,2019-08-28T10:41:06,0.0,0.0
+1166757778708238336,62d0b7641b101cf8d17cc00349bd60d5,MeToo,bish|bs i|metoo|soye,85,23,2019-08-28T19:01:46,0.0,0.75
+1167852333721481216,2eb4abb2a2c51a2fbb533e2572c0a1eb,HongKong|HongKongProtests|chinazi|metoo,hongkong|hongkongers|humanitarian crisis|metoo|potus,0,0,2019-08-31T19:31:08,0.5,0.0
+1156966298716426241,d783c0a06c569a88b483c29834677a4b,MeTOO,metoo,0,0,2019-08-01T18:33:55,0.0,0.25
+1157284644754038784,01c0fc7fbee45c67da421d1463afade7,MeToo,metoo,39,48,2019-08-02T15:38:55,0.5,0.75
+1157549504087957504,b2af0fcf4531bd9a271c1eb4ed2b1980,metoo,metoo,0,0,2019-08-03T09:11:22,0.0,0.5
+1159127613039886338,7074df16fdc605e019a9bd990a2403a3,MeToo,metoo|ptsd,597,220,2019-08-07T17:42:13,0.0,0.75
+1160405461390233600,ccee30f1259207180abb851d137eb464,MeToo,metoo,444,24,2019-08-11T06:19:55,0.25,0.0
+1162712628411678720,8960d680d3cfa85879dec3e37cf21965,AMJoy|CNN|MAGA|Maddow|MeToo|SaturdayMorning,alyssa milano|cnn|don lemon|metoo,17,14,2019-08-17T15:07:47,0.0,0.5
+1163090455384346624,3daf06123236d6c303c13d40724a860a,MeToo,jodha akbar|metoo|vj,3,2,2019-08-18T16:09:08,0.5,0.0
+1164422823286362112,7db1e0498c472def7232d41a82fc4898,MeToo|VentureCapital|dinosaurs,metoo|vc,0,0,2019-08-22T08:23:29,0.0,0.5
+1164884641330782208,246561378b4c84d10adf1314a9e74cac,MeToo|Metooindia,metoo|mj akbar,0,0,2019-08-23T14:58:35,0.25,0.5
+1166678122768388097,1712be98c16b0c06f2ba199439d27845,MeToo|antiEALB,charter garden|metoo,23,19,2019-08-28T13:45:14,0.0,0.75
+1166707289425735681,c54dbd24f87e9524af30901dca740925,MeToo,alan dershowitz|jeffrey epstein|lawyer|metoo movement|pedophile|virginia,4,5,2019-08-28T15:41:08,0.0,0.5
+1166754021668982785,ed7b1a7082d5cd4ea45c673f36ad65c5,FireLemonNow|LiberalHypocrisy|LiberalismIsAMentalDisorder|MeToo,cnn|don lemon|metoo movement,0,0,2019-08-28T18:46:50,0.25,0.75
+1159088185978314753,775054ff61a1580fe08584e284cf818d,MeToo,metoo,9,2,2019-08-07T15:05:33,0.25,0.0
+1159116874883448832,7074df16fdc605e019a9bd990a2403a3,MeToo,metoo|my boss,66,110,2019-08-07T16:59:32,0.5,0.75
+1159253431715913728,df48fc61848504c15be5adcb82302f0e,ArtistsUnited|SAGAFTRA|ShameOnYou|TimesUp|metoo,dehumanizing|metoo|thr,0,0,2019-08-08T02:02:10,0.25,0.5
+1161399257250893824,25ed46c9a032442bf4587046d04d54d2,BelieveAllWomen|GreatAwakening|Karma|MeToo,innocent until proven guilty|karma|metoo|rule of law,1,2,2019-08-14T00:08:55,0.25,0.75
+1161480825210318848,df164d0fb281e79095e2e05a0cbf513a,Metoo,hollywood|metoo|pedophile,0,0,2019-08-14T05:33:02,0.25,0.75
+1164652513557172224,61a0dd80722951df5dd118efd7d27653,MeToo|TuckFrump,harvey weinstein|indictment|metoo|rawstory|sexual assault,5,3,2019-08-22T23:36:12,0.0,0.5
+1164684214790287360,6ab11b5b38b8cef54ecaff99ac588069,Epstein|ImWithHim|MeToo,bill clinton|metoo|woody allen,0,1,2019-08-23T01:42:10,0.25,0.75
+1164883915276005377,4bd71564b30e87dcc0b451dd5091f87a,HongKongPolice|MeToo,metoo,1,1,2019-08-23T14:55:42,0.0,0.5
+1166504314853920768,b888e457b85c0dd6b80e16f6f4b64150,Catcalling|Creeper|Harrassment|MeToo|SexualHarrassment|StreetHarrassment,metoo,5,4,2019-08-28T02:14:35,0.25,0.5
+1167128708890714113,d41eb58b6552d951af523ae7e608ea5b,MeToo,alan dershowitz|ehud barak|ghislaine maxwell|jeffrey epstein|metoo,3,1,2019-08-29T19:35:43,0.25,0.75
+1157000421984129024,5a7b86571f23f0e3ce20a0e23add47e7,MeToo,metoo,3,2,2019-08-01T20:49:31,0.25,0.0
+1157065664495927296,39ddc03ae54bd87d04c99ae313c99a82,AidToo|MeToo,metoo,4,5,2019-08-02T01:08:46,0.0,0.5
+1157109978794287104,6f4672c8598fb3577bfbdd3a7b2ab1ef,MeToo,metoo|youtube,0,0,2019-08-02T04:04:51,0.0,0.0
+1158787222038044680,4a767b8a9ce4d6a66c84545b7504718f,Metoo|NKPReview,metoo|tamil,0,1,2019-08-06T19:09:37,0.25,0.0
+1158960698656874496,9f9954c668dc9a66467b78c4ed6045b4,ACTOR|EnoughIsEnough|LifeInDanger|MondayMotivation|SagAftra|WhiteSupremacistInChief|alpha|fbi|gay|gayrt|master|metoo|mondaythoughts|nypd,fbi|metoo|ny1|nypd|pantera,0,0,2019-08-07T06:38:57,0.0,0.25
+1159129146070654979,b7a50d817b2ade4ffdf92ac808c6ac98,MeToo,jallow|metoo movement|the gambia,0,0,2019-08-07T17:48:18,0.0,0.0
+1159261367679029248,0666d3337b33ef87e3a1105802f9df4c,metoo,metoo,442,120,2019-08-08T02:33:42,0.0,0.75
+1161323810479460352,300a1a224385acfb318149b6498f746d,HowToMakeADifference|MarchForOurLives|MeToo,metoo,49,23,2019-08-13T19:09:07,0.0,0.0
+1161342114938011653,add7c31affb3d59a60ad81a14008a640,MeToo|TheLoudestVoice|currentevents|empowered|news|watch|woman,metoo|showtime,21,14,2019-08-13T20:21:51,0.75,0.5
+1161736669369757696,f99942bcf955930b808c10949550cb73,MeToo,metoo movement,0,0,2019-08-14T22:29:40,0.25,0.5
+1162067159566245888,225ca0b6a7b9d147a9536c1c7c359501,MeToo,kudos|metoo|protocol i,0,0,2019-08-15T20:22:55,0.5,0.0
+1164384109860466689,62f967b736664e18e524c21b43f3ecf6,MeToo,charlie rose|daniel zwerdling|garrison keillor|matt lauer|metoo|roger ailes|tom ashbrook,0,0,2019-08-22T05:49:39,0.0,0.75
+1164520841725599746,1afe50f6e71d1e25fa93a63b89ecfa06,HOLLYWOOD|HarveyWeinstein|MeToo|SAGAFTRA|TimesUp|VoteThemOut,hollywood|metoo,1,2,2019-08-22T14:52:59,0.0,0.5
+1166069972625346560,f268410856b84ddede8378290a309b33,metoo,metoo,0,0,2019-08-26T21:28:40,0.25,0.5
+1166841292799635456,d2da99c84b69bb099dd895aae18a966f,MeToo,blackmail|gender identity|metoo|twitter,56,28,2019-08-29T00:33:37,0.5,0.5
+1167128041673220096,e7b68e0bd55d8b69f4fad158d99c1bc5,Freefromhijab|MeToo,female empowerment|feminist|hijab|islamic law|metoo|prostitution,82,80,2019-08-29T19:33:03,0.0,0.75
+1167152519656562688,94ef58242a64b97c06e07267b3db70c1,EU|ForcedHijab|GenderApartheid|MeToo|WalkingUnveiled|WhiteWednesdays|politicians,metoo movement,118,68,2019-08-29T21:10:19,0.0,0.25
+1156866921456967681,154c7bdfdac5cf58912a1efe1a223549,MeToo,,3,2,2019-08-01T11:59:02,0.0,0.25
+1157290743494348800,e7b68e0bd55d8b69f4fad158d99c1bc5,MeToo,folly|hypocrisy|metoo,30,51,2019-08-02T16:03:09,0.0,0.5
+1159150673763561472,ff21fd168191a4b562cd570326ffb240,metoo,metoo,48,13,2019-08-07T19:13:51,0.0,0.0
+1160100634953228288,214f5da7707dd5840fc8dc450d94bf86,metoo,metoo|mindfulness,0,0,2019-08-10T10:08:39,0.0,0.0
+1161178654992474112,e290387098a7a3250333503fbd494b27,MeToo,liberal elite|metoo movement,0,0,2019-08-13T09:32:19,0.0,0.0
+1161824376481861633,44563a5d56ada7c4261caf67449d6a61,BLM|BirtherInChief|CorpMedia|DACA|Humanity|Idiocracy|MeToo|MegaBanks|NoDAPL|Occupy|Oligarchs|SDF|Union,christians|daca|idiocracy|metoo|nodapl|turkish president,0,0,2019-08-15T04:18:11,0.0,0.75
+1157738910484697093,8fecc053d044787969cc7e8e4b85bdaa,MeToo|NoKamalaDidNot,metoo|willie brown,0,0,2019-08-03T21:44:00,0.0,0.0
+1159374252614848512,de5e21550873e431efc8d198ea39c535,MeToo|Sabroso,metoo|rape|trigger warning,2,3,2019-08-08T10:02:16,0.25,0.75
+1160000642754068480,f6c6b547a31e0f3a9de2ad4444090de4,metoo,metoo,0,0,2019-08-10T03:31:19,0.0,0.0
+1160942238832177152,d5d1c5444a63c155d6e3515ae7da98cd,MeToo,alyssa milano|metoo,0,0,2019-08-12T17:52:53,0.0,0.75
+1163687072009543680,5cd39d46ab92721f33df1633042ed46c,MeToo|video,livestream|metoo|risso|sexual assault|youtube,1,1,2019-08-20T07:39:52,0.0,0.5
+1164384743225536512,45ad1011a5b385c21b46dee3657d0f0e,metoo,metoo,0,0,2019-08-22T05:52:10,0.0,0.25
+1164686846363918336,2f483b96e6cc894a7be9d176a6227b5e,MeToo,lol|metoo,0,0,2019-08-23T01:52:37,0.5,0.0
+1165232483358654464,d5edc917641350d92924f553acc5c139,metoo,metoo movement|nick carter,0,0,2019-08-24T14:00:47,0.25,0.25
+1165234758357540864,c1a0547e0ce78942783ca8261ca116c8,metoo,metoo,61,14,2019-08-24T14:09:50,0.0,0.5
+1166037553029365763,5013ec03c12565302f40d6374219f094,HongKongPolice|MeToo|PoliceBrutality|harassment,metoo,0,1,2019-08-26T19:19:51,0.0,0.5
+1166716409612775425,8960d680d3cfa85879dec3e37cf21965,MAGA|Maddow|MeToo|MeTooFrauds|MorningJoe|WednesdayWisdom,hillary clinton|metoo|sexual misconduct,53,73,2019-08-28T16:17:23,0.0,0.0
+1156794575522017280,af1323517c04b50f7adbcd250a4143cf,Trump|metoo,counterterrorism|intel|metoo|navy seal|tx,0,0,2019-08-01T07:11:33,0.25,0.75
+1157757289929093120,a0d107045675844ebeca3c06a4f83d71,metoo|survivortough,asia argento|metoo|trigger warning|twitter,0,0,2019-08-03T22:57:02,0.25,0.0
+1158889795403128837,5916fded75dd7048f3f7af9a970b28f2,MeToo,metoo movement|monica lewinsky,93,20,2019-08-07T01:57:13,0.25,0.5
+1159008658526806016,96c2840da8393e46068b85480b890ade,MenToo|metoo,genitals|metoo|sexual abuse,7,2,2019-08-07T09:49:32,0.0,0.75
+1161248108002664449,b4afdc1ed79bfe6c5d4b4c9ddc531500,MeToo,metoo|title ix,43,22,2019-08-13T14:08:18,0.0,0.75
+1161703089771913216,2d1811d33a97641e92df64a81600c364,GreatReads|LitFict|MeToo,metoo,0,0,2019-08-14T20:16:14,0.0,0.0
+1162080006706749442,11da253ad5aa0dafd7ff352a78495302,MeToo|MeTooSTEM,metoo,0,0,2019-08-15T21:13:58,0.0,0.0
+1164115873834995712,56bd91c02e2744952ac31d141e307568,AntiExtraditionBill|FreedomHK|GlobalConnect|GlobeConnect|HongKong|HongKongPolice|HongKongProtests|HongKongers|antiELAB|democracy|metoo|shameonhkpolice,cnn|hongkong|hongkongers|metoo|sexual abuse,2,2,2019-08-21T12:03:47,0.0,0.75
+1164306947413118976,30bb014e5b15dd9fc656d307c2ac78af,MeToo|QueenSugarTalks,metoo,107,26,2019-08-22T00:43:02,0.0,0.0
+1165936464443478017,8df04ea820d86c8d53d901c90449b313,FreeHongKong|HKpolice|HongKong|HongKongextraditionbill|PrayForHongKong|StandWithHongKong|Standwithhk|hongkongpolice|ippc|metoo,hongkong|metoo,46,35,2019-08-26T12:38:09,0.25,0.0
+1166058564110213120,dd142d288d4249fe58aa3597a187c430,MeToo,metoo movement|your decision,0,0,2019-08-26T20:43:20,0.0,0.0
+1167145484420616193,443f2367420d8d5496578dec64f4486c,MeToo,metoo|my truth,0,0,2019-08-29T20:42:22,0.25,0.75
+1157279835519168514,8fc6d6318c3e6c1f0aca694e508f30de,AfterMeToo|Justice|MeToo|SexualAssault,metoo,0,0,2019-08-02T15:19:48,0.25,0.0
+1157790297365078016,2f4d0d04f3d5a86b7722b654fd4cd2f5,metoo,ceo|metoo campaign|net worth,309,81,2019-08-04T01:08:12,0.5,0.75
+1158178871998476288,3e700748712c904767bad6c7b162c783,MeToo,metoo movement,0,0,2019-08-05T02:52:15,0.0,0.0
+1159120040240865280,f54e8d9ff6cdbc7420e4cc9ce57ae51b,MeToo,metoo,0,0,2019-08-07T17:12:07,0.25,0.5
+1159576837959430145,fde6a18f0aa11561b07be23a164306a0,MeToo,metoo|new york city|women s movement,7,3,2019-08-08T23:27:16,0.0,0.0
+1160356336510623744,e704cf5f6bc98de3c5d6529c3eda3a08,AliceDay|Antifa|AntifaTerrorists|Clinton|ClintonCrimeFamily|Clintons|Epstein|Gruenen|MeToo|Nambla|PraktikantenSex|SPD|SexState|Virgins|WARNING|childsex|socialdemocrats,antifa|billy boy|metoo|nambla|pedophiles|spd|virgin islands,0,0,2019-08-11T03:04:43,0.0,0.0
+1160610342596153344,eedc190ec9b38f6452a7631ac49be41a,MeToo,geena davis|metoo,2,1,2019-08-11T19:54:03,0.0,0.0
+1161032961631903745,55f1bd082cc92f1759ee699a0350dbdd,metoo,metoo,0,0,2019-08-12T23:53:23,0.25,0.5
+1161264406619131910,0a3700e3ab540e4ac2fdcb37fc40f6fd,Article|AuthorPromo|FF|MeToo|Philosophy|Recommended|Review|StandWithIsrael|currentaffairs|humanrignts|mustread|religions|representation|research,metoo|philosophy,8,4,2019-08-13T15:13:04,0.5,0.0
+1163476152129921024,a85b87db0d8d85b3c19896fe4b2d5ee6,MeToo,metoo|reasonable doubt,0,0,2019-08-19T17:41:45,0.25,0.25
+1164271133656358912,a8cdfc536edc16fe07fd86f88d06ea1f,MeToo,metoo|pop culture,3,2,2019-08-21T22:20:44,0.0,0.5
+1166748809508077571,b5f66e0a4d54c31a3f3f5407aef769b6,Genderequality|MeToo|VeniceSoMale,metoo|sexist,7,4,2019-08-28T18:26:07,0.0,0.75
+1167409465525768192,435f914bb3e2444b5b035d6e4bc9efcc,feminism|metoo,conflict management|feminism|metoo,0,0,2019-08-30T14:11:20,0.0,0.0
+1157212886026149888,2205393acbc5e46635d0ef2e3269193f,MeToo,metoo,0,0,2019-08-02T10:53:46,0.0,0.0
+1157586288129785859,ed5febf4327c7e2b2e14836436b7b2a9,metoo|worklifeindia,legal daily|metoo|think tank,0,0,2019-08-03T11:37:32,0.0,0.0
+1158790158352900098,db6ed90f0729680e9c43faff24ecf091,istandwithvic|metoo,con|funimation|metoo,5,3,2019-08-06T19:21:17,0.0,0.0
+1159042265253330945,8aeb4c09d6f256af9bba9e80eec7ca1d,MeToo,metoo|universal credit,0,0,2019-08-07T12:03:04,0.0,0.0
+1160070175951134721,6b6d1a7e08a63da56f9fbffa71d0e8de,MeToo,labour|lily madigan|metoo|trans woman,0,0,2019-08-10T08:07:37,0.0,0.5
+1161230121459695616,a383640cb32080ff86660c1cf63c6bcd,MeToo,metoo|open secret|sexually harass,3,5,2019-08-13T12:56:50,0.0,0.75
+1162738780333367296,72d2f731da9acc5dbcdb695b419ea920,MeToo,blackmail|potus,7,3,2019-08-17T16:51:42,0.5,0.5
+1163305740930600960,249fc75917a694b36b765c7c1fa31332,MeToo|WHD2019|WOMAN|WomenHumanitarians|humanitarians,metoo,126,39,2019-08-19T06:24:36,0.25,0.25
+1164872469850853376,775712d5e221afdeff4af74f204f57b7,Book|KaceyKells|Kellcey|metoo,kells|metoo,33,61,2019-08-23T14:10:13,0.5,0.5
+1165823503171375104,e835844ad2bbfcf5e5e5f0c83dfd8de5,IARTG|PTSD|SexualAssault|awardwinning|childabusesurvivor|domesticviolence|endchildabuse|indieauthor|indiebooksbeseen|kindleunlimited|metoo|silentnomore|stopchildsexualabuse,metoo|ptsd,0,1,2019-08-26T05:09:17,0.0,0.0
+1166454632664764419,dceab679f03442ba25fe9e76422b6035,EpsteinSuicideCoverUp|JeffEpstein|MeToo|Philadelphia|Trump|WomensHealth|sexualharassment|women,metoo|philadelphia|starz|this is happening|worc,2,2,2019-08-27T22:57:10,0.25,0.0
+1166691440577015808,2ac65a122d6e8dc0fcbfb11c99f816bb,MeToo,central hong kong|metoo,69,51,2019-08-28T14:38:10,0.0,0.5
+1166703748724314113,b3f602958a81c89dfeb46c20a6608beb,MeToo|ProtestToo,metoo|sexual violence,0,0,2019-08-28T15:27:04,0.5,0.0
+1167069726930960384,acce651a52a664f45a514c15efedb682,Metoo|metoo,chater garden|hong kong|metoo|sexual violence,0,0,2019-08-29T15:41:20,0.0,0.25
+1167559435214041090,8e4c53701b4b0e7f01260664f8e136cd,MeToo,metoo,1,1,2019-08-31T00:07:16,0.0,0.0
+1159945789424189440,2fac317231088af96d9f7083669bf2e9,Metoo,judd|metoo,64,71,2019-08-09T23:53:21,0.0,0.75
+1160304444573175810,fe5dbd7c9e8e042deb31dc5a243072e9,Epstien|MeToo,halsey|metoo|rihanna|rock|soul,0,0,2019-08-10T23:38:31,0.5,0.0
+1161173718305054720,0d0b7e271d03fbeafec01cf32d2a251a,MeToo,melanie martinez|metoo,0,0,2019-08-13T09:12:42,0.25,0.5
+1161891773591052288,98168692f067f7c53499cd0e2114efa1,MeToo|TimesUp|menaretrash,man work|metoo,3,2,2019-08-15T08:46:00,0.25,0.0
+1162061951461203969,78d4724f4b2d478812e0348a45619abf,cdnpoli|groper|hypocrite|lavscam|metoo,liberal party|metoo,0,1,2019-08-15T20:02:13,0.0,0.0
+1162088977257652224,a38e545ff4a66ee09923788309b9f681,HimToo|MeToo,metoo|stinky fingers,88,47,2019-08-15T21:49:37,0.25,0.5
+1162287884042416129,1c676da18e38344e79e8866a81a7f469,Epstein|MeToo,bill cosby|jeffrey epstein|metoo movement,0,1,2019-08-16T11:00:00,0.0,0.0
+1163458187904868353,d0573600ae1108e04c17bb1b87ee0de2,MeToo,metoo,0,0,2019-08-19T16:30:22,0.0,0.0
+1163710122956341248,24a6506a483e5b0f7bddaedbad1beb46,MeToo,bollywood|metoo movement,0,0,2019-08-20T09:11:28,0.25,0.0
+1165332513306398720,da40191b68b6b9c11b56545c3399e235,MeToo,metoo,0,0,2019-08-24T20:38:16,0.0,0.5
+1166748022484557824,f18044939cd5d3d6460aac67728508a4,Chinazi|DemocracyForHK|FreeHongKong|MeToo|ProtestToo,hongkong|metoo,66,54,2019-08-28T18:23:00,0.25,0.75
+1167517519206182912,2789af75752c2c3daac14762265b820a,MeToo,chain of custody|metoo,60,39,2019-08-30T21:20:42,0.0,0.75
+1157372848383639553,34b2243467a302ea0963d3d507596c6f,AliZafar|FirdousJamal|Mominaduraid|metoo|supportFirdousJamal,metoo|whwn,0,0,2019-08-02T21:29:24,0.75,0.5
+1158286028056276992,6e829d1ed8f233606dac86efac76479c,MeToo|TimesUp,metoo,0,0,2019-08-05T09:58:03,0.5,0.0
+1158827017791561729,99a3dc731b638edb6d88e1574066e698,YouTube|censorship|dictatorship|metoo|trump,censorship|i m not alone|metoo|youtube,0,0,2019-08-06T21:47:45,0.0,0.0
+1161365365655580672,9bf079b0fa0a06d8942b3385b9a83596,MeToo,dave smith|exec|hot 107 9|metoo|sexual harassment|shorty mack,2,6,2019-08-13T21:54:14,0.0,0.5
+1162151653606383617,3f2279a8d1ee975eaa5a9a7548842638,MeToo,brett kavanaugh|crickets|don lemon|metoo,30,35,2019-08-16T01:58:40,0.25,0.0
+1163560897262030848,2aefa6ab3c3df386c92349cb98080d21,MatthewModine|MeToo|MembershipFirst|SAGAFTRA,matthew modine|metoo,26,26,2019-08-19T23:18:30,0.25,0.0
+1163924401554898944,7f74d1cd60cd2b52e4990bfe5bb76cfe,metoo,metoo,0,0,2019-08-20T23:22:56,0.0,0.0
+1165871718436499456,7349706aedbbe3284da2893a32eda086,HongKongProtests|metoo,chater garden|metoo|sexual violence,72,54,2019-08-26T08:20:53,0.0,0.0
+1166613760234139648,c9653afe5359d656faf366b0e9ffc8bf,MeToo,cm|in2|metoo|sexual harassment|swami chinmayananda,25,12,2019-08-28T09:29:29,0.0,0.5
+1166709651733266439,f264cf933aa4d491662774763d5b7fca,HongKong|MeToo,hong kong government|hongkong|metoo|pic,6,8,2019-08-28T15:50:32,0.0,0.75
+1166757606456606720,c78440cf97bde4ec6f352bcf873f229c,MeToo,metoo|sexual harassment,18,7,2019-08-28T19:01:05,0.5,0.75
+1166779701148303360,d134a23cc125cda6b14b97969395aaef,ProtestToo|StandWithHongKong|hkpolicebrutality|metoo,hong kong police|metoo|sexual violence,5,7,2019-08-28T20:28:53,0.25,0.0
+1167103857131806720,2d1811d33a97641e92df64a81600c364,GreatReads|MeToo|TatteredCover|WomensFiction,denver|matt zane|metoo,15,23,2019-08-29T17:56:57,0.0,0.0
+1167108655575130114,a93f542d993184735b2795938ead0664,MeToo,anti abortion|metoo movement|misogyny|pro life movement|women in positions of power,2,3,2019-08-29T18:16:01,0.0,0.0
+1167492786641227776,9ac2191289111415009d9becb316595a,metoo,metoo|predator,69,12,2019-08-30T19:42:25,0.0,0.75
+1167917729854021632,e61b1f20e7fcfee1ff79e7b58a05c6e6,MeToo,metoo,1,1,2019-08-31T23:51:00,0.0,0.25
+1157996703762518018,4a63085dbefc9dd8307c42a91e4d5854,MeToo,got your back|metoo,16,8,2019-08-04T14:48:23,0.0,0.0
+1159117799467433984,7074df16fdc605e019a9bd990a2403a3,MeToo,metoo|terminally ill,30,35,2019-08-07T17:03:13,0.5,0.75
+1159549599893209088,7f65a00092a250332ffbb483047298f5,MeToo|PaidPimp,metoo,0,0,2019-08-08T21:39:02,0.25,0.0
+1160238006684532740,e6428faf25817e1665260563e8ee10a1,DontLookAway|Epstein|MeToo,metoo,22,18,2019-08-10T19:14:31,0.0,0.5
+1161082399888945152,e70c2f405e4979e74c14d34be6d9dd5d,MeToo,metoo,0,0,2019-08-13T03:09:50,0.25,0.0
+1162179296347115520,8b4f53e2a61293c0e6312ec5fdd6302a,TooHung|bbc|bigcock|bulge|enorme|gay|horny|metoo|straight,bbc|metoo,34,7,2019-08-16T03:48:31,0.0,0.25
+1162895408764313600,86ab5cb2db240bafa46af67846f4a056,Amazon|MeToo|News|Review,erin moriarty|metoo|superhero,0,0,2019-08-18T03:14:05,0.5,0.0
+1164484093691736064,448b11a37daad531f471174e090b02d9,MeToo,metoo|perps,0,0,2019-08-22T12:26:57,0.0,0.0
+1164567773864845312,335e22444aa026ed104da4ac8aaa3eba,MeToo|NowWhat,child sexual abuse|metoo movement,5,4,2019-08-22T17:59:28,0.0,0.75
+1166165324007391234,b9b32a7b78a60d6cddf75b9c05f4408b,metoo|sbc,metoo|sexual abuse|the washington post,42,11,2019-08-27T03:47:34,0.25,0.75
+1158725255562715136,cff6aca7daa39b5b8fc0ac71baa2d392,MeToo|TimesUp,metoo|weinstein effect|woman on the run,0,0,2019-08-06T15:03:23,0.5,0.5
+1159755172924592128,66703dd29d3cfbf6b07fdd5ea394acd8,GE|MeToo,fbi|metoo|seema|whistleblower,0,1,2019-08-09T11:15:55,0.5,0.5
+1162028710389788677,8a8231e35153b521a99521526fad5336,AbuseTalk|Bible|BibleStudy|ChristianPrivilege|ChurchToo|MalePrivilege|MeToo|bibleverse|consent|faith,litmus test|metoo|rape,0,0,2019-08-15T17:50:08,0.25,0.75
+1162170956707766273,66702c7d4f227b8b14707adf49b12250,Kellcey|MeToo,metoo,0,5,2019-08-16T03:15:22,0.5,0.0
+1163718560155230209,a9d0c65b511e4b33d66817970af8fcf2,MeToo|UsToo|auslaw,bullying|metoo|sexual harassment,5,5,2019-08-20T09:45:00,0.0,0.5
+1158521906502311938,cca0f5bc12409bb31b232ff545c2040a,MeToo,beryl howell|metoo,2,2,2019-08-06T01:35:21,0.0,0.25
+1159605069546999813,44b64b2fd5c8914447f0a76a3890dee3,metoo,metoo,0,0,2019-08-09T01:19:27,0.0,0.0
+1160267643938623490,911a2d5c1fd762f1087ae6628c434b04,metoo,lawyer,24,16,2019-08-10T21:12:17,0.0,0.25
+1161365859278999557,60e0fa967202d9aa91428ad057df8e92,MeTooAtCheltenhamRaces|Metoo,metoo|sexual violence,1,1,2019-08-13T21:56:12,0.0,0.25
+1162337672792330242,241e2472cd3fd31a6fe8659a12a5e1f5,Kavanaugh|MeToo,cnn|dems|metoo|over here,2,4,2019-08-16T14:17:51,0.25,0.75
+1164829058422587394,d411d3823ec68ab574a8645bfa0dad35,HumanRights|PoliceBrutality|StandwithHK|freehk|metoo,metoo,0,0,2019-08-23T11:17:43,0.0,0.0
+1164907388429852672,1e83c7055bdf9e7974bfef9c037c8cd3,BillClinton|Democrat|Democrats|HarveyWeinstein|JeffreyEpstien|MeToo|WalkAway,abc|democrat|jeffrey epstein|metoo|walkaway,2,1,2019-08-23T16:28:58,0.25,0.75
+1165149553584009217,9944832ac3aee20d30cbde75985ef4e2,BoycottChina|BoycottMulan|FreeHongKong|HongKongPolice|HongKongProtests|Hongkong|Hongkongprotest|NoChinaExtradition|StandWithHongKong|antiEALB|metoo|sexualabuse,hongkong|metoo,0,0,2019-08-24T08:31:15,0.25,0.0
+1166657431843115008,5fd64e4bc20d7afc43b3e20f8f57fbd5,MeToo|ProtestToo,chater garden|metoo|sexual violence,7,2,2019-08-28T12:23:01,0.0,0.0
+1166700451468759040,d8b08c3045231e128695488d2e7420f5,FollowBackHongKong|MeToo|hkpolicebrutality,metoo|sexual violence,10,17,2019-08-28T15:13:58,0.0,0.0
+1167215072264867841,026c1aa2ba6c5bc2d61f0eade6d635a8,metoo,metoo,125,4,2019-08-30T01:18:53,0.25,0.5
+1167350821979402241,3a2f6da399970017421826c53e375a1c,MeToo,metoo,120,21,2019-08-30T10:18:18,0.5,0.0
+1161801574391222273,afe2ddcd1195826ce7b6ac6bf16bc8bf,decency|feminism|justice|men|metoo|women,feminism|metoo,1,1,2019-08-15T02:47:35,0.0,0.0
+1162415259681873921,2d1811d33a97641e92df64a81600c364,GreatReads|MeToo|TatteredCover|WomensFiction,denver|matt zane|metoo,2,8,2019-08-16T19:26:09,0.0,0.0
+1163291613856063488,fc16cabd47f8cd714ce91b4206907333,MeToo|auslaw|legal,metoo|personal boundaries,4,1,2019-08-19T05:28:28,0.25,0.0
+1164854308128600064,cc0365970abbf227f434a0c7ddbf35ff,metoo,metoo,0,0,2019-08-23T12:58:03,0.25,0.0
+1165107854488956928,03dd8fadd278d05ec199323e3a13d4a7,StandwithHK|metoo|standwithher,hongkong|metoo|this is happening,4,4,2019-08-24T05:45:33,0.25,0.0
+1165646662485860355,21895afbe31228cbe4a2efdcb4404f22,MeToo,emoji|metoo,0,0,2019-08-25T17:26:35,0.0,0.0
+1165991216472834048,1516b60ad382824ffdeb7ee555640264,HarveyWeinstein|JUST|MeToo|Weinstein,metoo movement,1,1,2019-08-26T16:15:43,0.0,0.0
+1166505452399673351,2a0671ff80bd52654f1a47c4646d7977,Abuse|CPTSD|CSA|ChronicPain|Heal|MeToo|Release|Trauma|Warriors,csa|inner child|metoo|safe space,3,1,2019-08-28T02:19:07,0.25,1.0
+1166511636087263232,47fd19aa17bb5991e1685f293b03b16b,EverythingIsNecessary|metoo|poems,metoo|your movement,0,1,2019-08-28T02:43:41,0.25,0.25
+1167519527359266817,a7efdb9ac181fa41ed3bf5e26d381de2,MeToo,louis ck|metoo,87,17,2019-08-30T21:28:41,0.0,0.0
+1167745821829283841,cf182bed6efdabb078a65eb6c9efd01b,metoo,metoo,0,1,2019-08-31T12:27:54,0.25,0.0
+1156938428510027778,4459bfad1da041e5fcd52a761f3ab4c6,ASMSG|ChildrensBooks|IAN1|IARTG|MeToo|MeTooMovement|PMInc|RPBP|SCBWI|WhenAngelsFly|bookboost|childabuse|educators|kidlit|parents|picturebook,metoo|scbwi,3,2,2019-08-01T16:43:10,0.25,0.25
+1158862904973770753,204e9c54747d229e983e72c84600ffb3,MeToo|TimesUp,amber heard|johnny depp|metoo|tmz,12,9,2019-08-07T00:10:21,0.0,0.0
+1158880929680637959,02e0f8c70984f279c0d3b33526487722,MMIW|MeToo,alexandria ocasio cortez|metoo,8,6,2019-08-07T01:21:59,0.0,0.75
+1158913340766380032,04faeb9d13e9229474239eb942ec51d0,MeToo,b clinton|metoo|sarah paulson,0,0,2019-08-07T03:30:46,0.5,0.0
+1160991596797661186,69512646f33272de6314b6a9c0fee089,MeToo,bill clinton|metoo,0,2,2019-08-12T21:09:01,0.0,0.75
+1161317530360844289,6963da82d5c5649ea77e074f23955069,Metoo,metoo|prostitution|the outrage,9,4,2019-08-13T18:44:10,0.0,0.75
+1166265951484096513,fc866087bd40c52be19cc72fe9593641,HongKongProtests|StandwithHK|chinazi|chinazism|free|metoo,carrie lam|metoo|sexual assault,0,0,2019-08-27T10:27:25,0.0,1.0
+1166964993104982019,e078b60041a6cb632f0ccd6b0c7d8af5,BelieveSurvivors|MeToo|WednesdayWisdom,don t matter|metoo|sexual assault,15,10,2019-08-29T08:45:10,0.0,0.5
+1157256040548904963,901ab7f60a60633e00282ca591dadc1f,MeToo,ceo|metoo movement,487,213,2019-08-02T13:45:15,0.0,0.0
+1157529790850752512,fe91563548d52df26709e8e6183ffc2f,MeToo,metoo|michael jackson|sheryl crow,0,0,2019-08-03T07:53:02,0.0,0.5
+1158163745140563968,765d350e7bbea32c842c2b4e4ae2de5e,MeToo,bill cosby|mental illness|metoo movement,260,27,2019-08-05T01:52:09,0.25,0.0
+1159100514535116805,7074df16fdc605e019a9bd990a2403a3,MeToo,metoo,261,100,2019-08-07T15:54:32,0.0,0.0
+1159457560094814208,9eb9d1104768868aef0461a602c72d18,metoo,metoo|rosanna arquette,0,0,2019-08-08T15:33:18,0.25,0.75
+1159869525640306689,9400257d18bfb3d3fccc27db892f2c22,MeToo,afton williamson|hollywood|metoo movement,49,22,2019-08-09T18:50:18,0.0,0.5
+1161513312858923008,eaf5ec63c3c194b286aeb8cfe6c0b5e8,Brexit|Metoo|Metooindia|WednesdayWisdom|ajapao,brexit|katy perry|male model|metoo|sexual misconduct,7,6,2019-08-14T07:42:08,0.0,0.75
+1162389762864549893,a6bca43b26a9677c54b5d210d1d606fe,ColinKaepernick|metoo,metoo|rape,5,8,2019-08-16T17:44:50,0.25,0.75
+1163957663845232640,43489b5de3958216d49cbd720bca13ba,MeToo|MyChildTooAbusedByPowerfulPedophilePsychopaths,divide and rule|metoo|philanthropist|psychopath|sheeple,3,5,2019-08-21T01:35:07,0.0,0.0
+1164585876850126848,45ad1011a5b385c21b46dee3657d0f0e,metoo,matthew mckay|metoo|ugborough,0,0,2019-08-22T19:11:24,0.0,0.0
+1165057417303846912,8b3a00595e39e1be6af34bd0cc8279b7,AllLivesMatter|Disrupt|FBR|ImpeachTrumpNow|LockHimUp|MarchForOurLives|MeToo|Occupy|Resist|Resistance|SteamingPileOfTrump|VeteransAgainstTrump|VeteransResist,metoo|pennsylvania avenue nw|washington dc,0,0,2019-08-24T02:25:08,0.0,0.0
+1165474456963145730,95474f20e1a4cea75a531672a44b4b01,AntiELAB|Asia|ChiNazi|FreedomHongKong|MeToo|NoExtradictionToChina|PoliceBrutality|SexualHumiliation|StandWithHongKong,metoo,0,0,2019-08-25T06:02:18,0.5,0.0
+1165989049280151552,be1dd4069ababe8fdb8cd66b3d00bd67,MeToo,metoo,3,2,2019-08-26T16:07:07,0.0,0.5
+1166391914406375432,9af63b1bef729baf75286a523dbac1e6,MeToo,chamber of commerce|dems|germantown|illegal alien|metoo|montgomery county md|my family|open borders,1806,1073,2019-08-27T18:47:57,0.5,0.75
+1166953330792456193,303f0b0908fd5b8813c8746863cefdc4,MeToo,metoo movement,0,0,2019-08-29T07:58:49,0.0,0.25
+1156933725864808448,c1532bc2775854ebf5fb162306231ff8,Metoo|TimesUp,metoo|sexual harassment,4,2,2019-08-01T16:24:29,0.0,0.5
+1159551294656397312,5e9a6e65e4b7af6926a66b6a4dc3f051,Brexit|MeToo,brexit|metoo|ptsd,36,13,2019-08-08T21:45:46,0.0,0.0
+1159642179456946182,a6c6e7f6a0da3d5c848e2337aaf5942e,BoycottSouthernCharm|CanHim|Coward|MeToo|Misogynistic|RealityTv|Sexist|ShepRose|WhitePrivileged|homeless,metoo|misogynistic|sexist,12,2,2019-08-09T03:46:55,0.5,0.5
+1161747608584376321,09bbbdf88d6b810e302d376a444ea12d,MeToo,metoo movement,3,1,2019-08-14T23:13:08,0.0,0.0
+1163019691276820480,8e0d07e2a4f8bef3ec4c67aa10880446,MeToo|TimesUp,metoo|social change,56,9,2019-08-18T11:27:56,0.0,0.0
+1163305171306205189,a57d347b0bf69877cb26ff5daa82cabb,MeToo,metoo movement,0,0,2019-08-19T06:22:20,0.25,0.5
+1164325033084411905,ce8f5b2d4a279f3da1110acec48be0a0,MeToo|Metooindia|crime|dating|domesticviolence|lifestyle|rape|sex,best defense|metoo,0,0,2019-08-22T01:54:54,0.25,0.75
+1164595760282984452,6a5161fff8b36d3967fcfc0f48a65108,MeToo|Misogyny|TrumpHatesWomen,metoo|misogyny|msnbc,127,63,2019-08-22T19:50:41,0.0,0.5
+1166229825930973184,c05317e47d314456f5e922c1bea12db9,MeToo,metoo|sexual abuse|what a woman needs,0,0,2019-08-27T08:03:52,0.5,0.75
+1166682752881573888,6a41c1edeff90b6c6e9de0b1fedf3732,metoo|protesttoo,metoo|sexual violence,55,44,2019-08-28T14:03:38,0.0,0.0
+1166730200677322753,e1f6e6d4159ec4b15a9f5a2856381ee0,metoo|metoointhebirthroom,independent|metoo,24,14,2019-08-28T17:12:11,0.0,0.0
+1166739783059685376,f9cc6b105108142ff4e0e472e867f7e6,MeToo,metoo,100,63,2019-08-28T17:50:15,0.0,0.5
+1167168079136059392,f1f01aa54927e70434736b14607766e7,MeToo,china|extradition|metoo,0,0,2019-08-29T22:12:09,0.0,0.75
+1167902556317614084,fd03685086c62b85bc0d7abdca65f67e,MeToo,i can t read|metoo movement,0,0,2019-08-31T22:50:42,0.0,0.75
+1156748844467490821,4d31ebbe174c6a93404babd87bc54567,MeToo|TimesUp,metoo|women s rights,1,2,2019-08-01T04:09:50,0.0,0.0
+1156850300503769088,6cc1fe9af26b8b9abab84d6b0621a32e,Epstein|FuckTrump|IndictTrump|MeToo|NotMyPresident|PedophileTrump|ReSister|ReSisters|Resist|Retweet|StopTrump|Trump|WomensMarch,metoo|pal|pedophile|retweet|roy moore,13,20,2019-08-01T10:52:59,0.0,0.5
+1160227068090568705,59374001b1c4444a90ef5fc826cc1626,ClintonBodyCount|MeToo|NXIVM,child rape|metoo|nxivm,0,0,2019-08-10T18:31:03,0.0,0.75
+1161368379271385088,84d44b60e96f6bd0853dc5e6087da7e7,metoo,metoo,63,17,2019-08-13T22:06:13,0.25,0.75
+1164192611978162181,b13f31299cba4572637be9c110095c05,MeToo,domestic violence|metoo|sexual assault,25,15,2019-08-21T17:08:43,0.25,0.5
+1165472020076871680,416719563690f9f5e73e66d63985d476,METOO|mgtow,lie to me|metoo,0,0,2019-08-25T05:52:37,0.0,0.75
+1166463499012169728,9ea6168cb8bbb8c32a12d97a78023961,metoo|survivingcardib,metoo,0,0,2019-08-27T23:32:24,0.25,0.25
+1157727476807811073,a8851ccac5b58dab8951709d14ebfd5c,MeToo|TimesUp,metoo,0,0,2019-08-03T20:58:34,0.25,0.5
+1158255699811454978,a034518e2f2ae4fbb070572c02cd2ec4,metoo,lone wolf|metoo|moralism|pragmatism,120,23,2019-08-05T07:57:32,0.25,0.75
+1159111616920784897,7074df16fdc605e019a9bd990a2403a3,MeToo,metoo|train driver,212,92,2019-08-07T16:38:39,0.0,0.0
+1159214898636869633,8d11ac1065bdee5cb673f3860da3d64b,MeToo,metoo,0,0,2019-08-07T23:29:03,0.0,0.5
+1160192855144423424,f8e7adf3bd1022ea56f16f58915c5dda,MeToo,metoo|w o,0,0,2019-08-10T16:15:06,0.25,0.0
+1161469261174456321,b50d19f952468cd1f549de2c330cbb1f,MeToo,metoo,3,1,2019-08-14T04:47:05,0.0,0.0
+1161955023858950152,3294ca2865421ab39e02a43c4137b9a3,MeToo,metoo,3,1,2019-08-15T12:57:20,0.0,0.5
+1163852777841287168,9ffd0372fa9eea75ba61ede6484d86c8,metoo,metoo|suhel seth|twitter,21,2,2019-08-20T18:38:20,0.0,0.25
+1164119751528001536,4e45551dfff5dc23b022b9f6a201200f,MeToo,feminist|metoo|shailja patel,76,46,2019-08-21T12:19:11,0.25,0.0
+1166292400756678657,3c9f9b2f15388b3368c4b729d5f23a15,KidsToo|MeToo|PassAB218|Pedowood|VMAs,corey feldman|metoo,0,0,2019-08-27T12:12:31,0.0,0.0
+1166684995727101953,ef2685438ed8a4dfef32d7b7db3d3462,Metoo|TheSquad,metoo movement,27,12,2019-08-28T14:12:33,0.25,0.25
